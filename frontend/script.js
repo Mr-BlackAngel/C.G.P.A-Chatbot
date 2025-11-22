@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 // REPLACE THIS URL AFTER DEPLOYING YOUR BACKEND TO RAILWAY
 // Example: "https://campus-gpt-production.up.railway.app"
-const API_BASE = "http://127.0.0.1:5001"; // Default for local testing
+const API_BASE = "cgpa-chatbot-production.up.railway.app"; // Default for local testing
 
 // --- AUTO-LOGIN LOGIC ---
 document.addEventListener('DOMContentLoaded', () => {
