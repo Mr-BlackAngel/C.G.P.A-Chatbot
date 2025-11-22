@@ -12,8 +12,7 @@ SECTION A: COMPUTER SCIENCE & ENGINEERING (CSE)
 | DSC-7 | Analysis and Design of Algorithms | 4 | 3-0-1 |
 | DSC-8 | Digital System Design | 4 | 3-0-1 |
 | DSC-9 | Database Management Systems | 4 | 3-0-1 |
-| DSE-1 | Elective (OOP / Stats / Web Design / Discrete Structures) | 4 | *Varies* |
-| GE-3 | Generic Elective (from other depts) | 4 | *Varies* |
+| DSE-1 | Elective (Cybersecurity / OOP / Stats / Web Dev) | 4 | 3-0-1 |
 | SEC | Backend Development | 2 | 0-0-4 |
 
 ## SEMESTER 4 STRUCTURE (CSE)
@@ -33,48 +32,62 @@ SECTION A: COMPUTER SCIENCE & ENGINEERING (CSE)
 **Unit 1:** Fundamentals: Time/Space Complexity, Asymptotic Notations (Big O, Theta, Omega).
 **Unit 2:** Divide & Conquer: Merge Sort, Quick Sort, Master Theorem, Matrix Multiplication.
 **Unit 3:** Dynamic Programming & Greedy: Fibonacci, LCS, Knapsack, Activity Selection, Huffman Coding, Prim's/Kruskal's.
-**Unit 4:** Graphs & Advanced: BFS, DFS, Dijkstra, Bellman-Ford, Ford-Fulkerson, NP-Completeness .
+**Unit 4:** Graphs & Advanced: BFS, DFS, Dijkstra, Bellman-Ford, Ford-Fulkerson, NP-Completeness [cite: 5512-5520].
 
 ## Digital System Design (DSC-8)
 **Unit 1:** Logic Fundamentals: Boolean Algebra, K-Maps, Logic Gates, Multiplexers, Decoders.
 **Unit 2:** Sequential Logic: Flip-Flops (SR, D, JK, T), State Diagrams, Counters, Shift Registers.
 **Unit 3:** HDLs: VHDL/Verilog syntax, modeling combinational/sequential circuits.
-**Unit 4:** Advanced Design: Arithmetic Circuits (Adders, ALUs), FSM design, Datapath/Control path.
+**Unit 4:** Advanced Design: Arithmetic Circuits (Adders, ALUs), FSM design, Datapath/Control path [cite: 5548-5557].
 
 ## Database Management Systems (DSC-9)
 **Unit 1:** Intro: Architecture, Data Models, Data Independence.
 **Unit 2:** Modeling: ER Diagrams, Normalization (1NF to 5NF).
 **Unit 3:** SQL: DDL, DML, Joins, Subqueries, Transactions (ACID), Concurrency Control.
-**Unit 4:** Advanced: NoSQL (Key-Value, Document), Big Data basics, Data Warehousing [cite: 4209-4216].
+**Unit 4:** Advanced: NoSQL (Key-Value, Document), Big Data basics, Data Warehousing [cite: 5588-5595].
 
 ## Operating System (DSC-10)
 **Unit 1:** Intro: System calls, Kernel structures (Monolithic/Micro).
 **Unit 2:** Process Mgmt: Scheduling, IPC, Threads, Deadlocks (Prevention/Avoidance), Semaphores.
 **Unit 3:** Memory: Paging, Segmentation, Virtual Memory, Page Replacement.
-**Unit 4:** Storage & Security: File Systems, Disk Scheduling, Authentication, Access Control [cite: 4400-4408].
+**Unit 4:** Storage & Security: File Systems, Disk Scheduling, Authentication, Access Control [cite: 5779-5787].
 
 ## Software Engineering (DSC-11)
 **Unit 1:** SDLC Models: Waterfall, Agile, Spiral, DevOps. Requirements Engineering.
 **Unit 2:** Design: UML (Use Case, Class, Sequence), Design Patterns (MVC, Singleton).
 **Unit 3:** Testing: Unit/Integration/System testing, Black-box vs White-box.
-**Unit 4:** Project Mgmt: Cost Estimation (COCOMO), Risk Mgmt, Version Control [cite: 4434-4441].
+**Unit 4:** Project Mgmt: Cost Estimation (COCOMO), Risk Mgmt, Version Control [cite: 5813-5820].
 
 ## Computer System Architecture (DSC-12)
 **Unit 1:** Basics: Von Neumann, RISC vs CISC, Computer Arithmetic.
 **Unit 2:** Processor: ALU, Control Unit, Pipelining, Superscalar, Cache Mapping.
 **Unit 3:** Memory: RAM types, ROM, RAID, Virtual Memory (TLB).
-**Unit 4:** I/O: DMA, Bus protocols, Interrupts [cite: 4474-4482].
+**Unit 4:** I/O: DMA, Bus protocols, Interrupts [cite: 5853-5861].
 
 ---
-### CSE ELECTIVES (DSE)
-**Object Oriented Programming:** Java/C++, Inheritance, Polymorphism, Exception Handling, Design Patterns.
-**Computational Statistics:** Probability, Random Variables, Regression, Hypothesis Testing (Z/T/Chi-square).
-**Front-End Web Dev:** HTML5, CSS3, JavaScript (ES6), React.js, Responsive Design.
-**Discrete Structures:** Sets, Graph Theory, Combinatorics, Algebraic Structures.
-**Foundations of Data Analysis:** Descriptive Statistics, Regression, Time Series, Python (Pandas/Scikit).
-**Computer Graphics:** 2D/3D Transformations, Rendering, Animation, OpenGL/WebGL .
-**Introduction to IoT:** Arduino/Raspberry Pi, Sensors, Protocols (MQTT/CoAP), Cloud Integration.
-**Optimization Techniques:** Linear Programming (Simplex), Non-linear, Genetic Algorithms .
+### CSE ELECTIVES (DETAILED)
+
+## Fundamentals of Cybersecurity (DSE-1/GE-3)
+**Unit 1:** Core concepts: Confidentiality, Integrity, Availability (CIA), common threats (malware, phishing, DoS), basic cryptography [cite: 6170-6171].
+**Unit 2:** Network security: Firewalls, Intrusion Detection/Prevention Systems (IDS/IPS), VPNs [cite: 6172-6173].
+**Unit 3:** App Security: Security in SDLC, web vulnerabilities (SQL injection, XSS), data protection techniques [cite: 6174-6175].
+**Unit 4:** Response & Frameworks: Incident response processes, NIST and ISO/IEC 27001 frameworks [cite: 6176-6177].
+
+## Probability and Statistics for Computer Science (DSE-1/GE-3)
+**Unit 1:** Probability Theory: Conditional probability, Bayes' theorem, Distributions (Binomial, Poisson, Normal) [cite: 6100-6101].
+**Unit 2:** Random Variables: Joint/Marginal distributions, Central Limit Theorem, Sampling distributions, Hypothesis testing (Z-test, T-test) [cite: 6102-6104].
+**Unit 3:** Statistical Methods: Regression analysis (Linear/Multiple), ANOVA, Non-parametric tests, Time series forecasting [cite: 6105-6106].
+**Unit 4:** Applications: Monte Carlo simulations, Queueing theory (M/M/1), Markov chains, Reliability theory [cite: 6107-6108].
+
+---
+### OTHER CSE ELECTIVES (SUMMARY)
+* **Object Oriented Programming:** Java/C++, Inheritance, Polymorphism, Exception Handling, Design Patterns.
+* **Front-End Web Dev:** HTML5, CSS3, JavaScript (ES6), React.js, Responsive Design.
+* **Discrete Structures:** Sets, Graph Theory, Combinatorics, Algebraic Structures.
+* **Foundations of Data Analysis:** Descriptive Statistics, Regression, Time Series, Python (Pandas/Scikit).
+* **Computer Graphics:** 2D/3D Transformations, Rendering, Animation, OpenGL/WebGL.
+* **Introduction to IoT:** Arduino/Raspberry Pi, Sensors, Protocols (MQTT/CoAP), Cloud Integration.
+* **Optimization Techniques:** Linear Programming (Simplex), Non-linear, Genetic Algorithms.
 
 ================================================================================
 SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
@@ -86,7 +99,7 @@ SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
 | DSC-7 | Electronic Devices and Circuits | 4 | 3-0-1 |
 | DSC-8 | Network Analysis and Synthesis | 4 | 3-0-1 |
 | DSC-9 | Digital Electronics - I | 4 | 3-0-1 |
-| DSE-1 | Elective (Computational Methods / PCB Design) | 4 | 3-0-1 |
+| DSE-1 | Elective (Computational Methods / PCB Design / VLSI) | 4 | 3-0-1 |
 
 ## SEMESTER 4 STRUCTURE (ECE)
 | Code | Course Title | Credits | L-T-P |
@@ -100,47 +113,55 @@ SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
 ### DETAILED SYLLABUS (ECE CORE)
 
 ## Electronic Devices and Circuits (DSC-7)
-**Unit 1:** Diodes: P-N Junction, Zener, LED, Rectifiers, Filters.
-**Unit 2:** Transistors: BJT (CB, CE, CC), FET/MOSFET construction & characteristics.
-**Unit 3:** Biasing: Stability factors, Thermal runaway, Heat sinks.
-**Unit 4:** Amplifiers: h-parameters, Small signal models, High frequency analysis.
+**Unit 1:** Diodes: P-N Junction, Zener, LED, Rectifiers, Filters [cite: 4370-4375].
+**Unit 2:** Transistors: BJT (CB, CE, CC), FET/MOSFET construction & characteristics [cite: 4376-4378].
+**Unit 3:** Biasing: Stability factors, Thermal runaway, Heat sinks [cite: 4379-4380].
+**Unit 4:** Amplifiers: h-parameters, Small signal models, High frequency analysis [cite: 4382-4384].
 
 ## Network Analysis and Synthesis (DSC-8)
-**Unit 1:** Basics: Thevenin, Norton, Superposition, Max Power Transfer.
-**Unit 2:** Graph Theory: Incidence matrix, Cut-sets, KVL/KCL.
-**Unit 3:** Transient Analysis: Laplace transforms, Poles/Zeros, Impulse/Step response.
-**Unit 4:** Two-Port Networks: Z, Y, ABCD, h-parameters, Network Synthesis (RC, RL, LC).
+**Unit 1:** Basics: Thevenin, Norton, Superposition, Max Power Transfer [cite: 4423-4424].
+**Unit 2:** Graph Theory: Incidence matrix, Cut-sets, KVL/KCL [cite: 4425-4426].
+**Unit 3:** Transient Analysis: Laplace transforms, Poles/Zeros, Impulse/Step response [cite: 4427-4428].
+**Unit 4:** Two-Port Networks: Z, Y, ABCD, h-parameters. Network Synthesis (RC, RL, LC) [cite: 4429-4434].
 
 ## Digital Electronics - I (DSC-9)
-**Unit 1:** Boolean Algebra: K-Maps, Logic Families (TTL, CMOS).
-**Unit 2:** Combinational Logic: Adders, Subtractors, Encoders/Decoders, MUX/DEMUX.
-**Unit 3:** Sequential Logic: Flip-Flops, Counters (Ripple, Synchronous), Shift Registers.
-**Unit 4:** Converters: ADC (Flash, Successive Approx), DAC (R-2R), Memories (ROM, RAM).
+**Unit 1:** Boolean Algebra: K-Maps, Logic Families (TTL, CMOS) [cite: 4469-4471].
+**Unit 2:** Combinational Logic: Adders, Subtractors, Encoders/Decoders, MUX/DEMUX [cite: 4472-4474].
+**Unit 3:** Sequential Logic: Flip-Flops, Counters (Ripple, Synchronous), Shift Registers[cite: 4473].
+**Unit 4:** Converters: ADC (Flash, Successive Approx), DAC (R-2R), Memories (ROM, RAM) [cite: 4476-4479].
 
 ## Signals and Systems (DSC-10)
-**Unit 1:** Basics: Continuous/Discrete signals, LTI Systems, Convolution.
-**Unit 2:** Fourier Analysis: Fourier Series, CTFT, DTFT, Frequency response.
-**Unit 3:** Laplace & Z-Transform: ROC, Inverse transforms, Pole-Zero plots.
-**Unit 4:** Sampling: Sampling theorem, Aliasing, Reconstruction.
+**Unit 1:** Basics: Continuous/Discrete signals, LTI Systems, Convolution [cite: 4605-4608].
+**Unit 2:** Fourier Analysis: Fourier Series, CTFT, DTFT, Frequency response [cite: 4609-4612].
+**Unit 3:** Laplace & Z-Transform: ROC, Inverse transforms, Pole-Zero plots [cite: 4613-4617].
+**Unit 4:** Sampling: Sampling theorem, Aliasing, Reconstruction [cite: 4620-4624].
 
 ## Electromagnetic Theory (DSC-11)
-**Unit 1:** Electrostatics: Gauss Law, Poisson/Laplace equations, Magnetostatics (Biot-Savart).
-**Unit 2:** Maxwell’s Equations: Faraday’s Law, Boundary Conditions, Wave Equation, Poynting Vector.
-**Unit 3:** Transmission Lines: Impedance, VSWR, Smith Chart.
-**Unit 4:** Waveguides & Antennas: Rectangular waveguides, TE/TM modes, Dipole antenna basics.
+**Unit 1:** Electrostatics: Gauss Law, Poisson/Laplace equations, Magnetostatics (Biot-Savart) [cite: 4656-4659].
+**Unit 2:** Maxwell’s Equations: Faraday’s Law, Boundary Conditions, Wave Equation, Poynting Vector [cite: 4660-4662].
+**Unit 3:** Transmission Lines: Impedance, VSWR, Smith Chart [cite: 4663-4665].
+**Unit 4:** Waveguides & Antennas: Rectangular waveguides, TE/TM modes, Dipole antenna basics [cite: 4667-4668].
 
 ## Linear Integrated Circuits (DSC-12)
-**Unit 1:** Op-Amps: Ideal vs Real, Slew Rate, CMRR, Current Mirrors.
-**Unit 2:** Applications: Inverting/Non-inverting, Integrator, Differentiator, Schmitt Trigger.
-**Unit 3:** Filters & Oscillators: Active filters (Butterworth), RC Phase Shift, Wien Bridge.
-**Unit 4:** PLL & Timers: 555 Timer (Astable/Monostable), PLL (Phase Locked Loop), ADC/DAC .
+**Unit 1:** Op-Amps: Ideal vs Real, Slew Rate, CMRR, Current Mirrors [cite: 4723-4724].
+**Unit 2:** Applications: Inverting/Non-inverting, Integrator, Differentiator, Schmitt Trigger [cite: 4725-4727].
+**Unit 3:** Filters & Oscillators: Active filters (Butterworth), RC Phase Shift, Wien Bridge [cite: 4728-4730].
+**Unit 4:** PLL & Timers: 555 Timer (Astable/Monostable), PLL (Phase Locked Loop), ADC/DAC [cite: 4732-4734].
 
 ---
-### ECE ELECTIVES (DSE)
-**Computational Methods:** Roots of equations, Numerical Integration, Interpolation (Newton/Lagrange).
-**PCB Design:** SMD, Layout rules, EMI/EMC compliance, Etching, Soldering.
-**Interfacing Electronics:** Arduino/Raspberry Pi, GPIO, I2C, SPI, Sensors, Actuators.
-**Modeling Electronic Circuits:** SPICE simulation, Device models (BJT/MOSFET), Transient analysis.
+### ECE ELECTIVES (DETAILED)
+
+## VLSI Technology and Design (DSE-1/GE-3)
+**Unit 1:** Semiconductor Fundamentals: Crystal structures, Intrinsic/Extrinsic, PN junctions, BJT/FET principles [cite: 4974-4975].
+**Unit 2:** Fabrication Processes: Photolithography, Oxidation, Diffusion, Ion Implantation, Etching, Interconnects [cite: 4976-4978].
+**Unit 3:** Device Modeling: SPICE fundamentals, MOSFET modeling (Level 1, 2, 3), Process variations [cite: 4979-4980].
+**Unit 4:** Advanced Technologies: TFET, SOI, FD-SOI, Low-power design, Semiconductor memories (SRAM, DRAM) [cite: 4981-4982].
+
+### OTHER ECE ELECTIVES (SUMMARY)
+* **Computational Methods:** Roots of equations, Numerical Integration, Interpolation.
+* **PCB Design:** SMD, Layout rules, EMI/EMC compliance, Etching, Soldering.
+* **Interfacing Electronics:** Arduino/Raspberry Pi, GPIO, I2C, SPI, Sensors, Actuators.
+* **Modeling Electronic Circuits:** SPICE simulation, Device models (BJT/MOSFET), Transient analysis.
 
 ================================================================================
 SECTION C: ELECTRICAL ENGINEERING (EE)
@@ -166,44 +187,44 @@ SECTION C: ELECTRICAL ENGINEERING (EE)
 ### DETAILED SYLLABUS (EE CORE)
 
 ## Electrical Network Analysis (DSC-7)
-**Unit 1:** AC Circuits: Resonance, Magnetically coupled circuits, Dot convention.
-**Unit 2:** Theorems: Thevenin, Norton, Superposition, Millman, Tellegen. Graph Theory.
-**Unit 3:** Transients: Laplace transforms, Initial/Final value theorems, RLC transients.
-**Unit 4:** Two-Port Networks: Z, Y, ABCD, Hybrid parameters,Filter synthesis .
+**Unit 1:** AC Circuits: Resonance, Magnetically coupled circuits, Dot convention [cite: 2904-2906].
+**Unit 2:** Theorems: Thevenin, Norton, Superposition, Millman, Tellegen. Graph Theory [cite: 2907-2909].
+**Unit 3:** Transients: Laplace transforms, Initial/Final value theorems, RLC transients [cite: 2910-2913].
+**Unit 4:** Two-Port Networks: Z, Y, ABCD, Hybrid parameters. Filter synthesis [cite: 2914-2917].
 
 ## Electrical Machines-I (DSC-8)
-**Unit 1:** Energy Conversion: Magnetic circuits, Singly/Doubly excited systems, Torque production.
-**Unit 2:** DC Generators: Lap/Wave winding, EMF equation, Excitation methods.
-**Unit 3:** DC Motors: Torque equation, Speed control, Braking, Swinburne’s test.
-**Unit 4:** Transformers: Single/Three-phase, Phasor diagrams, Efficiency, Auto-transformers.
+**Unit 1:** Energy Conversion: Magnetic circuits, Singly/Doubly excited systems, Torque production [cite: 2957-2960].
+**Unit 2:** DC Generators: Lap/Wave winding, EMF equation, Excitation methods [cite: 2961-2964].
+**Unit 3:** DC Motors: Torque equation, Speed control, Braking, Swinburne’s test [cite: 2965-2969].
+**Unit 4:** Transformers: Single/Three-phase, Phasor diagrams, Efficiency, Auto-transformers [cite: 2970-2976].
 
 ## Analog and Digital Electronic Circuits (DSC-9)
-**Unit 1:** Op-Amps: Slew rate, Offset, Integrator, Differentiator, Instrumentation Amp.
-**Unit 2:** Special Circuits: Precision Rectifiers, Peak Detectors, 555 Timer, PLL.
-**Unit 3:** Combinational Logic: K-Maps, MUX/DEMUX, Adders, Encoders.
-**Unit 4:** Sequential Logic: Flip-Flops, Counters, Shift Registers, ADC/DAC .
+**Unit 1:** Op-Amps: Slew rate, Offset, Integrator, Differentiator, Instrumentation Amp [cite: 3010-3012].
+**Unit 2:** Special Circuits: Precision Rectifiers, Peak Detectors, 555 Timer, PLL [cite: 3013-3014].
+**Unit 3:** Combinational Logic: K-Maps, MUX/DEMUX, Adders, Encoders [cite: 3015-3017].
+**Unit 4:** Sequential Logic: Flip-Flops, Counters, Shift Registers, ADC/DAC [cite: 3018-3021].
 
 ## Electrical Machines-II (DSC-10)
-**Unit 1:** Induction Motors: 3-Phase construction, Torque-slip, Circle diagram, Speed control (V/f).
-**Unit 2:** Alternators: EMF equation, Armature reaction, Voltage regulation, Parallel operation.
-**Unit 3:** Synchronous Motors: V-Curves, Hunting, Starting methods.
-**Unit 4:** Single Phase Motors: Split phase, Capacitor start/run, Stepper, BLDC.
+**Unit 1:** Induction Motors: 3-Phase construction, Torque-slip, Circle diagram, Speed control (V/f) [cite: 3131-3137].
+**Unit 2:** Alternators: EMF equation, Armature reaction, Voltage regulation, Parallel operation [cite: 3138-3143].
+**Unit 3:** Synchronous Motors: V-Curves, Hunting, Starting methods [cite: 3144-3148].
+**Unit 4:** Single Phase Motors: Split phase, Capacitor start/run, Stepper, BLDC [cite: 3149-3155].
 
 ## Power Transmission and Distribution (DSC-11)
-**Unit 1:** Structure: Substations, Skin/Proximity effect, L/C calculation.
-**Unit 2:** Performance: Short/Medium/Long lines, Ferranti effect, Corona.
-**Unit 3:** Mechanical Design: Sag/Tension, Insulators (String efficiency), Underground cables.
-**Unit 4:** Protection: Surges, Lightning arrestors, Traveling waves .
+**Unit 1:** Structure: Substations, Skin/Proximity effect, L/C calculation [cite: 3197-3199].
+**Unit 2:** Performance: Short/Medium/Long lines, Ferranti effect, Corona [cite: 3200-3203].
+**Unit 3:** Mechanical Design: Sag/Tension, Insulators (String efficiency), Underground cables [cite: 3204-3207].
+**Unit 4:** Protection: Surges, Lightning arrestors, Traveling waves [cite: 3208-3211].
 
 ## Electrical and Electronic Measurements (DSC-12)
-**Unit 1:** Instruments: PMMC, Moving Iron, Dynamometer, Errors.
-**Unit 2:** Power/Energy: Wattmeters, Energy meters, Potentiometers.
-**Unit 3:** Bridges: Maxwell, Hay, Anderson, Schering bridges. Cable fault location.
-**Unit 4:** Electronics: CRO, Spectrum Analyzer, Transducers (LVDT, Strain Gauge).
+**Unit 1:** Instruments: PMMC, Moving Iron, Dynamometer, Errors [cite: 3242-3245].
+**Unit 2:** Power/Energy: Wattmeters, Energy meters, Potentiometers [cite: 3246-3248].
+**Unit 3:** Bridges: Maxwell, Hay, Anderson, Schering bridges. Cable fault location [cite: 3249-3252].
+**Unit 4:** Electronics: CRO, Spectrum Analyzer, Transducers (LVDT, Strain Gauge) [cite: 3253-3258].
 
 ---
-### EE ELECTIVES (DSE)
-**Non-Conventional Energy:** Solar (PV/Thermal), Wind, Biomass, Geothermal, Ocean energy.
-**Signal and Systems:** LTI systems, Fourier/Laplace/Z-transforms, Sampling theorem.
-**Electrical Engineering Materials:** Conductors, Dielectrics, Magnetic materials, Semiconductors.
-**Electrical Machine Design:** Transformer design (Core/Windings), DC Machine design, Induction Motor design.
+### EE ELECTIVES (SUMMARY)
+* **Non-Conventional Energy:** Solar (PV/Thermal), Wind, Biomass, Geothermal, Ocean energy [cite: 3057-3071].
+* **Signal and Systems:** LTI systems, Fourier/Laplace/Z-transforms, Sampling theorem [cite: 3096-3111].
+* **Electrical Engineering Materials:** Conductors, Dielectrics, Magnetic materials, Semiconductors [cite: 3296-3304].
+* **Electrical Machine Design:** Transformer design (Core/Windings), DC Machine design, Induction Motor design [cite: 3325-3332].

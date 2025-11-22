@@ -28,48 +28,91 @@ SECTION A: COMPUTER SCIENCE & ENGINEERING (CSE)
 ### DETAILED SYLLABUS (CSE CORE)
 
 ## Theory of Computation (DSC-13)
-**Unit 1:** Automata: DFA, NFA, Regular Expressions, Pumping Lemma.
-**Unit 2:** Context-Free: CFG, Chomsky/Greibach Normal Forms, Pushdown Automata (PDA).
-**Unit 3:** Computability: Turing Machines, Halting Problem, Decidability.
-**Unit 4:** Complexity: P, NP, NP-Complete, Reductions.
+**Unit 1:** Automata Theory: DFA, NFA, Regular Expressions, Pumping Lemma, Closure properties.
+**Unit 2:** Context-Free Languages: CFGs, Parse Trees, Ambiguity, CNF/GNF, Pushdown Automata (PDA).
+**Unit 3:** Computability Theory: Turing Machines, Recursive Languages, Halting Problem, Decidability.
+**Unit 4:** Complexity Theory: P, NP, NP-Complete, Polynomial time reductions, Space complexity (PSPACE).
 
 ## AI & Machine Learning (DSC-14)
-**Unit 1:** AI Basics: Search (BFS/DFS/A*), Heuristics, Adversarial Search.
-**Unit 2:** ML Basics: Supervised/Unsupervised, Regression, Decision Trees, Overfitting.
-**Unit 3:** Deep Learning: Neural Networks, Backpropagation, CNNs, RNNs.
-**Unit 4:** Advanced: Reinforcement Learning (Q-Learning), NLP basics, GANs.
+**Unit 1:** Introduction to AI: Search Strategies (BFS, DFS, A*), Heuristics, Adversarial Search (Game Playing).
+**Unit 2:** Machine Learning Fundamentals: Supervised/Unsupervised, Regression, Decision Trees, Overfitting, Evaluation Metrics.
+**Unit 3:** Deep Learning: Neural Networks (MLP), Backpropagation, CNNs (Image Processing), RNNs/LSTMs (Sequence Data).
+**Unit 4:** Advanced Topics: Reinforcement Learning (Q-Learning), NLP (Tokenization, Sentiment Analysis), GANs.
 
 ## Computer Networks (DSC-15)
-**Unit 1:** Layers: OSI/TCP Models, Physical Layer (Transmission).
-**Unit 2:** Data Link/Network: MAC protocols, Routing (OSPF, BGP), IPv4/IPv6.
-**Unit 3:** Transport: TCP (Congestion Control), UDP. Application: HTTP, DNS.
-**Unit 4:** Security/Trends: Firewalls, SDN, IoT, 5G.
+**Unit 1:** Introduction: Topologies, OSI/TCP Models. Physical Layer: Transmission media, Switching.
+**Unit 2:** Data Link & Network Layers: Framing, Error Control, MAC Protocols, Routing Algorithms (RIP, OSPF), IPv4/IPv6.
+**Unit 3:** Transport & Application Layers: TCP/UDP, Congestion Control, HTTP, DNS, SMTP.
+**Unit 4:** Security & Trends: Firewalls, SDN, IoT Protocols, 5G Networks.
 
 ## Cybersecurity (DSC-16)
-**Unit 1:** Intro: CIA Triad, Threats (Malware, Phishing), Cryptography basics.
+**Unit 1:** Introduction: CIA Triad, Threats (Malware, Phishing), Cryptography (Symmetric/Asymmetric), Hashing.
 **Unit 2:** Network Security: Firewalls, IDS/IPS, VPNs, Wireless Security (WPA3).
-**Unit 3:** App Security: OWASP Top 10, SQL Injection, XSS, Secure SDLC.
-**Unit 4:** Advanced: Incident Response, Ethical Hacking tools (Metasploit), Blockchain security.
+**Unit 3:** System & App Security: OS Security, SDLC, SQL Injection, XSS, Endpoint Security.
+**Unit 4:** Advanced Topics: Incident Response, Ethical Hacking tools (Metasploit), Blockchain security.
 
 ## Cloud Computing (DSC-17)
-**Unit 1:** Fundamentals: IaaS, PaaS, SaaS, Public/Private Clouds.
-**Unit 2:** Infrastructure: Virtualization (VMs), Storage, Load Balancing.
-**Unit 3:** Deployment: Docker Containers, Kubernetes, Serverless (FaaS).
-**Unit 4:** Advanced: Big Data on Cloud, AI Services, Cloud Security (IAM).
+**Unit 1:** Fundamentals: IaaS, PaaS, SaaS, Deployment Models (Public/Private), Virtualization.
+**Unit 2:** Infrastructure: Cloud Storage (Object/Block), Networking (VPC, Load Balancing), Security (IAM).
+**Unit 3:** Developing & Deploying: Cloud-Native Apps, Microservices, Containers (Docker/Kubernetes), Serverless (FaaS).
+**Unit 4:** Advanced Technologies: Big Data on Cloud, AI Services, Edge Computing.
 
 ## Software Project Management (DSC-18)
-**Unit 1:** Basics: Project Lifecycle, Agile vs Waterfall, KPIs.
-**Unit 2:** Planning: Estimation (COCOMO, Function Points), Scheduling (PERT/CPM).
-**Unit 3:** Monitoring: Risk Management, Quality Assurance.
-**Unit 4:** Tools: JIRA, Trello, Scrum Framework, Remote Management.
+**Unit 1:** Introduction: Project Lifecycle, Agile vs Waterfall, Role of Project Manager.
+**Unit 2:** Planning & Estimation: WBS, COCOMO, Function Points, Scheduling (PERT/CPM), Risk Management.
+**Unit 3:** Monitoring & Control: Team Management, Quality Assurance, Project Closure.
+**Unit 4:** Advanced Topics: Agile/Scrum Framework, PM Tools (JIRA), DevOps integration.
 
 ---
-### CSE ELECTIVES (DSE-4)
-* **Foundations of Data Analysis:** EDA, Regression, Time Series, Python tools.
-* **Computer Graphics:** 3D Modeling, Rendering, Animation, Shaders.
-* **Introduction to IoT:** Raspberry Pi/Arduino, Protocols, Smart Home Case Studies.
-* **Optimization Techniques:** Linear/Non-linear Programming, Heuristics, Genetic Algorithms.
-* **Compiler Design:** Lexical/Syntax Analysis, Parsing (LL/LR), Code Optimization.
+### CSE ELECTIVES (DETAILED)
+
+## Object Oriented Programming (DSE-3)
+**Unit 1:** OOP Concepts: Classes, Objects, Inheritance, Polymorphism, Encapsulation.
+**Unit 2:** Advanced Concepts: Abstract Classes, Interfaces, Exception Handling, Generics.
+**Unit 3:** Design Patterns: Singleton, Factory, Adapter, Observer, Strategy.
+**Unit 4:** OOP in Development: Java/C++ features, STL, Best practices.
+
+## Computational Statistics and Probability (DSE-3)
+**Unit 1:** Probability Theory: Conditional probability, Bayes' theorem, Distributions (Binomial, Normal).
+**Unit 2:** Random Variables: Joint distributions, Central Limit Theorem, Hypothesis Testing (Z-test, T-test).
+**Unit 3:** Statistical Methods: Regression (Linear/Multiple), ANOVA, Time Series.
+**Unit 4:** Applications: Monte Carlo methods, Queueing Theory, Markov Chains.
+
+## Front-End Web Design (DSE-3)
+**Unit 1:** HTML & CSS: Semantic HTML, Box Model, Flexbox/Grid, Responsive Design.
+**Unit 2:** JavaScript: DOM Manipulation, ES6 features, Async/Await, Fetch API.
+**Unit 3:** Responsive Frameworks: Media Queries, Mobile-First Design.
+**Unit 4:** Frameworks: React.js (Components, State), Single Page Applications (SPAs).
+
+## Foundations of Data Analysis (DSE-4)
+**Unit 1:** Intro: Data types, cleaning, EDA, Visualization (Matplotlib/Seaborn).
+**Unit 2:** Techniques: Descriptive Statistics, Hypothesis Testing, Correlation.
+**Unit 3:** Predictive Analytics: Regression (Linear/Logistic), Classification, Time Series basics.
+**Unit 4:** Tools: R/Python for analytics, Ethical considerations.
+
+## Computer Graphics (DSE-4)
+**Unit 1:** Foundations: Coordinate systems, OpenGL, 2D Transformations.
+**Unit 2:** 3D Graphics: 3D Transformations, Projections, Modeling.
+**Unit 3:** Rendering: Lighting, Shading, Texture Mapping, Hidden Surface Removal.
+**Unit 4:** Animation: Keyframing, Rigging, Physics-based animation.
+
+## Introduction to IoT (DSE-4)
+**Unit 1:** Fundamentals: IoT architecture, Sensors, Actuators, Protocols (MQTT, CoAP).
+**Unit 2:** Hardware: Raspberry Pi/Arduino setup, Interfacing sensors.
+**Unit 3:** Communication: Wi-Fi, Bluetooth, Zigbee, Cloud integration.
+**Unit 4:** Applications: Smart Homes, Industrial IoT, Healthcare.
+
+## Optimization Techniques (DSE-4)
+**Unit 1:** Intro: Linear Algebra review, Types of optimization problems.
+**Unit 2:** Programming: Linear (Simplex), Non-Linear (Gradient Descent), Constrained Optimization.
+**Unit 3:** Discrete: Integer Programming, Branch and Bound, Heuristics (Genetic Algorithms).
+**Unit 4:** Advanced: Multi-objective optimization, Swarm Intelligence.
+
+## Compiler Design (DSE-4)
+**Unit 1:** Intro: Lexical Analysis, Regex, Finite Automata (Lex tool).
+**Unit 2:** Syntax Analysis: CFG, Top-Down/Bottom-Up Parsing, YACC.
+**Unit 3:** Translation: Syntax-Directed Translation, Intermediate Code Generation.
+**Unit 4:** Optimization: Code Optimization, Register Allocation, Code Generation.
 
 ================================================================================
 SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
@@ -95,50 +138,73 @@ SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
 ### DETAILED SYLLABUS (ECE CORE)
 
 ## Control Systems Engineering (DSC-13)
-**Unit 1:** Modeling: Transfer Functions, Block Diagrams, Signal Flow Graphs.
-**Unit 2:** Time Domain: Transient response, Steady state error, Routh-Hurwitz.
-**Unit 3:** Frequency Domain: Bode Plots, Nyquist Criterion, Stability margins.
-**Unit 4:** Design: PID Controllers, Lag/Lead Compensators, State Space Analysis.
+**Unit 1:** Modeling: Transfer Functions, Block Diagrams, Signal Flow Graphs, Feedback systems.
+**Unit 2:** Time Response: Transient/Steady-state analysis, Routh-Hurwitz Stability, Root Locus.
+**Unit 3:** Frequency Response: Bode Plots, Nyquist Criterion, Gain/Phase Margins.
+**Unit 4:** Design & State Space: PID Controllers, Compensators (Lag/Lead), State-Space Analysis.
 
 ## Digital Signal Processing (DSC-14)
-**Unit 1:** Basics: DTFT, Z-Transform, Convolution.
-**Unit 2:** Filters: FIR (Windowing), IIR (Butterworth/Chebyshev).
-**Unit 3:** Advanced: FFT, Multi-rate DSP, Adaptive Filtering (LMS/RLS).
-**Unit 4:** Processors: DSP Architecture (TMS320), Real-time applications.
+**Unit 1:** Fundamentals: Discrete-Time Signals, DTFT, Z-Transform, Sampling.
+**Unit 2:** Filter Design: FIR (Windowing), IIR (Butterworth/Chebyshev), Structures.
+**Unit 3:** Advanced Techniques: FFT, Multi-rate DSP, Adaptive Filtering (LMS/RLS).
+**Unit 4:** Applications: Real-time processing, DSP Processors (TMS320).
 
 ## Analog Communication Systems (DSC-15)
-**Unit 1:** AM/FM: Amplitude Modulation (DSB/SSB), Frequency/Phase Modulation.
-**Unit 2:** Architecture: Superheterodyne Receiver, Pulse Modulation (PAM/PWM).
-**Unit 3:** Transmission: FDM, TDM, Antennas, Optical Fiber basics.
-**Unit 4:** Trends: Cognitive Radio, SDR, Satellite links.
+**Unit 1:** Fundamentals: AM, FM, PM principles, Noise (SNR).
+**Unit 2:** Modulation & Architecture: Pulse Modulation (PAM/PWM), Superheterodyne Receivers, SDR basics.
+**Unit 3:** Transmission: Multiplexing (FDM/TDM), Antennas, Fiber Optics.
+**Unit 4:** Trends: Cognitive Radio, Satellite Links, Noise shaping.
 
 ## Hands-On CMOS VLSI Design (DSC-16)
 **Unit 1:** Fabrication: CMOS flow, Layout rules, Stick diagrams.
-**Unit 2:** Digital: Inverters, Gates, Latches, Flip-Flops, SRAM cells.
-**Unit 3:** Analog: LNA, Transimpedance Amplifiers, Active Inductors.
+**Unit 2:** Digital Circuits: Inverters, Gates, Latches, SRAM cells.
+**Unit 3:** Analog Circuits: LNA, Active Inductors, Transimpedance Amplifiers.
 **Unit 4:** Timing: Oscillators, PLLs, Clock Data Recovery (CDR).
 
 ## Embedded Systems and Applications (DSC-17)
-**Unit 1:** 8086/8085: Architecture, Addressing modes.
-**Unit 2:** Programming: Assembly instructions, Interrupts.
+**Unit 1:** 8086 Microprocessor: Architecture, Instruction Set.
+**Unit 2:** Programming: Assembly language, Interrupts.
 **Unit 3:** Peripherals: 8255 PPI, 8254 Timer, DMA, 8051 Microcontroller.
-**Unit 4:** ARM: Architecture, Instruction set, SPI/I2C/UART interfacing.
+**Unit 4:** ARM & Optimization: ARM Architecture, Interfacing (SPI/I2C), System Design.
 
 ## Digital Communication Systems (DSC-18)
-**Unit 1:** Coding: PCM, DPCM, Delta Modulation.
+**Unit 1:** Coding: PCM, DPCM, Delta Modulation, Waveform coding.
 **Unit 2:** Baseband: ISI, Nyquist Criterion, Eye Diagrams.
 **Unit 3:** Detection: Matched Filter, Maximum Likelihood, BER.
-**Unit 4:** Modulation: ASK, FSK, PSK, QAM, Error Control Coding.
+**Unit 4:** Modulation & Coding: ASK, FSK, PSK, QAM, Entropy, Huffman Coding, Error Control.
 
 ---
-### ECE ELECTIVES (DSE)
-* **Spread Spectrum:** DSSS, FHSS, CDMA, GPS, Rake Receivers.
-* **Network Technologies:** OSI/TCP models, IPv6, IoT Protocols (MQTT), 5G.
-* **Digital Image Processing:** Enhancement, Restoration, Compression (JPEG), Segmentation.
-* **Wireless Sensor Networks:** MAC protocols (SMAC), Routing (LEACH), Zigbee.
-* **AI in Electronics:** Edge AI, TinyML, FPGA accelerators, Neural Networks.
-* **Coding & Compression:** Huffman, Shannon-Fano, Convolutional Codes, Turbo Codes.
-* **EMC:** EMI Shielding, Crosstalk, PCB Design for EMC, Standards.
+### ECE ELECTIVES (DETAILED)
+
+## Spread Spectrum Communication (DSE-3)
+**Unit 1:** Fundamentals: DSSS, FHSS, PN Sequences (Gold/Walsh codes).
+**Unit 2:** System Design: Transmitter/Receiver architecture, Rake receivers, Interference rejection.
+**Unit 3:** Applications: CDMA, GPS, Secure Communications.
+**Unit 4:** Advanced: SS in 5G, Cognitive Radio, SDR implementations.
+
+## Network Technologies and Interfacing (DSE-3)
+**Unit 1:** Network Fundamentals: OSI/TCP models, Switching, Wireless design.
+**Unit 2:** IoT Interfacing: Protocols (MQTT, Zigbee), Microcontroller interfacing.
+**Unit 3:** Advanced Networks: 5G, SDN, NFV, QoS.
+**Unit 4:** Emerging Tech: VANETs, Industrial IoT, Network Automation.
+
+## Digital Image Processing (DSE-3)
+**Unit 1:** Intro: Image representation, Sampling, Color models.
+**Unit 2:** Enhancement: Histogram equalization, Spatial/Frequency filtering.
+**Unit 3:** Analysis: Segmentation, Morphological operations, Compression (JPEG).
+**Unit 4:** Advanced: CNNs for Image Classification, Object Detection (YOLO).
+
+## Wireless Sensor Networks (DSE-4)
+**Unit 1:** Architecture: Sensor nodes, Ad-hoc networks, Challenges.
+**Unit 2:** Middleware: Data management, Bluetooth/Zigbee/WiMax.
+**Unit 3:** MAC Protocols: SMAC, LEACH, CSMA/CA.
+**Unit 4:** Routing: Flooding, SPIN, Directed Diffusion, Transport protocols.
+
+## Artificial Intelligence in Electronics (DSE-4)
+**Unit 1:** Foundations: ML/DL concepts, Regression, Neural Networks.
+**Unit 2:** Embedded AI: Edge AI, TinyML, FPGA accelerators.
+**Unit 3:** Signal Processing: AI for denoising, Computer Vision (CNNs), Sensor Fusion.
+**Unit 4:** Advanced: Neuromorphic Computing, Neural Architecture Search.
 
 ================================================================================
 SECTION C: ELECTRICAL ENGINEERING (EE)
@@ -164,7 +230,7 @@ SECTION C: ELECTRICAL ENGINEERING (EE)
 ### DETAILED SYLLABUS (EE CORE)
 
 ## Power System Analysis (DSC-13)
-**Unit 1:** Modeling: Y-bus, Z-bus, Load Flow (Gauss-Seidel, Newton-Raphson).
+**Unit 1:** Modeling: Components, Y-bus, Z-bus, Load Flow (Gauss-Seidel, Newton-Raphson).
 **Unit 2:** Faults: Symmetrical/Unsymmetrical faults, Z-bus applications.
 **Unit 3:** Stability: Swing equation, Equal area criterion, Transient stability.
 **Unit 4:** Voltage Stability: PV curves, Collapse prediction.
@@ -200,8 +266,28 @@ SECTION C: ELECTRICAL ENGINEERING (EE)
 **Unit 4:** Controllers: AC Voltage controllers, Cycloconverters, UPS, Drives.
 
 ---
-### EE ELECTIVES (DSE)
-* **Utilization of Electric Power:** Traction, Illumination, Heating, Welding.
-* **Economic Operations:** Economic Dispatch, Unit Commitment, Hydro-thermal scheduling.
-* **Digital Control System:** Z-transform, Pulse transfer function, Stability (Jury test), Deadbeat response.
-* **Digital Signal Processing:** Discrete signals, DFT/FFT, FIR/IIR Filter design.
+### EE ELECTIVES (DETAILED)
+
+## Utilization of Electric Power (DSE-3)
+**Unit 1:** Electric Traction: Drives, Motor selection, Mechanics.
+**Unit 2:** Illumination: Laws, Lamps (Incandescent/Discharge), Lighting schemes.
+**Unit 3:** Heating: Resistance, Induction, Arc heating.
+**Unit 4:** Welding & Systems: Resistance/Arc welding, Refrigeration/AC circuits.
+
+## Economic Operations of Power System (DSE-3)
+**Unit 1:** Introduction: Microeconomics, Power system control.
+**Unit 2:** Operations: Economic Dispatch, Unit Commitment.
+**Unit 3:** Hydro-thermal: Coordination, Scheduling.
+**Unit 4:** Optimal Power Flow: Gradient method, Security constraints.
+
+## Digital Control System (DSE-4)
+**Unit 1:** Intro: Discrete-time systems, Sampling.
+**Unit 2:** Modeling: Z-transform, Pulse Transfer Function.
+**Unit 3:** Analysis: Stability (Jury test), Time response.
+**Unit 4:** Design: Root locus, Nyquist, Deadbeat response.
+
+## Digital Signal Processing (DSE-4)
+**Unit 1:** Signals: Classification, Time domain representation.
+**Unit 2:** Transforms: DFT, FFT, Z-transform.
+**Unit 3:** LTI Systems: Frequency response, Sampling continuous signals.
+**Unit 4:** Filters: FIR/IIR structures and design.
