@@ -1,7 +1,7 @@
-// --- CONFIGURATION ---
-// REPLACE THIS URL AFTER DEPLOYING YOUR BACKEND TO RAILWAY
-// Example: "https://campus-gpt-production.up.railway.app"
-const API_BASE = "cgpa-chatbot-production.up.railway.app"; // Default for local testing
+// --- CONFIGURATION (SMART SWITCH) ---
+const IS_LOCAL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+const RAILWAY_URL = "https://cgpa-chatbot-production.up.railway.app"; // ✅ MUST HAVE HTTPS://
+const API_BASE = IS_LOCAL ? "http://127.0.0.1:5001" : RAILWAY_URL;
 
 // --- AUTO-LOGIN LOGIC ---
 document.addEventListener('DOMContentLoaded', () => {
