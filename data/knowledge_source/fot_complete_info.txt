@@ -1,0 +1,596 @@
+Faculty of Technology, University of Delhi - Complete Knowledge Base
+
+🎓 BASIC INFORMATION
+About
+Full Name: Faculty of Technology, University of Delhi
+Also Known As: FoT DU, FoT Delhi University, Faculty of Tech DU
+Established: 2023 (Re-established)
+Type: Government Institution, Central University
+University: University of Delhi
+Location: Maharishi Kanad Bhawan, University of Delhi, Delhi-110007, India
+Campus: Located in North Campus area of Delhi University
+Contact Landline: 011-27662880
+Website: fot.du.ac.in
+
+Historical Context
+The Faculty of Technology previously included Delhi College of Engineering (now DTU) and Netaji Subhas Institute of Technology (now NSUT) before they became independent universities. The faculty was re-established in 2023 to offer B.Tech programs directly under Delhi University.
+
+Student Population
+Total Intake: 360 students per year
+Current Status:
+First batch started in 2023 (graduating in 2027)
+Second batch admitted in 2024 (graduating in 2028)
+Third batch admitted in 2025 (graduating in 2029)
+
+📚 COURSES OFFERED
+B.Tech Programs (4 Years)
+1. Computer Science and Engineering (CSE)
+Duration: 4 Years
+Annual Intake: 120 seats
+Specialization: Core Computer Science, Programming, Software Development
+
+2. Electronics and Communication Engineering (ECE)
+Duration: 4 Years
+Annual Intake: 120 seats
+Specialization: Electronics, Communication Systems, Semiconductors
+
+3. Electrical Engineering (EE)
+Duration: 4 Years
+Annual Intake: 120 seats
+Specialization: Power Systems, Electrical Circuits, Control Systems
+
+Course Structure
+Total Seats: 360 (120 per branch)
+Mode: Full-time, on-campus
+Curriculum: Based on New Education Policy (NEP)
+Pattern: Similar to IITs
+Language: English
+Examination: Two phases - Mid-term and End-term exams per semester
+
+💰 FEE STRUCTURE
+Annual Fees (2025-26)
+Total Per Year: ₹2,35,200
+
+Breakdown:
+Tuition Fees: ₹1,17,600
+University Student Welfare Fund: ₹18,900
+Faculty Student Welfare Fund: ₹10,500
+University Development Fund: ₹1,260
+University Facilities and Services Charges: ₹21,630
+Faculty Service Charges: ₹65,100
+Economically Weaker Section Support Fund: ₹210
+
+Total Course Fee
+4 Years Total: Approx. ₹9.65 Lakhs (estimating ~5% annual increase)
+Note: Fees typically increase by ~5% annually for subsequent years.
+
+Fee Concession/Scholarships
+Based on Family Income:
+Family income < ₹4 lakhs: 90% fee concession
+Family income ₹4-8 lakhs: 50% fee concession
+Family income > ₹8 lakhs: No concession
+
+Required Documents for Fee Concession:
+Income Certificate
+ITR (Income Tax Return) of previous 2 years
+26AS Form
+NIL ITR (if not filed previously)
+
+Application Fee
+General/OBC/EWS: ₹1,500
+SC/ST: ₹1,200
+
+🎯 ADMISSION PROCESS
+Eligibility Criteria
+Qualification: 10+2 (Class 12th) passed
+Required Subjects: Physics, Chemistry, and Mathematics
+Minimum Marks: 60% aggregate in PCM
+Entrance Exam: JEE Main (compulsory)
+
+Admission Procedure
+Qualify JEE Main - Get a valid JEE Main rank
+Visit: DU B.Tech Admission Portal (admission.du.ac.in)
+Registration:
+Click "New User Registration"
+Register with mobile number and email
+Create password
+Application:
+Login with credentials
+Fill required details carefully
+Upload documents (cannot be changed after submission)
+Pay application fee
+Counselling: Separate FoT counselling based on JEE Main rank
+Seat Allotment: Based on JEE Main All India Common Rank List (CRL)
+
+Cut-off Ranks (2023 Reference)
+CSE (General Category): Around 60,000 rank
+ECE: Similar to CSE
+EE: Slightly lower than CSE/ECE
+
+Reservation Policy
+Seats reserved for:
+OBC
+EWS (Economically Weaker Section)
+SC/ST
+PWD (Persons with Disabilities)
+Orphan Quota
+
+Important Dates
+CUET UG Registration: First week of March (yearly)
+JEE Main: Conducted twice a year (January & April)
+Application Deadline: Usually early June (may extend)
+Admission Process: June-August
+
+🏢 INFRASTRUCTURE & FACILITIES
+Campus & Buildings (Current Status)
+Academic activities are currently split between two locations in North Campus:
+
+1. Maharishi Kanad Bhawan (Primary Building)
+Floors: Classes held on Floors 2 and 3.
+Functions: Main academic block, Labs, and Administration.
+
+2. Delhi University Computer Centre (DUCC)
+Floor 2: Classes R1 and R2
+Floor 3: Classes R3 and R4
+Functions: Lecture halls only.
+
+Logistics:
+Distance: The two buildings are within walkable distance of each other.
+Movement: Students can easily move between lectures at Kanad Bhawan and DUCC.
+
+Permanent Building Status
+Status: Under Construction
+Expected Completion: Mid-2026
+Campus Size: Significant expansion planned
+
+Classroom Facilities
+✅ Available:
+Fully Air-Conditioned classrooms
+Digital/Smart Boards
+High-speed Wi-Fi (available everywhere)
+Water coolers on every floor
+Lifts and Stairs
+Clean, maintained washrooms
+Good ventilation
+
+Laboratory Facilities
+Location: All laboratories are concentrated in Maharishi Kanad Bhawan. No labs are in DUCC.
+
+State-of-the-art labs for each department:
+Computer Science:
+Advanced Computing Labs
+Network Labs
+System Design Lab
+High-end computers (worth ₹2+ lakhs each)
+
+Electronics & Communication:
+Advanced Electronics Lab
+Network and Synthesis Lab
+Digital Electronics Lab
+IEEE Lab
+Communication Systems Lab
+
+Electrical Engineering:
+Power Systems Lab
+Control Systems Lab
+Electrical Machines Lab
+Circuit Analysis Lab
+
+Common:
+Physics Labs
+All labs have new, operative equipment
+Modern, well-equipped facilities
+
+Administrative Office
+Location: Maharishi Kanad Bhawan, Ground Floor.
+Room Number: G-14.
+Functions: Fee submission, student affairs, general inquiries, and document verification.
+
+Library Access
+Access to: Central Science Library, Delhi University
+Available: Latest books, journals, research papers
+Facility: Reference materials for all branches
+Note: Shared with other DU science departments
+
+Canteen & Food
+Availability: Multiple canteens
+Types: Government-authorized and private
+Quality: Good options at reasonable prices
+Pricing: Affordable for students
+Note: Food quality rated as "okay" to "good" by students
+
+Medical Facilities
+Available: Delhi University Health Center
+Services: Basic medical facilities
+Access: All DU students can use these facilities
+
+Hostel Facilities
+❌ Currently NOT Available
+No dedicated hostel for FoT students
+Students can apply for general DU hostels (limited availability)
+Most students live in:
+Private PGs (₹10,000-15,000/month)
+Rented flats
+Private hostels in North Campus area
+Future: Hostel facilities may be available once permanent campus is built
+
+Sports Facilities
+Current Status: Limited sports facilities at temporary building
+Access: DU Stadium available for students
+Sports: Can participate in inter-DU sports activities
+Note: No dedicated sports complex yet
+
+Internet & Technology
+Wi-Fi: High-speed, available everywhere on campus
+LAN: Available in computer labs
+Connectivity: Good network coverage
+
+Other Facilities
+Parks: 2 small parks in campus area
+Entry: Single major entry point
+Accessibility: Well-connected by road
+Nearby: Multiple DU colleges in vicinity (North Campus)
+
+👨‍🏫 FACULTY & ACADEMICS
+Faculty Qualifications
+Education: Minimum Master's degree, many with PhDs
+Experience: Highly experienced, many from IITs
+Previous Service: Many retired professors from DTU and NSUT
+Quality: Well-qualified, knowledgeable, and helpful
+Teaching Style: Interactive, encouraging questions
+Approachability: Very supportive and accessible
+
+Teaching Methodology
+Language: English
+Style: Modern, interactive teaching
+Resources: Use of presentations, digital boards
+Practice: Focus on practical applications
+Workshops: Regular workshops conducted
+Industry Focus: Preparing students for real-world applications
+
+Curriculum
+Based On: New Education Policy (NEP)
+Features:
+Updated and relevant syllabus
+Choice-based credit system
+Optional subjects available (including sports)
+No Chemistry or Engineering Graphics in first year
+C programming introduced in first semester
+Multi-disciplinary approach
+Comparison: Similar to IIT pattern
+Industry Relevance: Focus on making students job-ready
+
+Examination Pattern
+System: Semester-based (2 semesters/year)
+Exams per Semester:
+Mid-term exams
+End-term exams
+Practical exams
+Assessment:
+Projects carry significant weightage
+Assignments and class participation
+Lab work evaluation
+Difficulty: Moderate to tough
+Pass Percentage: Approximately 85%
+Transparency: Clear exam schedules and transparent evaluation
+
+Academic Support
+Doubt Sessions: Faculty available for queries
+Extra Classes: Conducted when needed
+Mentorship: Guidance for career and academics
+Seminars: Regular seminars and guest lectures
+
+💼 PLACEMENTS & INTERNSHIPS
+Current Status
+⚠️ No Placement Data Yet
+First batch will graduate in 2027
+No completed batches yet
+Placement cell is being established
+
+Expected Placements
+Expected Average Package: ₹8.5 - ₹12 LPA (based on DU reputation)
+Expected Highest Package: ₹15-25 LPA
+Placement Timeline: 7th semester onwards
+
+Internship Opportunities
+Current Scenario:
+Status: Limited formal internship support (being developed)
+Student Initiatives: Students pursuing internships independently
+Companies: Some students secured internships at:
+DRDO (Defence Research and Development Organisation)
+Google
+Other multinational companies
+Type: Mostly unpaid internships for juniors
+Location: Primarily in Delhi-NCR region
+Summer Internships: End of 2nd year onwards
+
+Delhi University Placement Support
+Central Placement Cell (CPC):
+Office: Under Dean Students' Welfare
+Contact: placement@du.ac.in
+Phone: 011-27667092, 27662812, 27001134-35
+Services:
+Placement assistance
+Career counseling
+Skill development workshops
+Resume building support
+Interview preparation
+
+Expected Top Recruiters (Based on DU Pattern)
+IT/Tech Companies: Google, Microsoft, Amazon, Infosys, TCS, Wipro, HCL, Cognizant, Accenture, Capgemini, Tech Mahindra
+Core Engineering: Electrical/Electronics companies, Semiconductor firms, Telecom companies
+Consulting & Analytics: Deloitte, KPMG, EY, PwC, BCG, ZS Associates
+Other Sectors: DRDO, ISRO, PSUs, Startups
+
+Delhi University Overall Placement Stats (Reference)
+DU's median package for 4-year UG engineering programs is around ₹8.50 LPA, with top packages reaching ₹25 LPA at Delhi School of Economics.
+
+Future Prospects
+Advantages:
+Delhi University brand name
+Strong alumni network across industries
+Location advantage (Delhi-NCR has many companies)
+Connection to DTU/NSUT legacy
+Central government institution credibility
+Expectations:
+Placements will improve with each passing batch
+Strong focus on coding culture (especially for CSE)
+Industrial visits to be organized
+Tie-ups with companies being established
+
+🎭 CAMPUS LIFE & CULTURE
+Current Campus Environment
+Pros:
+Location: Heart of Delhi University North Campus
+Diversity: Students from all over India
+Peer Learning: Strong collaborative culture
+Access: Can attend fests in other DU colleges
+Workshops: Regular technical workshops
+Networking: Easy to meet like-minded people from other DU colleges
+Delhi Life: Experience full DU campus culture
+Challenges:
+New College: Still establishing traditions (started 2023)
+No Clubs/Societies: Currently no tech clubs or cultural societies
+No Dedicated Campus: Temporary building, no campus life feel
+Limited Sports: No dedicated sports facilities
+No Hostels: Students live off-campus
+No Fests: No college-specific cultural or tech fests yet
+Gender Ratio: Low female-to-male ratio (common in engineering)
+
+Social Life
+Student Body: Diverse, from different backgrounds
+Socializing: Active participation in North Campus activities
+Events: Can attend events at other DU colleges
+Inter-College: Good interaction with students from nearby colleges
+Community: Building a new community (first batches)
+
+Extra-Curricular Activities
+Current Status: Limited formal activities
+Available: Can participate in DU-wide activities
+Sports: Access to DU sports facilities
+Cultural: Can attend fests at other DU colleges like:
+Hindu College (Mecca)
+St. Stephen's (Mukkhauta)
+Ramjas College (Umang)
+SRCC (Crossroads)
+Miranda House (Tempest)
+
+Future Developments
+Expected Once Permanent Campus is Built:
+Technical clubs (Coding, Robotics, Electronics)
+Cultural societies
+Sports teams
+College fest
+Student union activities
+Better campus life infrastructure
+
+📊 COMPARISON WITH OTHER COLLEGES
+Why Choose FoT DU?
+Advantages:
+Delhi University Brand: Prestigious name, national recognition
+Government Institution: Lower fees, government backing
+Location: North Campus, Delhi (excellent for placements and networking)
+NEP Curriculum: Modern, flexible education system
+Legacy Connection: Historical link to DTU/NSUT
+Faculty Quality: Experienced professors from top institutions
+NIRF Ranking: DU consistently ranks among top 15 universities
+Fee Concession: Significant scholarships based on income
+Diverse Environment: Students from across India
+Disadvantages:
+New College: No established placement record yet
+No Hostel: Students need to arrange accommodation
+Temporary Building: No dedicated campus feel currently
+No Clubs: Limited extra-curricular activities
+No Campus Placements Yet: First batch graduating in 2027
+Limited Sports: No dedicated sports complex
+
+Comparison with Similar Options
+vs. DTU: DTU has established placements (₹15+ LPA average), own campus, higher fees. FoT has lower fees, DU brand, new program.
+vs. NSUT: NSUT has better infrastructure, established placements. FoT is more affordable, flexible NEP curriculum.
+vs. Private Engineering Colleges: FoT has Government status, lower fees, better credibility.
+vs. NITs: NITs have established infrastructure. FoT has DU brand, North Campus location, lower fees.
+
+🎓 STUDENT REVIEWS & FEEDBACK
+Positive Points
+✅ "Delhi University brand name is huge"
+✅ "Fees are very affordable with scholarships"
+✅ "Faculty is highly qualified and helpful"
+✅ "AC classrooms with modern facilities"
+✅ "Labs have excellent equipment"
+✅ "Location is perfect in North Campus"
+✅ "NEP curriculum is well-designed"
+✅ "Similar pattern to IITs"
+✅ "Being part of first batches is exciting"
+✅ "Good peer learning culture"
+
+Areas of Improvement
+⚠️ "No hostel facilities available"
+⚠️ "No tech clubs or societies yet"
+⚠️ "Management can be slow with responses"
+⚠️ "Classes split between Kanad Bhawan and DUCC"
+⚠️ "Low gender ratio"
+⚠️ "No established placement record"
+⚠️ "Limited sports facilities"
+⚠️ "No cultural fests yet"
+⚠️ "Less industry exposure currently"
+
+📞 CONTACT INFORMATION
+College Contact
+Address: Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007, India
+Phone: 011-27662880
+Website: fot.du.ac.in
+Email: [Check official website for department-specific emails]
+
+Administrative Office
+Location: Maharishi Kanad Bhawan, Ground Floor, Room G-14.
+Purpose: Fee submission, student affairs, and general administration.
+
+Delhi University Main
+Address: University of Delhi, Delhi-110007
+General Inquiries: Various department numbers available
+Website: du.ac.in
+
+For Admissions
+Portal: admission.du.ac.in (for B.Tech)
+CUET Website: cuet.samarth.ac.in
+JEE Main Website: jeemain.nta.nic.in
+
+Central Placement Cell
+Email: placement@du.ac.in
+Phone: 011-27667092, 27662812, 27001134-35
+Website: placement.du.ac.in
+
+❓ FREQUENTLY ASKED QUESTIONS
+Admissions
+Q: What is the eligibility for FoT DU B.Tech?
+A: 10+2 with 60% in PCM (Physics, Chemistry, Math) + Valid JEE Main rank.
+Q: Is JEE Main compulsory?
+A: Yes, admissions are only through JEE Main rank.
+Q: What was the 2023 cut-off?
+A: CSE General category was around 60,000 JEE Main rank.
+Q: When does registration start?
+A: Usually in May-June, following JEE Main results.
+Q: Can I get direct admission?
+A: No, only through JEE Main counselling.
+
+Fees & Scholarships
+Q: What is the annual fee?
+A: Approximately ₹2.16 - ₹2.24 lakhs per year.
+Q: Are scholarships available?
+A: Yes, 90% concession if family income < ₹4 lakhs, 50% if ₹4-8 lakhs.
+Q: How do I apply for fee concession?
+A: Submit income certificate, ITR, and 26AS form during admission at Admin Office (Room G-14).
+
+Infrastructure
+Q: Is hostel available?
+A: No, students need to arrange PGs/flats (₹10-15k/month).
+Q: Where are classes held?
+A: Classes are split between Maharishi Kanad Bhawan (Floors 2 & 3) and DU Computer Centre/DUCC (Classes R1-R4 on Floors 2 & 3). They are walkable.
+Q: Where are the labs?
+A: All labs are located in Maharishi Kanad Bhawan.
+Q: Where is the Admin Office?
+A: Room G-14, Ground Floor, Maharishi Kanad Bhawan.
+Q: When will permanent campus be ready?
+A: Expected by mid-2026.
+Q: Are classrooms AC?
+A: Yes, all classrooms are fully air-conditioned.
+
+Academics
+Q: What branches are offered?
+A: CSE, ECE, and EE (120 seats each).
+Q: How is the faculty?
+A: Highly qualified, many from IITs, DTU, and NSUT.
+Q: What is the curriculum like?
+A: Based on NEP, similar to IIT pattern, flexible and updated.
+Q: How difficult are exams?
+A: Moderate to tough, 85% pass percentage typically.
+
+Placements
+Q: What about placements?
+A: First batch graduates in 2027. Expected average: ₹8-12 LPA.
+Q: Are internships available?
+A: Students pursue internships independently. Some at DRDO, Google, etc.
+Q: Which companies visit DU?
+A: Google, Microsoft, Deloitte, TCS, Wipro, Accenture, etc. visit DU.
+
+Campus Life
+Q: Is there a college fest?
+A: Not yet, but students can attend fests at other DU colleges.
+Q: Are there clubs and societies?
+A: Not currently, expected once permanent campus is ready.
+Q: What is campus life like?
+A: Part of DU North Campus culture, diverse crowd, good networking.
+
+Comparison
+Q: FoT vs DTU - which is better?
+A: DTU has established placements and infrastructure. FoT has lower fees and DU brand.
+Q: Should I choose FoT over a private college?
+A: FoT is government, lower fees, DU brand. Better long-term value.
+Q: Is FoT recognized?
+A: Yes, fully recognized by UGC, AICTE under Delhi University.
+
+📈 FUTURE PROSPECTS
+Short-term (2025-2027)
+First batch placements in 2027
+Permanent campus construction completion
+Establishment of technical clubs
+Beginning of college traditions
+Industry partnerships development
+Long-term (2027+)
+Established placement record
+Strong alumni network
+Dedicated campus with full facilities
+Recognized as top DU engineering college
+Increased industry collaborations
+Research opportunities expansion
+
+Career Options After B.Tech
+Placements: Campus placements from 7th semester
+Higher Studies: M.Tech (IITs, NITs, DU), MS abroad, MBA
+Competitive Exams: GATE, UPSC ESE, Banking/SSC
+Entrepreneurship: Startup ecosystem support
+Research: PhD opportunities in India/abroad
+
+🏆 NOTABLE POINTS
+Key Highlights
+✨ Part of Delhi University (Rank 15 in NIRF 2025)
+✨ Government institution with affordable fees
+✨ 90% fee concession for economically weaker sections
+✨ Faculty from IITs, DTU, NSUT
+✨ NEP-based curriculum
+✨ Located in prestigious North Campus
+✨ Legacy of DTU and NSUT
+✨ Strong DU alumni network access
+✨ Expected excellent placements from 2027
+
+Remember
+New college (established 2023)
+Building future together as pioneer batches
+Temporary challenges, permanent opportunities
+DU brand opens many doors
+Location advantage for internships and placements
+Government college credibility
+Affordable quality education
+
+Last Updated: November 2025
+Note: Information is accurate as of the knowledge cutoff. For latest updates, always check official website: fot.du.ac.in
+
+# Faculty of Technology - General Information & Updates
+**Source:** Official Website (fot.du.ac.in)
+**Last Updated:** November 2025
+
+---
+
+## Contact Details
+**Location:** Faculty of Technology, Maharishi Kanad Bhawan, University of Delhi, Delhi-110007, India.
+**Landline:** 011-27662880
+**Official Emails:**
+* **Office:** office@fot.du.ac.in
+* **Dean:** dean_fot@du.ac.in
+
+---
+
+## Administration & Leadership
+**Dean, Faculty of Technology:**
+* **Name:** Prof. Sanjeev Singh
+* **Email:** dean_fot@du.ac.in

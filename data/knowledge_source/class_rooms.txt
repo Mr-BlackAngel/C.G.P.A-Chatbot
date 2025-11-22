@@ -1,0 +1,65 @@
+## CAMPUS ROOM INVENTORY & MAP
+**Location:** Faculty of Technology, Maharishi Kanad Bhawan (North Campus) & DUCC Building.
+**Primary Admin Room:** G-14 (Ground Floor, Kanad Bhawan).
+
+---
+
+## 1. BUILDING LAYOUT (FLOOR PLAN)
+Use this section to answer "Where is X?" questions.
+
+### Maharishi Kanad Bhawan
+* **Ground Floor:** Administrative Offices (Room G-14), Moot Court/Event Hall.
+* **1st Floor:** Faculty of Law (Integrated Law Programme).
+* **2nd Floor:** Engineering Classrooms (203-216) & Labs (211, 217, 219).
+* **3rd Floor:** Engineering Classrooms (313-314) & Labs (303, 304, 311, 312, 317).
+* **4th Floor:** Institution of Eminence (IoE).
+* **5th Floor:** Energy Resources Lab (Room 513).
+
+### DU Computer Centre (DUCC)
+* **2nd Floor:** Lecture Halls R1, R2.
+* **3rd Floor:** Lecture Halls R3, R4.
+
+---
+
+## 2. VACANCY CALCULATION LISTS
+Use these specific lists for the "Subtraction Logic" when finding free rooms.
+
+[LECTURE HALLS]
+(These are General Theory Rooms. If not listed in the Timetable for a specific time, they are considered VACANT).
+- Room 203
+- Room 204
+- Room 212
+- Room 213
+- Room 214
+- Room 216
+- Room 313
+- Room 314
+- Room R1 (DUCC)
+- Room R2 (DUCC)
+- Room R3 (DUCC)
+- Room R4 (DUCC)
+
+[LABORATORIES]
+(These rooms contain equipment. Even if free, they are usually locked/unavailable for general study).
+- Room 211: IEEE Lab / Computer Lab
+- Room 217: FCP / NTI Computer Lab
+- Room 219: EMT Lab (Electromagnetics)
+- Room 303: VLSI / Control Systems Lab
+- Room 304: Physics Lab
+- Room 311: Electronics Workshop / DE Lab
+- Room 312: DSP Lab / Simulation Lab
+- Room 317: Digital System Design (DSD) / Analog Lab
+- Room 513: Energy Resources (ER) Lab
+
+---
+
+## 3. LOGIC PROTOCOLS
+**Rule 1: Finding Locations**
+If User asks "Where is the Physics Lab?", look at the [LABORATORIES] list (Answer: Room 304, 3rd Floor).
+
+**Rule 2: Finding Vacant Rooms**
+If User asks "Which rooms are free?", follow this MATH:
+1. Identify the list of [LECTURE HALLS] above.
+2. Check the [TIMETABLE] for the current time.
+3. Remove any Lecture Hall currently mentioned in the timetable.
+4. Output the remaining rooms as "Vacant."

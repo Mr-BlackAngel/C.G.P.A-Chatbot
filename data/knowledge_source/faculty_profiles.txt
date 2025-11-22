@@ -1,0 +1,486 @@
+# Faculty of Technology - Faculty Profiles 
+
+---
+
+## Dr. Arjun Tyagi
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** arjuntyagi@fot.du.ac.in
+**Ph.D.:** Indian Institute of Technology Delhi, New Delhi (2018)
+
+### Awards & Fellowships
+* **Premier Research Award for Excellence in Research:** Netaji Subhas University of Technology (16-03-2023)
+* **Gold Medal in M. Tech.:** University (2013)
+* **B. Tech. degree with Honours:** University (2010)
+* **MHRD Scholarship:** Ministry of Human Resource Development, Govt. of India (2013)
+* **CSIR Grant:** Council of Scientific and Industrial Research, National Level
+* **International Travelling Grant:** Department of Science and Technology (DST)
+* **First position in Bhartiya Sanskriti Gyan Pariksha:** Shantikunj, Haridwar (2000)
+
+### Teaching Experience
+* **Assistant Professor (Permanent):** Faculty of Technology, University of Delhi (10-06-2021 to Present)
+* **Assistant Professor (Permanent):** Shri Mata Vaishno Devi University (27-08-2018 to 08-04-2021)
+
+### Research Publications (Journals)
+* *Single-Sensor based CSPO Algorithm for Maximum Power Point Tracking under Dynamic Shading Conditions* (Journal of The Institution of Engineers (India): Series B, 2024)
+* *Sustainable Charging Station Allocation in the Distribution System for Electric Vehicles Considering Technical, Economic, and Societal Factors* (Journal of Energy Storage, 2023)
+* *Vulnerability Assessment of Thermal Power Plants in India under water stress conditions* (Energy, 2023)
+* *Purchase cost based reconfiguration of distribution system under varying loads and renewable generation* (Sustainable Energy, Grids and Networks, 2023)
+* *Assessment of Frameworks and Initiatives for Electric Vehicle Adoption and Augmenting Charging Infrastructure in Indian States* (Energy Sources, Part A, 2023)
+* *A Review on Reactive Power Capability of Distributed Solar PV Inverter in Distribution Systems* (Int. Journal of Social Ecology and Sustainable Development, 2022)
+* *Optimal allocation of electric vehicles charging infrastructure, policies and future trends* (Journal of Energy Storage, 2021)
+* *Optimal Allocation Provision for EV Charging Stations in the Low Voltage Distribution System* (Int. Journal of Electrical Engineering and Technology, 2021)
+* *Optimization of the renewable-energy-based micro-grid for rural electrification in northern region of India* (Clean Technologies and Environmental Policy, 2020)
+* *Distribution Network Reconfiguration under Uncertainties in Load and Renewable Generation Forecast* (Int. Journal of Scientific & Technology Research, 2020)
+* *A Novel Scheme of Parameters Control of Microturbine System at Different Loading Conditions* (Journal of Information and Optimization Sciences, 2020)
+* *An Efficient Load Flow Solution for Distribution System with Addition Distributed Generation* (Journal of Electrical Systems and Information Technology, 2020)
+* *Optimal Placement and Sizing of Distributed Generation in an Unbalance Distribution System using Gray Wolf Optimization Method* (Int. Journal of Power and Energy Conversion, 2019)
+* *An Efficient Technique for Power Management in Hybrid Solar PV and Fuel Cell System* (Taylor & Francis Smart Science, 2018)
+* *Loadability Assessment and Enhancement in Unbalanced Distribution Systems* (IEEE CSEE Journal of Power and Energy Systems, 2018)
+* *Reconfiguration for Loadability Limit Enhancement of Distribution Systems* (IET Generation, Transmission & Distribution, 2018)
+* *Optimal Allocation of Distributed Photovoltaic Generation on Electrical Distribution System under Uncertainties* (Journal of Electrical Engineering & Technology, 2017)
+
+### Books & Chapters
+* *Cost-effective Evaluation of PV/Biomass Microgrid for Rural Electrification* (Springer, 2024)
+* *Modern transport system: Various categories and transitioning challenges* (CRC Press, 2023)
+* *Solar Fed Speed Control of Water Pumping System using Constant Voltage Controlled MPPT Technique* (Springer, 2023)
+* *Optimal Planning of EV Charging Infrastructure in Distribution System* (Springer, 2023)
+* *Constant Voltage Controlled MPPT for PV Fed Water Pumping System* (Springer, 2023)
+* *History and Application of Solar PV System* (CRC Press, 2022)
+* *Solar Power Forecasting* (CRC Press, 2022)
+* *Climate Change And Renewable Energy: Improvements And Interpretations* (CRC Press, 2022)
+* *Renewable Energy-Driven Charging Station for Electric Vehicles* (Springer, 2021)
+
+### Conference Papers
+* *NARX Model Based Estimation of State of Charge of Lithium-Ion Batteries* (IEEE, 2023)
+* *Effect of Climate Change on Water and Power Generation in India* (ICSEGT, 2023)
+* *Identification and Prioritization of Barriers to Smooth Adoption of Electric Vehicles in India* (IEEE, 2022)
+* *Artificial Neural Network based State of Charge (SOC) estimation* (IEEE, 2022)
+* *Optimal Utilization of Reactive Power Capabilities of Distributed Solar PV Inverter* (IEEE, 2022)
+* *Prospective on Electric Vehicles in India: Scope and Barriers* (IEEE, 2021)
+* *Analysis of Different Configuration of Multi-Pulse Converter for Speed Drive System* (RDCAPE, 2021)
+* *Water-Energy Nexus: Vulnerability Assessment* (EGU Austria, 2019)
+* *A New Multilevel Inverter Topology with Minimal Power Electronics Component* (IEEE, 2019)
+
+---
+
+## Dr. Jeetendra Prasad
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** jeetendra@fot.du.ac.in
+**Phone:** 9999999999
+
+### Education
+* **Ph.D. (Electrical Engineering):** Motilal Nehru National Institute of Technology Allahabad (2021)
+* **PG:** Maulana Azad National Institute of Technology, Bhopal (2013)
+* **UG:** Galgotia College of Engineering and Technology, Greater Noida (2011)
+
+### Administrative Experience
+* **Convener:** Anti-Ragging Committee (20-10-2023 to Present)
+* **Member:** Disciplinary Committee, Students Grievance Committee, Time Table Committee (20-10-2023 to Present)
+* **Hostel Warden:** 22-11-2021 to 18-10-2023
+* **Member:** Internal Admission Committee (20-09-2023 to Present)
+
+### Awards & Patents
+* **Patent:** *An Energy Harvesting, Storage and Delivery System* (National Patent 202011042654, Published/Awarded 30-09-2020)
+* **Award:** Gandhian Young Technology Innovation (GYTI) Awards 2020 (Dept of Science & Technology, Govt of India)
+* **Award:** Best Ph.D. Thesis Award, KPIT Shodh Awards (IISER Pune, 26-03-2022)
+* **Fellowship:** Visvesvaraya Ph.D Scheme for Electronics and IT (MeitY)
+* **Fellowship:** MHRD Fellowship for M.Tech
+
+### Research Publications
+* *Review on improving microbial fuel cell power management systems for consumer applications* (Energy Reports, 2022)
+* *Self-Starting Power Management System For Sediment Microbial Fuel Cell to Power Electronic Devices* (Topics In Intelligent Computing, 2022)
+* *Scale-up and Control the Voltage of Sediment Microbial Fuel Cell for Charging a Cell Phone* (Biosensors and Bioelectronics, 2020)
+* *Voltage Control of Sediment Microbial Fuel Cell to Power the AC Load* (Journal of Power Sources, 2020)
+* *Effect of Sediment Microbial Fuel Cell Stacks on 9V/12V DC Power Supply* (International Journal of Hydrogen Energy, 2020)
+* *Energy Harvesting from Sediment Microbial Fuel Cell to Supply Uninterruptible Regulated Power* (International Journal of Energy Research, 2019)
+* *Scale Up Sediment Microbial Fuel Cell for Powering Led Lighting* (International Journal of Renewable Energy Development, 2018)
+* *Energy Harvesting from Sediment Microbial Fuel Cell Using Different Electrodes* (International Journal of ChemTech Research, 2018)
+* *Electricity Generation from River Water Sediments using Microbial Fuel Cell* (Int. Research Journal of Basic and Applied Sciences)
+
+### Conference Papers & Talks
+* *Expert Talk:* "Step-Up And Control the Output Voltage of Microbial Fuel Cell" (NSUT Delhi, 21-10-2024)
+* *Expert Talk:* "Artificial Intelligence in Power Engineering" (16-10-2024)
+* *Speaker:* Innovation on green energy generation from Microbial Fuel Cell (20-05-2022)
+* *Paper:* A Dc-Dc Boost Converter for Sediment Microbial Fuel Cell Energy Harvesting (IEEE, 2018)
+* *Paper:* Series and Hybrid Connection of Sediment Microbial Fuel Cell for Powering Led (IEEE, 2017)
+* *Paper:* Maximum Electricity Generation from Low Cost Sediment Microbial Fuel Cell (IEEE, 2017)
+
+### Professional Development
+* **Organizer:** Artificial Intelligence in Power Engineering (University of Delhi)
+* **Resource Person:** ATAL FDP on Emerging Trends in Control and Sensor Technologies (2024)
+
+---
+
+## Dr. Diptiranjan Samantaray
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** drsamantaray@fot.du.ac.in
+**Phone:** 7978761836
+
+### Education
+* **Ph.D.:** Indian Institute of Technology (BHU), Varanasi (2022)
+* **PG:** IIT, Kharagpur (2015)
+* **UG:** BPUT, Odisha (2009)
+
+### Teaching Experience
+* **Assistant Professor:** Vignan's Institute of Technology, Visakhapatnam (28-09-2022 to 04-11-2023)
+* **Assistant Professor:** Vijayanjali Institute of Technology, Balasore (01-07-2009 to 31-12-2011, 01-07-2015 to 12-07-2017)
+
+### Courses Taught
+* **Tutorial:** Mathematics-I (DSC-1) - ECE-B, EE
+* **Lecture:** Introduction to Electrical and Electronics Engineering (DSC-5) - CSE-A, EE
+* **Workshop:** Computer Workshop (SEC) - EE CW5, ECE B CW4, ECE A CW2, ECE B CW3, ECE A CW1
+* **Workshop:** Electronics Workshop (SEC) - ECE B1
+
+### Research Publications
+* *A Broadband Transmissive Type Metasurface Cross-Polarization Converter for EMC Application* (IEEE Transactions on Electromagnetic Compatibility, 2022)
+* *Modified Slotted Patch Antenna With Metasurface as Superstrate for Dual-Band Applications* (IEEE Antennas and Wireless Propagation Letters, 2022)
+* *A Gain-Enhanced Slotted Patch Antenna Using Metasurface as Superstrate Configuration* (IEEE Transactions on Antennas and Propagation, 2020)
+
+---
+
+## Dr. Rekha R.
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** rekhashenoy@fot.du.ac.in
+**Phone:** 9447414283
+
+### Education
+* **Ph.D.:** National Institute of Technology Calicut (2017)
+* **PG:** National Institute of Technology Calicut (2009)
+* **UG:** Kerala University (2002)
+* **NET Qualified:** CBSE (16-04-2016)
+* **GATE Qualified:** IIT Kanpur (15-03-2007)
+
+### Experience
+* **Lead Research Engineer:** Siemens Technology and Service Private Limited (23-01-2023 to 12-01-2024)
+* **Research Associate:** University of Oxford (10-12-2021 to 04-01-2023)
+* **UGC-Dr. DS Kothari Post Doctoral Fellow:** Indian Institute of Science Bengaluru (10-10-2018 to 09-10-2021)
+* **Research Associate:** Indian Institute of Science Bengaluru (10-07-2017 to 09-10-2018)
+* **Lecturer:** College of Engineering Perumon (2002–2004, 2006–2007)
+* **Lecturer:** Cooperative Institute of Technology Vadakara (2004–2006)
+
+---
+
+## Dr. Vanita Jain
+**Designation:** Associate Professor
+**Department:** Department of Electronics Science SDC
+**Email:** vjain@electronics.du.ac.in
+
+### Education
+* **Ph.D.:** V.J.T.I., Mumbai University
+* **PG:** N.I.T., Kurukshetra
+* **UG:** Punjab Engineering College, Chandigarh (1988)
+
+### Experience
+* **Professor:** Bharati Vidyapeeth’s College of Engineering, New Delhi (02-08-2010 to 25-08-2023)
+* **Associate Professor:** Thadomal Shahani Engg. College, Mumbai (01-01-2006 to 10-04-2008)
+* **Assistant Professor:** Thadomal Shahani Engg. College, Mumbai (01-01-2000 to 31-12-2005)
+* **Lecturer:** Thadomal Shahani Engg. College (1993–1999), NIT Kurukshetra (1989–1990)
+
+### Professional Memberships
+* **Member:** IEEE (2024)
+* **Professional Member:** ACM (2014)
+* **Fellow:** The Institution of Engineers (India) (1999)
+
+### Research Projects
+* **Minor Project (2024):** *Development of AI-Driven application for Enhancing Sickle Cell Disease Management in Tribal Populations* (Sanctioned 30-08-2024). Features: OTSU thresholding, Gaussian filtering, Hyperbolic Residual SVM, Explainable AI (GradCAM), LLM-powered chatbot.
+* **Minor Project (2013):** *Microsoft Private Cloud for Academic and Faculty Research* (Sanctioned 02-09-2013).
+
+### Selected Publications (2024-2025)
+* *Deep ensembled voting framework for human activity recognition and validation on video sequences* (Evolving Systems, 2025)
+* *Enhancing Security Systems: Human Activity Recognition Using Transfer Learning Model* (Int. Journal of Information Technology, 2025)
+* *Unsupervised Object Detection using Patch Based Image Classifier and Gradient Importance Map* (Int. Journal of Information Technology, 2025)
+* *Part of speech-based semantic similarity for RDF Predicate Selection* (Journal of Information and Optimization Sciences, 2024)
+* *Semantic Search Framework over Knowledge Bases using Embeddings-based Similarity* (Journal of Discrete Mathematical Sciences & Cryptography, 2024)
+* *Weather prediction using regression algorithm and neural network technique* (Int. Journal on Technical and Physical Problems of Engineering, 2024)
+* *Semantic Web of Things for pollution measurement and validation interoperability* (Journal of Information and Optimization Sciences, 2024)
+* *Identification of social network automated hate speech using GLTR with BERT and GPT-2* (Journal of Information and Optimization Sciences, 2024)
+* *Improving generalization for geometric variations in images for efficient deep learning* (Multimedia Tools and Applications, 2024)
+* *PVSyst enabled real time evaluation of Grid Connected Solar Photovoltaic System* (Int. Journal of Information Technology, 2024)
+
+---
+
+## Dr. Deepika
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** deepika0323@fot.du.ac.in
+**Phone:** 9915268470
+
+### Education
+* **Ph.D.:** Punjab Engineering College (Deemed to be University), Chandigarh
+* **PG:** Punjab Engineering College (Deemed to be University), Chandigarh
+* **UG:** UIET, Panjab University, Chandigarh
+
+### Experience
+* **Assistant Professor:** Chitkara University (06-01-2023 to 22-12-2023)
+* **Assistant Professor:** Punjab Engineering College (02-08-2019 to 31-12-2022)
+* **Assistant Professor:** Lovely Professional University (21-07-2015 to 29-04-2016)
+
+### Awards & Patents
+* **Patent (National):** *Development of novel Al7075-T6/SiC/Crumb Rubber/MoS2 based green hybrid metal matrix composite* (No. 559387, Published 31-01-2025)
+* **Best Paper Award:** NIT Patna (23-05-2025)
+* **MHRD Scholarship:** Ministry of Education (2016)
+* **Topper in M.E.:** Punjab Engineering College (2015)
+* **B.Tech Honours (Topper):** Panjab University (2013)
+
+### Research Publications
+* *Empirical investigation on controlled porosity level and dry sliding wear behavior of Al7075-(T6) doped with SiC+ MoS2* (Proceedings of the Institution of Mechanical Engineers, Part C, 2024)
+* *Morphological and mechanical behavior of novel Al7075 (T6)+ 3.5% SiC+ 0.3% CR+ 5.5% MoS2-based green hybrid composite* (Part E: Journal of Process Mechanical Engineering, 2024)
+* *Experimental probe on machining attributes of Al 7075-T6/SiC/crumb rubber/MoS2-based green hybrid composite* (Part E: Journal of Process Mechanical Engineering, 2023)
+* *Tribological properties of novel Al 7075 (T6)-SiC-crumb rubber-MoS2-based hybrid composites* (Part L: Journal of Materials: Design and Applications, 2023)
+* *Hyperbolic uncertainty estimator based fractional order sliding mode control framework* (ISA transactions, 2022)
+* *Frameworks for double hyperbolic function-based robust sliding mode differentiator* (Asian Journal of Control, 2022)
+* *Exponential state observer based finite time control of fully active hybrid energy storage system* (Sādhanā, 2022)
+* *Performance Analysis of Variants of Super-twisting Sliding Mode Control based Governor Designs* (SADHANA, 2022)
+* *Integrated Robust Governor Technique for Hydraulic Generating Regulated System* (Energy Sources, Part A, 2021)
+* *Globally robust adaptive critic based neuro-integral terminal sliding mode technique* (Int. Journal of Precision Engineering and Manufacturing, 2020)
+* *Integral terminal sliding mode control unified with UDE for output constrained tracking* (ISA Transactions, 2020)
+
+### Projects
+* **Project:** *Fractional order sliding mode control of fractional order chaotic systems* (Sanctioned 2024, Duration: 9 months)
+
+---
+
+## Dr. Krishnakanta Mondal
+**Designation:** Assistant Professor
+**Department:** Department of Physics and Astrophysics
+**Email:** kmondal@physics.du.ac.in
+**Phone:** +91-11-27667155
+
+### Education
+* **Ph.D.:** Homi Bhabha National Institute, Raja Ramanna Centre For Advanced Technology
+* **PG & UG:** Burdwan University
+
+### Research Publications (2023-2024)
+* *Density functional investigation on the structures and properties of Li atom doped Au20 cluster* (Molecular Physics, 2024 - Communicated)
+* *Dithiophosphonate Anchored Heterometallic (Ag (I)/Fe (II)) Molecular Catalysts for Electrochemical Hydrogen Evolution Reaction* (Inorganic Chemistry, 2024 - Communicated)
+* *Remarkable structural effect on the gold–hydrogen analogy in hydrogen-doped gold cluster* (The Journal of Physical Chemistry A, 2024 - Communicated)
+* *Heterostructures of 2D Core/Shell Nanoplatelets with 2D MoS2 as Efficient Electrocatalyst* (ACS Applied Energy Materials, 2024 - Communicated)
+* *Effect of hydrogen atom doping on the structure and electronic properties of 20-atom gold cluster* (The Journal of Physical Chemistry C, 2024 - Communicated)
+* *Adsorption and activation of CO2 on Zrn (n=2–7) clusters* (Physical Chemistry Chemical Physics, 2024 - Communicated)
+* *Dumbbell-shaped ternary transition-metal (Cu, Ni, Co) phosphate bundles: a promising catalyst for OER* (ACS Applied Materials & Interfaces, 2024 - Communicated)
+* *Electronic Structure and Quantum Capacitance Analysis of Transition Metal Doped Cobalt Diselenide* (Journal of Physics and Chemistry of Solids, 2023)
+* *Does Water Play a Crucial Role in the Growth of ZnO Nanoclusters in ZnO/Cu Catalyst?* (The Journal of Physical Chemistry C, 2024 - Communicated)
+* *Exploring the Role of CoTe/Co3O4 Composite Catalyst for Enhanced Oxygen Evolution Reaction* (ACS Applied Engineering Materials, 2024 - Communicated)
+* *Ag–S Type Quantum Dots versus Superatom Nanocatalyst* (Inorganic Chemistry, 2023)
+* *Theoretical investigation of quantum capacitance of Co-doped α-MnO2 for supercapacitor* (Physical Chemistry Chemical Physics, 2023)
+* *Nanoinformatics based insights into the interaction of blood plasma proteins with carbon based nanomaterials* (Advances in Protein Chemistry, 2024)
+* *Co3O4/WO3/C Nanorods with Porous Structures as High-Performance Electrocatalysts* (ACS Applied Nano Materials, 2024)
+
+### Talks
+* **Speaker:** International Workshop "Multiscale Modeling of Materials in Carbon Related Nanostructures" (12-05-2023)
+
+---
+
+## Dr. Amol Singh
+**Designation:** Assistant Professor
+**Department:** Department of Physics and Astrophysics
+**Email:** asingh1@physics.du.ac.in
+**Phone:** +918989006807
+
+### Education
+* **Ph.D.:** Homi Bhabha National Institute (2016)
+* **PG & UG:** Chattrapati Shahu Ji Maharaj University Kanpur (2009, 2007)
+
+---
+
+## Dr. Juhi Jain
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** juhijain@fot.du.ac.in
+**Phone:** +919910020183
+
+### Education
+* **Ph.D.:** Delhi Technological University (2021)
+* **PG:** Guru Gobind Singh Indraprastha University (2010)
+* **UG:** Maharishi Dayanand University, Rohtak (2004)
+
+---
+
+## Dr. Ajay Kumar Gupta
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** ajaykrgupta@fot.du.ac.in
+
+### Education
+* **Ph.D.:** Indian Institute of Technology- Delhi (2024)
+* **PG:** Indian Institute of Technology- Guwahati (2009)
+* **UG:** Uttar Pradesh Technical University (2006)
+* **NET Qualified:** UGC (05-11-2017)
+* **GATE Qualified:** IIT Kharagpur (2006, 2014)
+
+### Experience
+* **Assistant Professor:** Maharaja Agrasen Institute of Technology, Delhi (02-02-2011 to 21-05-2025)
+* **Assistant Professor:** Ajay Kumar Garg Engineering College (2010–2011)
+* **Assistant Professor:** VIT University, Vellore (2009–2010)
+* **Lecturer:** Bharat Institute of Technology, Meerut (2006–2007)
+
+### Research Publications
+* *Constrained maximum correntropy criterion based sparse algorithm for sparse channel estimation* (Signal, Image and Video Processing, 2025)
+* *A Non-Cooperative Pricing Strategy for UAV-Enabled Charging of Wireless Sensor Network* (IEEE Transactions on Green Communications and Networking, 2025)
+* *St-Hot: A Prospect of Price Equilibrium in a Multi-Player Game for Electric Vehicle Charging* (IEEE Access, 2024)
+* *A Comprehensive Pricing-Based Scheme for Charging of Electric Vehicles* (IEEE Systems Journal, 2023)
+* *Pricing Based Scheme for UAV-Enabled Wireless Energy Transfer* (IEEE Transactions on Vehicular Technology, 2022)
+
+### Non-Journal Publications
+* **Book:** *Statistics, Statistical Modelling and Data Analytics* (S. K. Kataria and Sons, 2024)
+* **Conference Paper:** *Microcontroller-Driven Voice-Based Smart Wheelchair Navigation* (IEEE, 2024)
+* **Conference Paper:** *Pricing Scheme for UAV-Enabled Charging of Sensor Network* (IEEE, 2021)
+* **Conference Paper:** *A fast and area efficient 2-D convolver for real time image processing* (IEEE, 2009)
+
+---
+
+## Mr. Ajay Sahu
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** ajayksahu@fot.du.ac.in
+
+### Education
+* **PG:** Delhi Technological University (2019)
+* **UG:** Chhattisgarh Swami Vivekanand Technical University (2016)
+* **Fellowships:** AICTE PG Scholarship (National), Ph.D. Institute Fellowship (NIT Raipur)
+
+### Experience
+* **Assistant Professor:** Faculty of Technology (Presently Working since 16-06-2025)
+
+### Patents (National)
+* *Single-Phase Micro Converter System* (Filed 2024)
+* *Multiple Input DC-DC Converter with Series Parallel Reconfiguration* (Filed 2025)
+* *Multiple Input DC-DC Converter with Dynamic Reconfiguration* (Filed 2025)
+* *Pedal Assisted Gear Assemble for e-Cycles* (Published 2025)
+* *AI-Based Reconfigurable Battery Pack* (Published 2025)
+* *Smart System for Safety of Firefighters* (Published 2022)
+
+### Research Publications
+* *ANN Controlled Single-Phase Microinverter for Off-Grid Solar Application* (IEEE Journal of Emerging and Selected Topics in Power Electronics, 2025)
+* *Solar Microinverter with ESS for Rural Households* (IEEE Conference, 2025)
+* *Integrated Design of MPPT and DC-DC Buck Converter for Efficient Battery Charging* (IEEE Conference, 2025)
+* *A Design Oriented Dynamic Teaching Approach for Power Electronics* (IEEE Conference, 2023)
+* *Reconfigurable and Swappable Battery Packs for Electric Vehicles* (IEEE Conference, 2023)
+* *Reconfigurable Smart Charging Station with Multi-Segment Vehicle Accommodability* (IEEE Conference, 2023)
+* *Novel Design of Swappable Battery Pack for Multi-Segment Vehicle* (IEEE Conference, 2023)
+* *Performance of Three-Phase Induction Motor with Space Vector Pulse Width Modulation* (IEEE Conference, 2023)
+* *Performance Analysis of Two-Stage Micro-Inverter under Different Pulse Modulation Techniques* (IEEE Conference, 2023)
+* *Experimental Investigation and Power Quality Analysis of Solar Micro-inverter* (E3S Web of Conferences, 2023)
+* *Single-phase Inverter with Common Ground and Voltage Boost Operation* (IEEE Conference, 2022)
+
+### Awards
+* **Ideathon 1.0 "Krishi Samvardhan":** CSVTU Bhilai (26-02-2023)
+* **Youth Conclave:** IIT Bhilai & INAE (13-12-2024)
+
+---
+
+## Mr. Khushwant Sehra
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** khushwantsehra@fot.du.ac.in
+
+### Education
+* **PG:** Guru Gobind Singh Indraprastha University (2019) - Gold Medalist (1st Rank)
+* **UG:** University of Delhi (2017)
+* **NET Qualified:** UGC-NET (12-07-2019)
+
+### Fellowships & Awards
+* **Summer Research Fellowship:** Bhabha Atomic Research Centre, Mumbai (2016)
+* **Summer Research Fellowship:** University of Delhi (2018)
+* **Finalist:** National Innovation Contest 2020 (MoE, Govt of India)
+* **White Paper Award:** Silvaco Inc., USA (2021)
+* **Best Paper Award:** IEEE International Conference on Electrical, Electronics and Computer Engineering (2019)
+* **Best Poster Award:** University of Calcutta - CODEC (2019)
+* **Best Poster Award:** University of Delhi, Convocation Ceremony (2016)
+* **Academic Merit:** Deen Dayal Upadhyaya College (1st Rank in 2nd, 4th, 6th Sem)
+
+### Courses Taught
+* **Lecture:** Mathematics-I, Mathematics-II, GE: MATLAB, VLSI Technology, Digital System Design
+* **Workshop:** Electronics Workshop, Advanced Electronics Workshop
+
+### Research Publications (Journals)
+* *On the Single-Event Burnout Performance of a GaN HEMT With Sunken Source-Connected Field Plate Architecture* (IEEE Transactions on Electron Devices, 2024)
+* *A Comparative Study of n- and p- Channel FeFETs with Ferroelectric HZO Gate Dielectric* (Solids, 2024)
+* *On the Double Channel Engineering of Dual Gate AlGaN/GaN HEMTs for Heavy Ion Sensing Applications* (Micro and Nanostructures, 2023)
+* *Physical Insights into the reliability of Sunken Source Connected Field Plate GaN HEMTs* (Microelectronics Reliability, 2023)
+* *Impact of Barrier Layer Thickness on DC and RF performance of AlGaN/GaN High Electron Mobility Transistors* (Applied Physics A, 2023)
+* *Efficacy of back barrier engineered Π-Gate InAlN/GaN HEMTs* (Journal of Physics D: Applied Physics, 2023)
+* *Investigation of SiNx Passivated Dual Field Plate AlGaN/GaN HEMTs on Silicon Carbide* (Silicon, 2023)
+* *Efficacy of Π-Gate in RF Power Performance of Thin GaN Buffer AlGaN/GaN HEMTs* (IEEE Transactions on Electron Devices, 2023)
+* *A Low-Resolution Real-Time Face Recognition using Extreme Learning Machine* (The Imaging Science Journal, 2023)
+* *XAI-FR: Explainable AI-Based Face Recognition Using Deep Neural Networks* (Wireless Personal Communications, 2022)
+* *Secure Digital Image Watermarking using Memristor based Hyperchaotic circuit* (The Visual Computer, 2022)
+* *Multilayer perceptron–random forest based hybrid machine learning* (Int. Journal of RF and Microwave, 2022)
+* *A Π-Shaped Gate p-GaN HEMT for Reliable Enhancement Mode Operation* (Microelectronics Reliability, 2022)
+* *Impact of Gamma Radiations on Static, Pulsed I-V and RF Performance Parameters of AlGaN/GaN HEMT* (IEEE Transactions on Electron Devices, 2022)
+* *Interplay Between γ–Ray Irradiation and 3DEG for Dosimeter Applications* (IEEE Access, 2022)
+* *TCAD based Investigation of Single Event Transient Effect in Double Channel AlGaN/GaN HEMT* (IEEE TDMR, 2021)
+* *Robust and Secure Digital Image Watermarking Technique Using Arnold Transform* (IEEE Access, 2021)
+* *Proton irradiation effects on buffer-free gallium nitride on silicon carbide* (Semiconductor Science and Technology, 2021)
+* *Impact of Heavy Ion Particle Strike Induced Single Event Transients* (Semiconductor Science and Technology, 2021)
+* *Optimization of Π-Gate AlGaN/AlN/GaN HEMTs for Low Noise* (Silicon, 2020)
+
+### Books & Chapters
+* *Comparative Investigation of Single and Double Channel AlGaN/GaN HEMTs for LNAs* (Springer, 2024)
+* *Implications of Field Plate HEMT Towards Power Performance at Microwave X-Band* (Springer, 2022)
+* *Emerging Device Architectures for Space Electronics* (Springer, 2022)
+* *An Asymmetric Π-Gate MOSHEMT Architecture for High Frequency Applications* (Springer, 2021)
+* *Enhancement in Electrical Characteristics of AlGaN/GaN HEMT* (Springer, 2021)
+
+---
+
+## Ms. Shivani Kumari
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** shivanikumari@fot.du.ac.in
+**Phone:** 7876606108
+
+### Education
+* **Ph.D.:** Delhi Technological University (Pursuing)
+* **PG:** Himachal Pradesh University, Shimla (2019)
+* **UG:** Himachal Pradesh University, Shimla (2017)
+* **Diploma:** HP Takniki Shiksha Board (2013)
+* **NET Qualified:** UGC (30-11-2020)
+* **GATE Qualified:** IIT Roorkee (2025), IIT Delhi (2020)
+
+### Awards
+* **UGC-JRF:** UGC National Fellowship
+
+### Publications
+* *An Energy Efficient System for IoT Enabled Smart Applications: Research Challenges and Open Issues* (IEEE, 2023)
+
+---
+
+## Ms. Geetanjali Bhola
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** geetanjali@fot.du.ac.in
+**Phone:** 9818133708
+
+### Education
+* **Ph.D.:** Delhi Technological University (Pursuing/Completed)
+* **PG:** Delhi Technological University (2013)
+* **UG:** MDU Rohtak (2009)
+
+### Experience
+* **Assistant Professor:** Delhi Technological University (22-07-2014 to 14-05-2025)
+
+---
+
+## Mr. Unmesh Shukla
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** ushukla@ce.du.ac.in
+**Phone:** 7892242961
+
+### Education
+* **Ph.D.:** University of Delhi (Doctor of Philosophy)
+* **PG:** Indian Institute of Information Technology Allahabad (2016)
+* **UG:** Rajiv Gandhi Proudyogiki Vishwavidyalaya (2014)
+
+---
+
+## Prof. Sangeeta Yadav
+**Designation:** Assistant Professor
+**Department:** Faculty of Technology
+**Email:** shongmusic@gmail.com
+**Phone:** 7892056563

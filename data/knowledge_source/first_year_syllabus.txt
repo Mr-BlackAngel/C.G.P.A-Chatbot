@@ -1,0 +1,362 @@
+# Faculty of Technology (University of Delhi) - First Year Syllabus
+**Course:** B.Tech (Common for CSE, ECE, EE)
+**Effective Session:** 2023-24 onwards
+
+---
+
+## SEMESTER 1 COURSE STRUCTURE
+
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-1 | Mathematics-I | 4 | 3-1-0 |
+| DSC-2/5| Physics OR Introduction to Electrical & Electronics Engineering | 4 | 3-0-1 |
+| DSC-3 | Fundamentals of Computer Programming | 4 | 3-0-1 |
+| GE-1 | English-I (Generic Elective) | 4 | 3-1-0 |
+| AEC-1 | Environmental Science | 2 | 1-0-1 |
+| SEC-1 | Computer Workshop | 2 | 0-0-2 |
+| VAC-1 | Finance Literacy | 2 | 2-0-1 |
+| **Total**| | **22** | |
+
+---
+
+## SEMESTER 2 COURSE STRUCTURE
+
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-4 | Mathematics-II | 4 | 3-1-0 |
+| DSC-2/5| Physics OR Introduction to Electrical & Electronics Engineering | 4 | 3-0-1 |
+| DSC-6 | Data Structures | 4 | 3-0-1 |
+| GE-2 | English-II | 4 | 3-1-0 |
+| AEC-2 | Hindi (Hindi Bhasha aur Takneek) | 2 | 2-0-0 |
+| SEC-2 | Electronics Workshop OR Electrical Workshop | 2 | 0-0-2 |
+| VAC-2 | Vedic Mathematics-II | 2 | 1-0-1 |
+| **Total**| | **22** | |
+
+================================================================================
+DETAILED SYLLABUS - SEMESTER 1
+================================================================================
+
+## Mathematics-I (DSC-1)
+[cite_start]**Credits:** 4 (3L, 1T, 0P) [cite: 6122, 6164]
+**Course Objectives:** To teach students concepts of Linear Algebra, Vectors and Calculus and apply them for problem solving.
+
+**Unit-I: Matrices**
+Matrices, Vectors: addition and scalar multiplication, Matrix multiplication, Linear systems of equations, Linear Independence, Rank of a matrix, Determinants, Cramer’s Rule, Inverse of a matrix, Gauss elimination and Gauss-Jordan elimination.
+
+**Unit-II: Vector Spaces I**
+Vector Space, Linear dependence of vectors, Basis, Dimension, Range and kernel, Rank and nullity, Inverse of a linear transformation, Rank nullity theorem.
+
+**Unit-III: Vector Spaces II**
+Eigenvalues, Eigenvectors, Symmetric, Skew-symmetric and Orthogonal Matrices, Eigenbases, Diagonalization, Inner product spaces, Gram Schmidt orthogonalization.
+
+**Unit-IV: Calculus**
+Indeterminate forms and L’Hospital’s rule, Rolle’s Theorem, Mean value theorems, Taylor’s and Maclaurin theorems, Evaluation of definite and improper integrals, Applications of definite integrals to evaluate surface areas and volumes of revolutions, Beta and Gamma functions and their properties.
+
+**Suggested Readings:**
+1. G.B. Thomas and R.L. Finney, Calculus and Analytic geometry, Pearson Education.
+2. Erwin Kreyszig, Advanced Engineering Mathematics, John Wiley & Sons.
+3. D. Poole, Linear Algebra: A Modern Introduction, Brooks Cole.
+
+---
+
+## Fundamentals of Computer Programming (DSC-3)
+[cite_start]**Credits:** 4 (3L, 0T, 1P) [cite: 6122, 6272]
+**Course Objectives:** To teach students computer fundamentals and do programming using C for problem solving.
+
+**Unit I: Programming Fundamentals & Control Statements**
+Block Diagram of Computer, Hardware vs software, concept of operating system and compiler, Introduction to C programming, basic programming using input and output operators and expressions, programming using if and if-else, Programming using looping-for, while, do-while; use of switch and break.
+
+**Unit II: Arrays based Programming**
+Defining and processing 1-D and 2-D Arrays for Problem solving, string as array of char and its processing.
+
+**Unit III: Modular programming using Functions**
+Structured Programming, storage classes defining and calling a function, modular programming using functions, passing arguments and arrays to functions, functions of void and returning values. Recursion, file handling.
+
+**Unit IV: Programming using pointers, structures and unions**
+Pointers in C: Pointer declaration, Passing Pointer to functions, pointers vs arrays, dynamic memory allocation. Structures and Unions, Programming Using Array of Structures and Unions, Memory Requirements for Unions.
+
+**Suggested Readings:**
+1. Byron S. Gottfried, Programming with C Language, Schaum Series, Tata McGraw Hill.
+2. E Balaguruswamy, Programming with C, Tata McGraw Hill.
+3. Kernighan & Richie, C Programming, Prentice Hall of India.
+
+---
+
+## Physics (DSC-2)
+[cite_start]**Credits:** 4 (3L, 0T, 1P) [cite: 6122, 6196]
+**Course Objectives:** To teach students basic concepts of atomic structures, mechanics, electron theory, semiconductors and investigate their characteristics and applicability.
+
+**Unit I: Atomic Structure and Statistical Mechanics**
+Ideas on Atomic Structure, Quantum Mechanics, The Schrodinger Wave Equation, Statistical Mechanics, Bonding of atoms, Crystalline state. Free electron theory, Density of states and energy band diagrams, Kronig-Penny model (to introduce origin of band gap), Energy bands in solids, E-k diagram, Direct and indirect band gaps, Types of electronic materials: metals, semiconductors, and insulators, Density of states, Occupation probability, Fermi level, Effective mass, Phonons.
+
+**Unit II: Semiconductors**
+Elemental and compound semiconductors, Intrinsic and extrinsic semiconductors, Dependence of Fermi level on carrier-concentration and temperature (equilibrium carrier statistics), Carrier generation and recombination, Carrier transport: diffusion and drift, The Hall Effect, Einstein Relations, Excess carriers in semiconductors p-n junction, Excess carriers and Quasi-Fermi Levels, Basic equations for semiconductor device operation, Solution of carrier transport equation.
+
+**Unit III: P-N Junctions**
+The abrupt junction (Electric field, potential, capacitance), V-I characteristic of an ideal diode, a real diode. Metal-semiconductor junction (Ohmic and Schottky), Semiconductor materials of interest for optoelectronic devices. Optical transitions in bulk semiconductors: absorption, spontaneous emission, and stimulated emission; Joint density of states, Density of states for photons, Transition rates (Fermi’s golden rule), Optical loss and gain; Photovoltaic effect, Exciton, Drude model.
+
+**Unit IV: Measurements**
+Four-point probe and measurements for carrier density, resistivity, and hall mobility; Hot-point probe measurement, capacitance-voltage measurements, parameter extraction from diode I-V characteristics, DLTS, band gap by UV-VIS spectroscopy, absorption/transmission. Density of states in 2D, 1D and 0D (qualitatively). Practical examples of low-dimensional systems such as quantum wells, wires, and dots: design, fabrication, and characterization techniques. Heterojunctions and associated band-diagram.
+
+**Suggested Readings:**
+1. Pierret, Semiconductor Device Fundamental.
+2. P. Bhattacharya, Semiconductor Optoelectronic Devices, Pearson Education.
+
+---
+
+## Introduction to Electrical and Electronics Engineering (DSC-5)
+[cite_start]**Credits:** 4 (3L, 0T, 1P) [cite: 6122, 6236]
+**Course Objectives:** To solve electric circuits, to characterize motors, bipolar devices, and multi stage amplifiers.
+
+**Unit I: D.C. and A.C. Circuits**
+Introduction to circuit elements, uncontrolled energy sources, Kirchhoff’s laws, Superposition, Thevenin’s, Norton’s and maximum power transfer Theorems. AC Fundamentals: Sinusoidal a.c. quantities, instantaneous, maximum, average and effective values, Phasor representation, Steady state response of series and parallel R-L, R-C and R-L-C circuits, Concept of impedance and admittance, J-method, Active, Reactive and Apparent Power.
+
+**Unit II: Transformers and Electric Motors**
+Electromagnetism: Simple magnetic circuits, Electric Circuit analogy. Electromagnetically induced EMF and Induced Force on a conductor. Faraday’s Law, Lenz’s Law Concept of Self and Mutual Inductance. Transformers: Construction and operation of single phase transformer, EMF equation, Losses, Efficiency and applications of transformers. Electrical Motors: Constructional details of D.C. Motor, Equations, operating characteristics and applications of shunt, series and Compound Motors, Construction, operation and application of different types of single phase induction motors. Measuring Instruments: Moving coil and moving iron Voltmeters and ammeters and extension of range, Dynamometer type wattmeter.
+
+**Unit III: Devices and Circuits**
+PN Junction diode and its use in Rectifier circuits, Capacitive and Inductive filters, Operation and application of special diodes: Zener diode, photodiode, and light emitting diode (LED), Construction and operation of Bi-polar junction transistors, Characteristics under CB, CE, CC configurations, Voltage and current gains, input and output resistances, Biasing of transistors, load line and operating point, Transistor as a switch, Introduction to FET, UJT SCR, Traic and Diac, their characteristics and applications.
+
+**Unit IV: Multi Stage Amplifiers**
+R-C coupled amplifier and its frequency response, concept of Bandwidth, Push pull amplifiers, Feedback amplifiers: Classification of feedback amplifiers, Gain, input & output resistance of feedback amplifiers, Advantage of negative feedback, Measuring Instruments: Digital voltmeters, Digital multimeters, CRO and its applications. DSO and oscilloscope probes.
+
+**Suggested Readings:**
+1. Electrical and Electronics Technology by Hughes Revised by John H. Ley, Et al, Pearson.
+2. Principles of Electrical Engineering by Del-Toro. Pearson.
+
+---
+
+## Computer Workshop (SEC-1)
+[cite_start]**Credits:** 2 (0L, 0T, 2P) (4 Contact Hours) [cite: 6122, 6375]
+
+**Job 1. Assembly/Disassembly of Computers**
+Hardware peripherals like RAM, ROM, input devices, output devices, processors, etc. Processors and processor core counts and frequency etc. motherboards, internal and external connectors. Types of data cables. LAN, Audio, and Video. The physical set-up of Printers- Scanner set-up, Webcam, Bluetooth device, Memory card reader, etc. Working of SMPS. Connection of different types of devices to the ports (CPU), Single board computer: Raspberry Pi.
+
+**Job 2. Assembly/Dis-assembly of Laptop**
+Mounting of processor. Fixing of the motherboard in the tower case. Connection to the power supply. Installation of drivers. Connection of cables. Mount the memory modules. Install the internal cards. Connection of the external devices and power.
+
+**Job 3. Computer Network Setup**
+Networking components, devices, and tools; Preparing the network cables, network setup, configuration and management commands, Installation and configuration of network interface card and identification of MAC address. Sharing of resources.
+
+**Job 4. Software Installations**
+Installation of Windows Operating System, Types of software and their installations, some useful software (MS office, Adobe Acrobat, Google Chrome, VLC Media Player, LibreOffice, Win Rar).
+
+**Job 5. PC Maintenance**
+POST (Power on Self-Test), identifying problems by Beep codes errors, checking power supply using Multi-meter, Replacement of components etc.
+
+**Job 6. Introduction to MS office**
+Introduction to MS office MS Word, MS PPT, MS Excel, Working with MS Word. MS Excel Introduction to MS Excel, Basic computations, and calculations. Creation of slides including hyperlink, video, audio, and textual content.
+
+**Job 7. Tools for Online Teaching and Meetings**
+Setting & troubleshooting of online meetings and video conferencing like google meet, zoom, Microsoft teams, Webex etc; use of google classroom and google forms for teaching, feedback, and evaluation.
+
+**Job 8. Internet and Basic Webpage Design**
+Searching the Internet, checking the speed of Internet connection, usage of E-Commerce, Creating webpage using HTML, CSS with static text, images, tables, audio, video etc and dynamic contents, animation usage and tools for webpages.
+
+**Job 9. AI & ML Applications**
+Case studies using module (Blackbox based) integration for AI & ML and its applications.
+
+---
+
+## English-I (GE-1)
+**Credits:** 4
+
+**UNIT I: In the domestic sphere**
+1. Diary
+2. Modifiers, Prepositions, Conjunctions
+3. Write a diary entry and convert it into a blog post
+4. Convert a transcript/ script/ piece of dialogue into a diary entry/ blog post
+
+**UNIT II: In the University**
+1. Introducing oneself -- Note-making
+2. Pronunciation Intonation – Nouns, Verbs, Articles
+3. Blog writing
+   A. Introduce yourselves as individuals and as groups -- group discussion exercise Take notes on your fellow students' introductions.
+   B. Introduce characters from the text you are reading via posters
+
+**UNIT III: In public places**
+1. CV Job applications
+2. Tenses and concord
+   A. Write the CV of a fictional character
+   B. Write the perfect job application for your dream job
+
+---
+
+## Environmental Science (AEC-1)
+**Credits:** 2
+
+**Unit 1: Introduction to Environmental Studies**
+Multidisciplinary nature of environmental studies; components of environment: atmosphere, hydrosphere, lithosphere, and biosphere. Scope and importance; Concept of sustainability and sustainable development; Brief history of environmentalism.
+
+**Unit 2: Ecosystems**
+Definition and concept of Ecosystem. Structure of ecosystem (biotic and abiotic components); Functions of Ecosystem: Physical (energy flow), Biological (food chains, food web, ecological succession), and Biogeochemical (nutrient cycling) processes. Concepts of productivity, ecological pyramids and homeostasis. Types of Ecosystems: Tundra, Forest, Grassland, Desert, Aquatic; importance and threats. Ecosystem services; Ecosystem preservation and conservation strategies; Basics of Ecosystem restoration.
+
+**Unit 3: Natural Resources**
+Land resources: Minerals, soil, agricultural crops, natural forest products, medicinal plants, and forest-based industries. Water resources: Natural and man-made sources; Uses of water; Over exploitation of surface and ground water resources; Floods, droughts, and international & inter-state conflicts over water. Energy resources: Renewable and non-renewable energy sources; Use of alternate energy sources; Growing energy needs. Case studies: Contemporary Indian issues related to mining, dams, forests, energy (National Solar Mission, Cauvery river water conflict, Sardar Sarovar dam, Chipko movement).
+
+**Unit 4: Environmental Pollution**
+Environmental pollution (Air, water, soil, thermal, and noise): causes, effects, and controls. Nuclear hazards and human health risks. Solid waste management: Control measures for various types of urban, industrial waste, Hazardous waste, E-waste. Pollution case studies: Ganga Action plan (GAP), Delhi air pollution and public health issues, Plastic waste management rules, Bhopal gas tragedy.
+
+---
+
+## Finance Literacy (VAC-1)
+*[Syllabus content not provided in source documents]*
+
+================================================================================
+DETAILED SYLLABUS - SEMESTER 2
+================================================================================
+
+## Mathematics-II (DSC-4)
+[cite_start]**Credits:** 4 (3L, 1T, 0P) [cite: 6128, 6306]
+**Course Objectives:** To teach students process of doing Laplace and Fourier transformation, apply probability distributions over random variables, and statistical techniques for data processing.
+
+**Unit-I: Laplace and Fourier Transform**
+Laplace transformation and its properties, Unit step, Impulse and Periodic functions; Fourier Transform, Fourier Sine and Cosine Transform, Finite Sine and Cosine transform, Convolution theorem. Application of Fourier transform.
+
+**Unit-II: Random variables and probability distributions**
+Conditional probability, Probability spaces, Discrete random variables, Independent random variables, Expectation of discrete random variables, Sums of independent random variables, Moments, Variance of a sum, Correlation coefficient, Chebyshev’s Inequality, The multinomial distribution, Poisson approximation to the binomial distribution, Infinite sequences of Bernoulli trials, Continuous random variables and their properties, Distribution functions and densities, Normal, Exponential and Gamma densities, Conditional densities, Bayes’ rule.
+
+**Unit-III: Basic Statistics**
+Measures of Central tendency: Moments, Skewness and Kurtosis - Probability distributions: Binomial, Poisson and Normal - evaluation of statistical parameters for these three distributions; Correlation and regression; Rank correlation; Curve fitting by the method of least squares- fitting of straight lines, second degree parabolas and more general curves.
+
+**Unit-IV: Applied Statistics**
+Test of significance: Large sample test for single proportion, difference of proportions, single mean, difference of means, and difference of standard deviations; Small samples: Test for single mean, difference of means and correlation coefficients; Test for ratio of variances - Chisquare test for goodness of fit and independence of attributes; T-test, Anova Test, F-Test.
+
+**Suggested Readings:**
+1. Erwin Kreyszig, Advanced Engineering Mathematics, John Wiley & Sons.
+2. S. Ross, A First Course in Probability, Pearson Education.
+
+---
+
+## Data Structures (DSC-6)
+[cite_start]**Credits:** 4 (3L, 0T, 1P) [cite: 6128, 6341]
+**Course Objectives:** To understand and efficiently apply various data structures such as stacks, queues, linked lists, trees and graphs.
+
+**Unit-I: Simple Data Structures**
+Arrays based Linear Data Structures: Array storage, sparse arrays; Transpose and addition of sparse matrices, Stacks and Queues and their applications, multiple stacks, and queues in an array.
+
+**Unit-II: Searching and Sorting**
+Searching techniques: Linear and Binary, Sorting techniques: Selection, Bubble, Insertion, Merge sort, Quicksort; Complexity analysis; revision of Pointers and Dynamic Memory.
+
+**Unit-III: Linked Data Structures**
+Singly, Doubly & Circular Linked Lists; representation, operations and applications, linked stacks and queues, linked lists based polynomial addition.
+
+**Unit-IV: Advanced Data Structures**
+Trees, Basic concepts and definitions of a tree and binary tree and associated terminology, Binary tree traversal techniques, some more operations on binary trees, Heaps, and heapsort; Graphs: Terminology and Representations, Directed Graphs, Representation of graphs and their Transversal.
+
+**Suggested Readings:**
+1. E Horowitz and S. Sahni: Fundamentals of Data Structures in C, Universities Press.
+2. R.L. Kruse: Data Structures & Program Design in C, PHI.
+
+---
+
+## English-II (GE-2)
+**Credits:** 4
+
+**Unit 1: In the State**
+1. Research -- Filing an FIR, making an RTI request, submitting a consumer complaint
+2. Active & Passive voice; idioms
+   A. Find out what the procedure is for making a complaint about trees being cut in your neighbourhood.
+   B. Draft a formal letter requesting information about the disbursal of funds collected by a residents' welfare association
+
+**Unit 2: Interface with Technology**
+1. Book/film reviews
+2. Punctuation
+   A. Write a review of a text you have read in class.
+   B. Record a collaborative spoken-word review of the latest film your group have all seen
+
+**Unit 3: Self-Representation**
+1. Introducing oneself, giving and seeking information.
+2. Introduce characters from the texts you are reading.
+3. Creating a profile for social media.
+4. Creating a professional profile of oneself.
+5. Dialogue writing, Paragraph writing – Brainstorming, planning/outline rough drafts, editing.
+6. Intercultural Communication
+
+---
+
+## Hindi (AEC-2)
+[cite_start]**Course Title:** Hindi Bhasha aur Takneek [cite: 1056, 2080]
+**Credits:** 2 (2L, 0T, 0P)
+
+**Unit 1: Hindi Bhasha**
+Hindi Bhasha ki Sanrachna: Varna, Shabd, Vakya (Samanya Parichay). Hindi ka Vyavharik Vyakaran: Sangya, Sarvanam, Kriya, Visheshan, Padkram, Anviti, Viram-Chihn. Devanagari Lipi va Manak Vartani. Vaigyanik va Takneeki Shabdavali.
+
+**Unit 2: Hindi Bhasha aur Takneek**
+Computer mein Hindi Prayog se sambandhit pramukh takneeki suvidhayein: Hindi Typing Tools - Keyboard Inscript, Remington aur Phonetic. Google Input Tools, Microsoft Indic Input Tool, Google Voice Typing, Automatic Speech Recognition.
+Hindi se sambandhit pramukh Font aur Unicode: Kokila, Utsah, Mangal, Nirmala, Aparajita, Arial Unicode.
+Hindi E-Shabdkosh: Hindi Shabd Sindhu 2.0, Hindwi Dictionary.
+Machine Translation Software: Kanthasth 2.0, Bhashini, Google Translate, Microsoft Translate, Project Udaan.
+
+---
+
+## Electronics Workshop (SEC-2)
+[cite_start]**Credits:** 2 (0L, 0T, 2P) (4 Contact Hours) [cite: 6416]
+
+**Job 1. Basic components used in the Electronics circuits**
+Identification of various components being used in any electronic circuit such as resistor, capacitor, various diodes (p-n junction, Zenner, LED), transistors (BJT, MOSFET, FET), breadboard, potentiometer. Learn graphical symbols used to represent the various components. Find the value of resistance, capacitance by its color code and value mentioned on the component.
+
+**Job 2. Instruments for measurement and analysis of Electronics circuits**
+Study the various controls on the panel of a typical CRO, Multimeter. Testing of components such as resistor, capacitor and transistor as PNP or NPN, Gain value of transistor, ensure the connectivity of their leads using multimeter. Perform small jobs as given by your instructor by using some of the above components and instruments.
+
+**Job 3. Instruments for generating the signals for the electronic circuits**
+Study the various controls on the panel of a function generator and DC power supply. Using CRO and function generator perform jobs such as waveform analysis, Voltage measurement, frequency measurement, phase difference measurement etc.
+
+**Job 4. Integrated circuits and (IC) tester**
+Study the pin configuration of a given IC number. Study the function of IC tester. Testing of IC on the IC tester. Verify the truth table of various logic gates by assembling them on the breadboard. Draw the Pin configuration of various logic gates in your file and record the observations of the truth table of these logic gates.
+
+**Job 5. Transformer and soldering iron**
+Study the transformers used in the electronic circuits. Learn the precautions while using a soldering iron. Perform small jobs using soldering iron.
+
+**Job 6. Printed circuit board**
+Learn to make a layout of electronic circuit using any PCB design software (OrCAD/TINA/KiCAD/ DesignSpark PCB/ any other available software). Use of electronic components in the layout. Perform small jobs such as making a circuit on the PCB and learn soldering of components on PCB. Analysis of the designed circuit using CRO, Multimeter and signal generator.
+
+**Job 7. Identification of various peripheral devices of computer**
+Learn to find complete specification of the given computer. Identify various peripheral devices including a keyboard, mouse, printer, and flash drive of a computer.
+
+**Job 8. Assembling and disassembling of computer**
+Learn the precautions while disassembling of computer. Study of motherboard. Identification of various hardware peripherals like RAM, ROM and Processor. Study of various ports in a computer for interfacing with external hardware components.
+
+**Job 9. Product Development (Part 1)**
+Study the basic circuit of variable DC power supply. Procure all the components required to build a DC supply like transformer, diodes, capacitor, resistance, potentiometer, on/off switch etc. for given specifications of DC power supply. Test each component. Assemble it on breadboard and test its functionality.
+
+**Job 10. Product Development (Part 2)**
+Design a PCB for variable DC power supply designed in Job 9. Fabricate the variable DC power supply by assembling all the components on PCB and perform soldering. Test the fabricated variable DC Power supply.
+
+---
+
+## Electrical Workshop (SEC-3)
+[cite_start]**Credits:** 2 (0L, 0T, 2P) (4 Contact Hours) [cite: 6477]
+
+**Job 1. Tools in the field of Electrical Engineering**
+Gain awareness about various tools used in the field of Electrical Engineering and to learn the operation of each tool. Like: Vice, drill machine, hand grinder, combination pliers, screw driver set, wire striper, tester, test lamp, multimeter, hammer, lug crimper, Soldering iron, hacksaw, different types of files.
+
+**Job 2. House Wiring Materials**
+Make a study of various components and material used in house wiring. Like: Aluminum and Copper wires. Wooden boards and Bakelite sheets, wall mounted switch boxes and wiring plates, 2 pin, 3 pin, 5 pin wall sockets, power sockets, power plugs, iron and PVC conduits, bends, casing capping, junction boxes, Gang boxes, baton holder, pendant holder, bracket holder, angle holder, incandescent bulbs, LEDs, tube light strips, CFL, Indicator lamps. One way, 2 way and power switches. Isolators, MCBs, ELCBs and other materials. Practice fixing of switches and sockets in gang box.
+
+**Job 3. Performing, House wiring**
+Study various types of house wiring techniques: Baton wiring, casing capping wiring, surface conduit wiring and concealed conduit wiring. Perform surface conduit wiring to accomplish stair case lighting. Prepare an extension board with following: Two 6A sockets with individual switches and individual indicators on an appropriate gang box.
+
+**Job 4. Electronic Energy Meter**
+Study the connections of Electronic Energy Meter. Assemble an MCB main board with a double pole MCB/isolator and 2 single pole MCBs and make connection with energy meter on one side and two load circuits on the other. Show operations of MCBs one by one.
+
+**Job 5. House hold Gadgets**
+Study the construction and operation of a heater, heat convector, Electric iron, kitchen Mixer, soldering iron. Assemble a heater from the available components. Operate it and measure its current, Voltage and Power.
+
+**Job 6. DC and Single phase AC Motors**
+Observe the given D.C. and single phase A.C. motors. Run them by connecting appropriate supply. Open the given D.C. Motor, observe its construction, do its servicing, clean its bearings and commutator. Reassemble and run it. Open the given A.C. motor, study its construction. Clean its bearing. Assemble it back and operate it. Measure it's no load current.
+
+**Job 7. Ceiling Fans**
+Study the construction and operation of a ceiling fan, Dis-mental the given ceiling fan. Observe all its parts. Clean its bearings and other parts. Check the continuity of running and starting windings. Test the capacitor for its functionality. Assemble the fan back. Operate it by connecting to supply. Reverse the direction of rotation by changing connection at the capacitor. Connect an electronic regulator and control its speed.
+
+**Job 8. Product Development (Part-1)**
+Study the circuit of a battery charger. Procure all the components required to build a charges like: Transformer, diodes, capacitor, voltmeter, ammeter, indicator, rotary switch, on/off switch, box connecting load. Test each component separately. Assemble bridge rectifier using 4 diodes.
+
+**Job 9. Product Development (Part-2)**
+Complete the testing of components procured in job 8. Fabricate the battery charger by assembling all the components procured and tested in job no. 8 (product development part-I) and wire it. Test the fabricated charger.
+
+**Job 10. Experience of Electronic Devices**
+Identify resistors, capacitors of various types and specifications. Identify the given solid state devices like: diodes and transistors, SCR, Triac, Diac, few ICs of various specifications. Study the circuit of a solid state low rating voltage regulator. Assemble a voltage regulator and test it on fan and incandescent bulb. Or assemble a timer circuit using 555 IC.
+
+---
+## IF YOU HAD PHYSICS IN SEMESTER 1, THEN YOU"LL HAVE IEE IN SEMESTER 2 And VICEVERSA.

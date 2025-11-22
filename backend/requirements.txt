@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+google-generativeai
+python-dotenv
+supabase
+pandas
+scikit-learn
+pypdf
+Pillow
+gunicorn

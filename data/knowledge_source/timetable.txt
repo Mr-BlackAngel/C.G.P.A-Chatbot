@@ -1,0 +1,299 @@
+# Faculty of Technology - Consolidated Timetable (Odd Sem 2025-26)
+**Effective From:** 10th September 2025
+
+---
+
+## 1st Year: CSE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | IEEE [JP] (313) | IEEE [JP] (313) | M1 [JY] (214) | M1 Tut A1 [JY] | M1 Tut A2 [JY] | - | - | - | - |
+| **Tue** | EF-E [ANK] (314) | EF-E [ANK] (314) | EF-E Tut (203) | EF-E [ANK] (203) | FL-E [AK] (314) | FL-E [AK] (314) | - | - | - |
+| **Wed** | M1 [JY] (313) | M1 [JY] (313) | FCP [SNK] (213) | FL-E [AK] (314) | CW A2 [UK] | CW A2 [UK] | CW A1 [SK] | CW A1 [SK] | - |
+| **Thu** | FCP Lab A1 (312) | FCP Lab A1 (312) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | IEEE Lab A2 | IEEE Lab A2 | FCP Lab A2 (312) | FCP Lab A2 (312) | - |
+| **Fri** | IEEE [JP] (313) | FCP [SNK] (213) | FCP [SNK] (213) | HBT [PT] (213) | HBT [PT] (213) | - | - | - | - |
+
+---
+
+## 1st Year: CSE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | FL-D [TK] (214) | FL-D [TK] (214) | M1 [VNK] (314) | M1 [VNK] (314) | - | - | - | - | - |
+| **Tue** | EF-D [TNK] (213) | EF-D [TNK] (213) | EF-D Tut (213) | HBT [OP] (314) | HBT [OP] (314) | FL-D [TK] (213) | CW B2 [JS] | CW B2 [JS] | - |
+| **Wed** | FCP [SY] (213) | FCP [SY] (213) | EF-D [TNK] (314) | PHY [SVK] (213) | CW B2 [UK] | CW B2 [UK] | FCP Lab B1 (312) | FCP Lab B1 (312) | - |
+| **Thu** | FCP [SY] (314) | PHY [SVK] (314) | PHY [SVK] (314) | M1 [VNK] (314) | CW B1 [SK] | CW B1 [SK] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (312) |
+| **Fri** | - | M1 Tut B1 (216) | M1 Tut B2 (216) | - | CW B1 [SK] | CW B1 [SK] | FCP Lab B2 (312) | FCP Lab B2 (312) | - |
+
+---
+
+## 1st Year: ECE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | FCP Lab A2 (312) | FCP Lab A2 (312) | - | - | - |
+| **Tue** | ECW A2 [SW] (311) | ECW A2 [SW] (311) | ECW A2 [SW] (311) | ECW A2 [SW] (311) | IEEE Lab A2 (211) | IEEE Lab A2 (211) | IEEE [RJS] (213) | M1 [VNK] (213) | - |
+| **Wed** | FL-C [PS] (313) | IEEE [RJS] (313) | IEEE [RJS] (313) | FCP [SNK] (313) | M1 [VNK] (313) | M1 [VNK] (313) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | - |
+| **Thu** | FL-C [PS] (214) | FL-C [PS] (214) | EF-C [RH] (214) | EF-C [RH] (214) | HBT [VA] (314) | HBT [VA] (314) | FCP [SNK] (314) | FCP [SNK] (314) | - |
+| **Fri** | - | - | EF-C Tut (214) | EF-C [RH] (214) | M1 Tut A1 (204) | M1 Tut A2 (204) | FCP Lab A1 (312) | FCP Lab A1 (312) | - |
+
+---
+
+## 1st Year: ECE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | M1 Tut B1 (216) | M1 Tut B2 (216) | - | PHY [ASK] (313) | ECW B1 [VJ] | ECW B1 [VJ] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (312) |
+| **Tue** | HBT [PT] (216) | HBT [PT] (216) | FCP [SNK] (216) | FCP [SNK] (216) | M1 [JY] (313) | M1 [JY] (313) | ECW B2 [VJ] | ECW B2 [VJ] | - |
+| **Wed** | M1 [JY] (213) | FCP [SNK] (216) | FL-B [AK] (314) | - | FL-A [TK] (313) | FL-A [TK] (313) | FCP Lab B1 (312) | FCP Lab B1 (312) | - |
+| **Thu** | FL-B [AK] (213) | FL-B [AK] (213) | PHY [ASK] (213) | PHY [ASK] (213) | - | ECW B2 [VJ] | PHY Lab B1 (304) | PHY Lab B1 (304) | EF-B [RH] (214) |
+| **Fri** | FL-A [TK] (314) | EF-A [TNK] (314) | EF-A [TNK] (314) | EF-A Tut (314) | EF-A [TNK] (314) | - | EF-B Tut (314) | EF-B [RH] (314) | - |
+
+---
+
+## 1st Year: EE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | EW A1 [UJS] (212) | EW A1 [UJS] (212) | EW A1 [UJS] (212) | EW A1 [UJS] (212) | FCP Lab A2 (312) | FCP Lab A2 (312) | IEEE Lab A2 (211) | IEEE Lab A2 (211) | - |
+| **Tue** | - | - | IEEE [AT] (313) | IEEE [AT] (313) | - | FCP [UK] (204) | FCP [UK] (204) | FL-A [TK] (313) | FL-A [TK] (313) |
+| **Wed** | FCP [UK] (216) | M1 [HCT] (213) | - | - | FCP Lab A1 (312) | FCP Lab A1 (312) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | - |
+| **Thu** | HBT [VA] (313) | HBT [VA] (313) | - | IEEE [AT] (216) | M1 Tut A1 (213) | M1 Tut A2 (213) | M1 [HCT] (213) | EW A2 [AKS] (212) | EW A2 [AKS] (212) |
+| **Fri** | FL-A [TK] (314) | EF-A [TNK] (314) | EF-A [TNK] (314) | EF-A Tut (314) | EF-A [TNK] (314) | - | - | - | - |
+
+---
+
+## 1st Year: EE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | HBT [PT] (314) | HBT [PT] (314) | M1 [YG] (214) | M1 [YG] (214) | PHY [SVK] (216) | PHY [SVK] (216) | FCP [JJ] (204) | - | - |
+| **Tue** | EW B1 [UJS] | EW B1 [UJS] | EW B1 [JP] | EW B1 [JP] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (217) | FCP Lab B2 (217) | - |
+| **Wed** | M1 Tut B1 (204) | M1 Tut B1 (204) | M1 [YG] (214) | - | FL-B [AK] (314) | FCP [JJ] (313) | FCP [JJ] (313) | - | - |
+| **Thu** | FL-B [AK] (213) | FL-B [AK] (213) | EF-B [RH] (214) | EF-B [RH] (214) | - | - | - | - | - |
+| **Fri** | EW B2 [AKS] | EW B2 [AKS] | EW B2 [AKS] | EW B2 [AKS] | PHY Lab B1 (304) | PHY Lab B1 (304) | FCP Lab B1 (217) | FCP Lab B1 (217) | EF-B Tut (314) |
+
+---
+
+## 2nd Year: CSE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | DSD Lab A1 (317) | DSD Lab A1 (317) | ADA Lab A2 (R1) | ADA Lab A2 (R1) | DSD [KS] (R1) | DSD [KS] (R1) | ADA [JJ] (R1) | DBMS [GB] (R1) | - |
+| **Tue** | FCS [SK] (R1) | PSCS A [RR] (R2) | DSD [KS] (R1) | DSD [KS] (R1) | ADA Lab A1 (R1) | ADA Lab A1 (R1) | DSD Lab A2 (317) | DSD Lab A2 (317) | - |
+| **Wed** | DBMS Lab A2 (R3) | DBMS Lab A2 (R3) | DBMS Lab A1 (R1) | DBMS Lab A1 (R1) | PSCS Lab A1 (R3) | PSCS Lab A1 (R3) | ER [RJS] (216) | VLSI [SW] (203) | - |
+| **Thu** | PSCS A [RR] (R2) | PSCS A [RR] (R2) | PSCS Lab A2 (R2) | PSCS Lab A2 (R2) | ER [RJS] (203) | ER [RJS] (203) | ER Lab [RJS] (513) | ER Lab [RJS] (513) | - |
+| **Fri** | FCS Lab B2 (R1) | FCS Lab B2 (R1) | DBMS [GB] (R1) | DBMS [GB] (R1) | VLSI [SW] (204) | VLSI [SW] (204) | VLSI Lab (303) | VLSI Lab (303) | - |
+| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
+| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
+| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+
+---
+
+## 2nd Year: CSE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | - | - | DSD [GS] (R3) | ADA [JJ] (R3) | DBMS [GB] (R2) | DBMS [GB] (R2) | EVS-II [EKL] (R1) | EVS-II [EKL] (R1) | - |
+| **Tue** | FCS Lab B1 (R1) | FCS Lab B1 (R1) | PSCS Lab B1 (R3) | PSCS Lab B1 (R3) | DSD [GS] (R2) | DSD [GS] (R2) | DBMS [GB] (R2) | DBMS [GB] (R2) | - |
+| **Wed** | FCS [SK] (R1) | PSCS A [RR] (R2) | ADA Lab B1 (R4) | ADA Lab B1 (R4) | PSCS B [RR] (R2) | DBMS Lab B2 (R3) | DBMS Lab B2 (R3) | - | - |
+| **Thu** | FCS [SK] (R1) | FCS [SK] (R1) | PSCS B [RR] (R2) | PSCS B [RR] (R2) | ADA [JJ] (R2) | ADA [JJ] (R2) | PSCS Lab A1 (R3) | PSCS Lab A1 (R3) | - |
+| **Fri** | FCS Lab B2 (R1) | FCS Lab B2 (R1) | DSD Lab B1 (317) | DSD Lab B1 (317) | DSD Lab B2 (317) | DSD Lab B2 (317) | PSCS Lab B2 (R2) | PSCS Lab B2 (R2) | ADA Lab B2 (R3) |
+| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
+| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
+| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+
+---
+
+## 2nd Year: ECE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | DE-I [DRS] (203) | DE-I [DRS] (203) | EVS-II [EKL] (R2) | EVS-II [EKL] (R2) | ER [RJS] (216) | PSCS Lab B2 (R2) | VLSI [SW] (203) | ER [RJS] (203) | - |
+| **Tue** | EDC Lab A2 (317) | EDC Lab A2 (317) | NAS [DRB] (204) | NAS [DRB] (204) | EDC [DRS] (203) | - | - | - | - |
+| **Wed** | EDC [DRS] (203) | EDC [DRS] (203) | DE-I Lab A1 (311) | DE-I Lab A1 (311) | NAS Lab A2 (303) | NAS Lab A2 (303) | ER Lab [RJS] (513) | ER Lab [RJS] (513) | - |
+| **Thu** | NAS [DRB] (204) | EDC [DRS] (203) | VLSI [SW] (204) | VLSI [SW] (204) | EDC Lab A1 (317) | EDC Lab A1 (317) | VLSI Lab (303) | VLSI Lab (303) | - |
+| **Fri** | DE-I [DRS] (204) | NAS [DRB] (204) | NAS Lab A1 (312) | NAS Lab A1 (312) | DE-I Lab A2 (311) | DE-I Lab A2 (311) | - | - | - |
+| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
+| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
+| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+
+---
+
+## 2nd Year: ECE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | EDC [DRS] (203) | DE-I [PKS] (203) | EDC Lab B1 (317) | EDC Lab B1 (317) | - | - | - | - | - |
+| **Tue** | EDC [DRS] (203) | DE-I [PKS] (203) | NAS [RS] (203) | EVS-II [UDS] | EVS-II [UDS] | EDC Lab B2 (317) | EDC Lab B2 (317) | - | - |
+| **Wed** | - | - | DE-I Lab B1 (311) | DE-I Lab B1 (311) | - | - | - | - | - |
+| **Thu** | NAS [RS] (314) | EDC [DRS] (203) | VLSI [SW] (203) | - | NAS Lab B1 (303) | NAS Lab B1 (303) | DE-I Lab B2 (311) | DE-I Lab B2 (311) | - |
+| **Fri** | VLSI [SW] (204) | VLSI [SW] (204) | DE-I [PKS] (203) | NAS [RS] (204) | VLSI Lab (303) | VLSI Lab (303) | - | - | - |
+| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
+| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
+| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+
+---
+
+## 2nd Year: EE
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | EM1 [SG] (213) | EM1 [SG] (213) | AEW A2 (212) | ENA Lab A1 (211) | AEW A2 (212) | ENA Lab A1 (211) | AEW A2 (212) | ADEC Lab A1 (317) | ADEC Lab A1 (317) |
+| **Tue** | ADEC [AKS] (204) | ADEC [AKS] (204) | ENA Lab A2 (211) | ENA Lab A2 (211) | ADEC Lab A2 (317) | ADEC Lab A2 (317) | - | - | - |
+| **Wed** | ENA [JP] (214) | EM1 Lab A2 (212) | ENA [JP] (214) | EM1 Lab A2 (212) | EMI Lab A1 (212) | ADEC [AKS] (216) | EMI Lab A1 (212) | EMI [SG] (216) | - |
+| **Thu** | EM1 Lab A2 (212) | EM1 Lab A2 (212) | ADEC [AKS] (216) | EM1 [SG] (216) | EVS-II [UDS] (216) | EVS-II [UDS] (216) | ER [RJS] (216) | VLSI [SW] (203) | - |
+| **Fri** | ER [RJS] (203) | VLSI [SW] (204) | ER [RJS] (203) | VLSI [SW] (204) | ENA [JP] (213) | - | ER Lab (513) | VLSI Lab (303) | - |
+| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
+| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
+| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+
+---
+
+## 3rd Year: CSE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | NTI A [AS] (204) | NTI A [AS] (204) | CN Lab A1 (204) | CN Lab A1 (204) | CN Lab A2 (303) | CN Lab A2 (303) | DIP [AKG] (203) | DIP [AKG] (203) | - |
+| **Tue** | AIML Lab A2 (216) | AIML Lab A2 (216) | AIML Lab A1 (217) | AIML Lab A1 (217) | NN A [US] (214) | NN A [US] (214) | CN [JS] (314) | CN [JS] (314) | - |
+| **Wed** | CN [JS] (203) | AIML [SY] (203) | ESMS [SG] (216) | TOC [SNK] (204) | TOC [SNK] (204) | TOC Tut A1 (216) | TOC Tut A2 (216) | NN Lab A1 (214) | NN Lab A1 (214) |
+| **Thu** | ST [PRT] (203) | NN Lab A2 (312) | NN Lab A2 (312) | - | - | - | - | - | - |
+| **Fri** | ESMS [SG] (216) | TOC [SNK] (213) | AIML [SY] (213) | ST [PRT] (203) | ST [PRT] (203) | - | - | - | - |
+
+---
+
+## 3rd Year: CSE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | TOC [UK] (R4) | TOC [UK] (R4) | TOC Tut B1 (R4) | TOC Tut B2 (R4) | - | - | - | - | - |
+| **Tue** | AIML [SY] (R2) | AIML [SY] (R2) | NTI A [AS] (204) | DIP [AKG] (203) | DIP [AKG] (203) | NTI A [AS] (214) | CN Lab B2 (R3) | CN Lab B2 (R3) | DIP Lab B1 (204) |
+| **Wed** | CN [JS] (R1) | ST [PRT] (203) | ST [PRT] (203) | ESMS [SG] (216) | TOC [UK] (R4) | ESMS [SG] (216) | ESMS Lab (513) | ESMS Lab (513) | NN B [US] (R2) |
+| **Thu** | ST [PRT] (203) | AIML [SY] (R2) | CN [JS] (R2) | NTI Lab A1 (217) | NTI Lab A1 (217) | NN B [US] (R2) | NN B [US] (R2) | NN Lab B1 (R2) | NN Lab B1 (R2) |
+| **Fri** | ESMS [SG] (216) | CN [JS] (R1) | DIP [AKG] (203) | ST Lab (216) | ST Lab (216) | NTI Lab A2 (303) | NTI Lab A2 (303) | CN Lab B1 (R1) | CN Lab B1 (R1) |
+
+---
+
+## 3rd Year: ECE-A
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | ACS [GS] (214) | AVLSI Lab B1 (303) | NTI Lab B1 (217) | NTI Lab B1 (217) | DIP [AKG] (203) | AVLSI Lab B2 (303) | AVLSI Lab B2 (303) |
+| **Tue** | Control Sys [DP] (214) | Control Sys [DP] (214) | DSP [AKG] (214) | DSP [AKG] (214) | NN A Lab A1 (214) | NTI B [AS] (214) | DIP Lab B1 (204) | FDBMS [GB] (R3) | AVLSI [KS] (204) |
+| **Wed** | ACS [GS] (214) | DSP Lab A2 (312) | Control Sys Lab A1 (303) | Control Sys Lab A1 (303) | Control Sys [DP] (214) | NN A [US] (214) | NN A [US] (214) | - | - |
+| **Thu** | ST [PRT] (203) | NN A Lab A2 (214) | NN A Lab A2 (214) | DSP [AKG] (214) | ACS [GS] (214) | FDBMS Lab (R4) | FDBMS Lab (R4) | NTI B [AS] (314) | SRE [UK] (303) |
+| **Fri** | NN A [US] (214) | ST [PRT] (203) | ST [PRT] (203) | DIP [AKG] (203) | ST Lab (216) | AVLSI [KS] (203) | AVLSI [KS] (203) | NTI Lab B2 (311) | DIP Lab B2 (204) |
+
+---
+
+## 3rd Year: ECE-B
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | AVLSI Lab B1 (303) | NTI Lab B1 (217) | DIP [AKG] (203) | AVLSI Lab B2 (303) | Control Sys Lab B1 (303) | Control Sys Lab B1 (303) | Control Sys Lab B2 (303) |
+| **Tue** | FDBMS [GB] (R3) | FDBMS [GB] (R3) | NTI B [AS] (214) | DSP Lab B2 (312) | ACS Lab B1 (317) | DIP Lab B1 (204) | AVLSI [KS] (204) | FCN Lab B1 (R4) | FCN Lab B2 (R4) |
+| **Wed** | ACS [GSC] (314) | ESMS [SG] (216) | Control Sys [VJ] (314) | ACS [GSC] (313) | DSP [AKG] (313) | DSP [AKG] (313) | NTI B [AS] (314) | NN B [US] (R2) | NN Lab B1 (R2) |
+| **Thu** | Control Sys [VJ] (313) | ACS [GSC] (313) | DIP [AKG] (203) | SRE [UK] (303) | SRE Lab (317) | ST Lab (216) | ST [PRT] (203) | AVLSI [KS] (203) | NN Lab B2 (R2) |
+| **Fri** | ESMS [SG] (216) | ESMS Lab (513) | ESMS Lab (513) | ST [PRT] (203) | DIP Lab B2 (204) | FDBMS Lab (R4) | FCN [SK] (214) | ACS Lab B2 (317) | FDBMS [GB] (R3) |
+
+---
+
+## 3rd Year: EE
+| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | Control Sys [DP] (213) | EMT [UJS] (204) | AVLSI Lab B1 (303) | PSA Lab A1 (312) | NTI Lab B1 (217) | EMT Lab A2 (219) | DIP [AKG] (203) |
+| **Tue** | EMT [UJS] (213) | EMT [UJS] (213) | AVLSI Lab B2 (303) | Control Sys Lab A2 (217) | NTI B [AS] (214) | EMT Lab A1 (219) | DIP Lab B1 (204) | AVLSI [KS] (204) | FCN Lab B1 (R4) |
+| **Wed** | ESMS [SG] (216) | PSA [AT] (213) | UEP [UJS] (204) | NTI B [AS] (314) | DIP [AKG] (203) | ST Lab (216) | ST [PRT] (203) | AVLSI [KS] (203) | Control Sys Lab A1 (303) |
+| **Thu** | Control Sys [DP] (203) | Control Sys [DP] (203) | NN Lab B2 (R2) | ST [PRT] (203) | NTI Lab B2 (311) | PSA Lab A2 (312) | FDBMS Lab (R4) | DIP Lab B2 (204) | ESMS [SG] (216) |
+| **Fri** | FCN [SK] (214) | PSA [AT] (203) | PSA [AT] (203) | ESMS [SG] (216) | FDBMS [GB] (R3) | UEP [UJS] (203) | UEP Tut (203) | FDBMS [GB] (R3) | ESMS Lab (513) |
+
+---
+
+## Faculty Key
+* **UJS:** Dr. Ujjal Sur
+* **HCT:** Prof. H. C. Taneja
+* **UK:** Dr. Utkarsh
+* **AKS:** Mr. Ajay Kumar Sahu
+* **TK:** Ms. Tanya Khaneja
+* **AT:** Dr. Arjun Tyagi
+* **AK:** Dr. Amit Kumar (Also listed as Dr. Ankit in some contexts)
+* **VA:** Dr. Vijay Azad
+* **TNK:** Ms. Tanishka
+* **PT:** Dr. Pratima
+* **SVK:** Dr. Sarvesh Kumar
+* **JJ:** Dr. Juhi Jain
+* **US:** Mr. Unmesh Shukla
+* **JP:** Dr. Jeetendra Prasad
+* **ASK:** Dr. Anjali Sharma Kaushik
+* **YG:** Dr. Yogeeta Garg
+* **RH:** Ms. Reha
+* **RJS:** Dr. Ranjeet Singh
+* **SNK:** Ms. Shivani Kumari
+* **SW:** Dr. Sweta Rani
+* **PS:** Mr. Pawan Singhal
+* **VNK:** Dr. Vineet Kumar
+* **JY:** Dr. Jyoti
+* **SY:** Dr. Sangeeta Yadav
+* **ANK:** Dr. Ankit
+* **SK:** Dr. Sunil Kumar
+* **OP:** Dr. Om Prakash
+* **RR:** Dr. Rekha R.
+* **JS:** Mr. Jatin Sharma
+* **KS:** Mr. Khushwant Sehra
+* **SU:** Mr. Sumit
+* **MJ:** Mr. Mitesh Jain
+* **HM:** Mr. Hemender
+* **AP:** Mr. Anil Pathak
+* **GB:** Ms. Geetanjali Bhola
+* **EKL:** Dr. Eklavya
+* **GS:** Dr. Gurinder Singh
+* **DRS:** Dr. Diptiranjan Samantaray
+* **DRB:** Prof. D. R. Bhaskar
+* **PKS:** Prof. P. K. Singh
+* **RS:** Prof. Raj Senani
+* **SBJ:** Prof. Shailbala Jain
+* **UDS:** Dr. Udita Sharma
+* **SG:** Dr. Shubham Gupta
+* **AKT:** Prof. A. K. Tandon
+* **AS:** Dr. Amit Sanyal
+* **AKG:** Dr. Ajay Kumar Gupta
+* **PRT:** Dr. Praveen Thakur
+* **GSC:** Prof. G. S. Chilana
+* **DP:** Dr. Deepika
+* **VJ:** Dr. Vanita Jain
+
+---
+
+## Subject Acronyms (1st Year)
+* **CW:** Computer Workshop
+* **ECW:** Electronics Workshop
+* **EF1:** English Fluency-1
+* **EW:** Electrical Workshop
+* **FCP:** Fundamentals of Computer Programming
+* **FL:** Financial Literacy
+* **HINDI BT:** Hindi Bhasha and Takneek
+* **IEEE:** Introduction of Electrical and Electronics Engineering
+* **M1:** Mathematics-1
+* **PHY:** Physics
+
+## Subject Acronyms (2nd & 3rd Year)
+* **ADA:** Analysis and Design of Algorithms
+* **ADEC:** Analog and Digital Electronics Circuits
+* **AEW:** Advanced Electrical Workshop
+* **DBMS:** Database Management System
+* **DE:** Digital Empowerment
+* **DE-I:** Digital Electronics-I
+* **DSD:** Digital System Design
+* **EDC:** Electronic Devices and Circuits
+* **EM-I:** Electrical Machines-I
+* **ENA:** Electrical Network Analysis
+* **ER:** Energy and its Resources
+* **EVS-II:** Environmental Science-II
+* **FCS:** Fundamentals of Cyber Security
+* **NAS:** Network Analysis and Synthesis
+* **PSCS:** Probability and Statistics for Computer Science
+* **VLSI:** VLSI Technology and Design
+* **VM-II:** Vedic Maths-II
+* **SRE:** Software Requirement Engineering
+* **FDBMS:** Fundamentals of DBMS
+* **ACS:** Analog Communication Systems
+* **AIML:** Artificial Intelligence and Machine Learning
+* **AVLSI:** Advanced Digital VLSI Circuits and Physical Design
+* **CN:** Computer Networks
+* **CTRL SYS:** Control System
+* **DSP:** Digital Signal Processing
+* **EMT:** Electromagnetic Field Theory
+* **ESMS:** Electrical Storage and Management System
+* **FCN:** Foundations of Computer Networks
+* **NN:** Neural Networks
+* **UEP:** Utilization of Electric Power
+* **PSA:** Power System Analysis
+* **ST:** Software Testing
+* **TOC:** Theory of Computation
+* **DIP:** Digital Image Processing
+* **NTI:** Network Technologies and Interfacing

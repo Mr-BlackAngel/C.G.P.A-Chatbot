@@ -1,0 +1,207 @@
+# Faculty of Technology (University of Delhi) - Third Year Syllabus
+**Course:** B.Tech (CSE, ECE, EE)
+**Effective Session:** 2025-26 onwards
+
+================================================================================
+SECTION A: COMPUTER SCIENCE & ENGINEERING (CSE)
+================================================================================
+
+## SEMESTER 5 STRUCTURE (CSE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-13 | Theory of Computation | 4 | 3-1-0 |
+| DSC-14 | Artificial Intelligence & Machine Learning | 4 | 3-0-1 |
+| DSC-15 | Computer Networks | 4 | 3-0-1 |
+| DSE-3 | Elective (OOP / Stats / Web / Discrete) | 4 | *Varies* |
+| GE-5 | Generic Elective | 4 | *Varies* |
+
+## SEMESTER 6 STRUCTURE (CSE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-16 | Cybersecurity | 4 | 3-0-1 |
+| DSC-17 | Cloud Computing | 4 | 3-0-1 |
+| DSC-18 | Software Project Management | 4 | 3-1-0 |
+| DSE-4 | Elective (Data / Graphics / IoT / Optimization / Compiler) | 4 | *Varies* |
+| GE-6 | Generic Elective | 4 | *Varies* |
+
+---
+### DETAILED SYLLABUS (CSE CORE)
+
+## Theory of Computation (DSC-13)
+**Unit 1:** Automata: DFA, NFA, Regular Expressions, Pumping Lemma.
+**Unit 2:** Context-Free: CFG, Chomsky/Greibach Normal Forms, Pushdown Automata (PDA).
+**Unit 3:** Computability: Turing Machines, Halting Problem, Decidability.
+**Unit 4:** Complexity: P, NP, NP-Complete, Reductions.
+
+## AI & Machine Learning (DSC-14)
+**Unit 1:** AI Basics: Search (BFS/DFS/A*), Heuristics, Adversarial Search.
+**Unit 2:** ML Basics: Supervised/Unsupervised, Regression, Decision Trees, Overfitting.
+**Unit 3:** Deep Learning: Neural Networks, Backpropagation, CNNs, RNNs.
+**Unit 4:** Advanced: Reinforcement Learning (Q-Learning), NLP basics, GANs.
+
+## Computer Networks (DSC-15)
+**Unit 1:** Layers: OSI/TCP Models, Physical Layer (Transmission).
+**Unit 2:** Data Link/Network: MAC protocols, Routing (OSPF, BGP), IPv4/IPv6.
+**Unit 3:** Transport: TCP (Congestion Control), UDP. Application: HTTP, DNS.
+**Unit 4:** Security/Trends: Firewalls, SDN, IoT, 5G.
+
+## Cybersecurity (DSC-16)
+**Unit 1:** Intro: CIA Triad, Threats (Malware, Phishing), Cryptography basics.
+**Unit 2:** Network Security: Firewalls, IDS/IPS, VPNs, Wireless Security (WPA3).
+**Unit 3:** App Security: OWASP Top 10, SQL Injection, XSS, Secure SDLC.
+**Unit 4:** Advanced: Incident Response, Ethical Hacking tools (Metasploit), Blockchain security.
+
+## Cloud Computing (DSC-17)
+**Unit 1:** Fundamentals: IaaS, PaaS, SaaS, Public/Private Clouds.
+**Unit 2:** Infrastructure: Virtualization (VMs), Storage, Load Balancing.
+**Unit 3:** Deployment: Docker Containers, Kubernetes, Serverless (FaaS).
+**Unit 4:** Advanced: Big Data on Cloud, AI Services, Cloud Security (IAM).
+
+## Software Project Management (DSC-18)
+**Unit 1:** Basics: Project Lifecycle, Agile vs Waterfall, KPIs.
+**Unit 2:** Planning: Estimation (COCOMO, Function Points), Scheduling (PERT/CPM).
+**Unit 3:** Monitoring: Risk Management, Quality Assurance.
+**Unit 4:** Tools: JIRA, Trello, Scrum Framework, Remote Management.
+
+---
+### CSE ELECTIVES (DSE-4)
+* **Foundations of Data Analysis:** EDA, Regression, Time Series, Python tools.
+* **Computer Graphics:** 3D Modeling, Rendering, Animation, Shaders.
+* **Introduction to IoT:** Raspberry Pi/Arduino, Protocols, Smart Home Case Studies.
+* **Optimization Techniques:** Linear/Non-linear Programming, Heuristics, Genetic Algorithms.
+* **Compiler Design:** Lexical/Syntax Analysis, Parsing (LL/LR), Code Optimization.
+
+================================================================================
+SECTION B: ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
+================================================================================
+
+## SEMESTER 5 STRUCTURE (ECE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-13 | Control Systems Engineering | 4 | 3-0-1 |
+| DSC-14 | Digital Signal Processing | 4 | 3-0-1 |
+| DSC-15 | Analog Communication Systems | 4 | 3-0-1 |
+| DSE-3 | Elective (Spread Spectrum / Network Tech / Image Processing) | 4 | 3-0-1 |
+
+## SEMESTER 6 STRUCTURE (ECE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-16 | Hands-On CMOS VLSI Design | 4 | 3-0-1 |
+| DSC-17 | Embedded Systems and Applications | 4 | 3-0-1 |
+| DSC-18 | Digital Communication Systems | 4 | 3-0-1 |
+| DSE-4 | Elective (Wireless Sensors / AI in Electronics / Coding / EMC) | 4 | 3-0-1 |
+
+---
+### DETAILED SYLLABUS (ECE CORE)
+
+## Control Systems Engineering (DSC-13)
+**Unit 1:** Modeling: Transfer Functions, Block Diagrams, Signal Flow Graphs.
+**Unit 2:** Time Domain: Transient response, Steady state error, Routh-Hurwitz.
+**Unit 3:** Frequency Domain: Bode Plots, Nyquist Criterion, Stability margins.
+**Unit 4:** Design: PID Controllers, Lag/Lead Compensators, State Space Analysis.
+
+## Digital Signal Processing (DSC-14)
+**Unit 1:** Basics: DTFT, Z-Transform, Convolution.
+**Unit 2:** Filters: FIR (Windowing), IIR (Butterworth/Chebyshev).
+**Unit 3:** Advanced: FFT, Multi-rate DSP, Adaptive Filtering (LMS/RLS).
+**Unit 4:** Processors: DSP Architecture (TMS320), Real-time applications.
+
+## Analog Communication Systems (DSC-15)
+**Unit 1:** AM/FM: Amplitude Modulation (DSB/SSB), Frequency/Phase Modulation.
+**Unit 2:** Architecture: Superheterodyne Receiver, Pulse Modulation (PAM/PWM).
+**Unit 3:** Transmission: FDM, TDM, Antennas, Optical Fiber basics.
+**Unit 4:** Trends: Cognitive Radio, SDR, Satellite links.
+
+## Hands-On CMOS VLSI Design (DSC-16)
+**Unit 1:** Fabrication: CMOS flow, Layout rules, Stick diagrams.
+**Unit 2:** Digital: Inverters, Gates, Latches, Flip-Flops, SRAM cells.
+**Unit 3:** Analog: LNA, Transimpedance Amplifiers, Active Inductors.
+**Unit 4:** Timing: Oscillators, PLLs, Clock Data Recovery (CDR).
+
+## Embedded Systems and Applications (DSC-17)
+**Unit 1:** 8086/8085: Architecture, Addressing modes.
+**Unit 2:** Programming: Assembly instructions, Interrupts.
+**Unit 3:** Peripherals: 8255 PPI, 8254 Timer, DMA, 8051 Microcontroller.
+**Unit 4:** ARM: Architecture, Instruction set, SPI/I2C/UART interfacing.
+
+## Digital Communication Systems (DSC-18)
+**Unit 1:** Coding: PCM, DPCM, Delta Modulation.
+**Unit 2:** Baseband: ISI, Nyquist Criterion, Eye Diagrams.
+**Unit 3:** Detection: Matched Filter, Maximum Likelihood, BER.
+**Unit 4:** Modulation: ASK, FSK, PSK, QAM, Error Control Coding.
+
+---
+### ECE ELECTIVES (DSE)
+* **Spread Spectrum:** DSSS, FHSS, CDMA, GPS, Rake Receivers.
+* **Network Technologies:** OSI/TCP models, IPv6, IoT Protocols (MQTT), 5G.
+* **Digital Image Processing:** Enhancement, Restoration, Compression (JPEG), Segmentation.
+* **Wireless Sensor Networks:** MAC protocols (SMAC), Routing (LEACH), Zigbee.
+* **AI in Electronics:** Edge AI, TinyML, FPGA accelerators, Neural Networks.
+* **Coding & Compression:** Huffman, Shannon-Fano, Convolutional Codes, Turbo Codes.
+* **EMC:** EMI Shielding, Crosstalk, PCB Design for EMC, Standards.
+
+================================================================================
+SECTION C: ELECTRICAL ENGINEERING (EE)
+================================================================================
+
+## SEMESTER 5 STRUCTURE (EE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-13 | Power System Analysis | 4 | 3-0-1 |
+| DSC-14 | Control System | 4 | 3-0-1 |
+| DSC-15 | Electromagnetic Field Theory | 4 | 3-0-1 |
+| DSE-3 | Elective (Utilization / Economic Operations) | 4 | 3-1-0 |
+
+## SEMESTER 6 STRUCTURE (EE)
+| Code | Course Title | Credits | L-T-P |
+| :--- | :--- | :--- | :--- |
+| DSC-16 | Switchgear and Protection | 4 | 3-0-1 |
+| DSC-17 | Embedded System Technologies | 4 | 3-0-1 |
+| DSC-18 | Power Electronics | 4 | 3-0-1 |
+| DSE-4 | Elective (Digital Control / Digital Signal Processing) | 4 | 3-1-0 |
+
+---
+### DETAILED SYLLABUS (EE CORE)
+
+## Power System Analysis (DSC-13)
+**Unit 1:** Modeling: Y-bus, Z-bus, Load Flow (Gauss-Seidel, Newton-Raphson).
+**Unit 2:** Faults: Symmetrical/Unsymmetrical faults, Z-bus applications.
+**Unit 3:** Stability: Swing equation, Equal area criterion, Transient stability.
+**Unit 4:** Voltage Stability: PV curves, Collapse prediction.
+
+## Control System (DSC-14)
+**Unit 1:** Basics: Block diagrams, Signal flow graphs, Transfer functions.
+**Unit 2:** Time Response: Transient/Steady-state, Routh-Hurwitz stability.
+**Unit 3:** Root Locus: Construction, Stability analysis.
+**Unit 4:** Frequency Response: Bode plots, Nyquist, PID Design, State Space.
+
+## Electromagnetic Field Theory (DSC-15)
+**Unit 1:** Vector Analysis: Gradient, Divergence, Curl, Stokes/Green theorems.
+**Unit 2:** Static Fields: Coulomb’s/Gauss’s Law, Biot-Savart, Boundary conditions.
+**Unit 3:** Dynamic Fields: Faraday’s Law, Maxwell’s Equations, Poynting Vector.
+**Unit 4:** Waves: Wave equation, Propagation in Dielectrics/Conductors, Transmission Lines.
+
+## Switchgear and Protection (DSC-16)
+**Unit 1:** Relays: Overcurrent, Differential, Distance relays. CTs/PTs.
+**Unit 2:** Equipment Protection: Generators, Motors, Transformers.
+**Unit 3:** Lines: Distance protection, Carrier current, Grounding.
+**Unit 4:** Breakers: Arc physics, SF6, Vacuum, Air-blast breakers.
+
+## Embedded System Technologies (DSC-17)
+**Unit 1:** 8085 Microprocessor: Architecture, Bus organization.
+**Unit 2:** 8051 Microcontroller: Architecture, Assembly, Timers, Interrupts.
+**Unit 3:** Embedded Design: ARM Processor basics, Memory systems.
+**Unit 4:** Optimization: Platform design, Performance analysis, Software optimization.
+
+## Power Electronics (DSC-18)
+**Unit 1:** Devices: SCR, MOSFET, IGBT characteristics, Firing circuits.
+**Unit 2:** Rectifiers: Single/Three-phase controlled, Half/Full wave.
+**Unit 3:** Converters: Buck/Boost Choppers, Voltage Source Inverters (VSI).
+**Unit 4:** Controllers: AC Voltage controllers, Cycloconverters, UPS, Drives.
+
+---
+### EE ELECTIVES (DSE)
+* **Utilization of Electric Power:** Traction, Illumination, Heating, Welding.
+* **Economic Operations:** Economic Dispatch, Unit Commitment, Hydro-thermal scheduling.
+* **Digital Control System:** Z-transform, Pulse transfer function, Stability (Jury test), Deadbeat response.
+* **Digital Signal Processing:** Discrete signals, DFT/FFT, FIR/IIR Filter design.
