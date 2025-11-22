@@ -25,8 +25,7 @@ matrix_path = os.path.join(backend_dir, 'tfidf_matrix.pkl')
 load_dotenv(dotenv_path)
 
 app = Flask(__name__, template_folder=frontend_dir, static_folder=frontend_dir, static_url_path='')
-CORS(app)
-
+CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 # Initialize Gemini (STRICT MODE - Temperature 0.0)
 api_key = os.getenv('GEMINI_API_KEY')
 if api_key:
