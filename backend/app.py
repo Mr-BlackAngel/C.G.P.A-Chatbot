@@ -10,44 +10,34 @@ from dotenv import load_dotenv
 from supabase import create_client, Client
 from sklearn.metrics.pairwise import cosine_similarity
 
-# --- 1. SETUP (FAIL-SAFE MODE) ---
+# --- 1. SETUP (SIBLING FOLDER MODE) ---
 current_file_path = os.path.abspath(__file__)
-base_dir = os.path.dirname(current_file_path)
+backend_dir = os.path.dirname(current_file_path) # /app/backend
+project_root = os.path.dirname(backend_dir)       # /app
 
-print(f"📍 STARTING SEARCH FROM: {base_dir}")
-frontend_dir = None
-project_root = base_dir # Default to current dir
+print(f"📍 Backend Directory: {backend_dir}")
+print(f"📍 Project Root: {project_root}")
 
-# 1. Search for index.html
-for root, dirs, files in os.walk(base_dir):
-    if 'index.html' in files:
-        frontend_dir = root
-        print(f"✅ FOUND FRONTEND AT: {frontend_dir}")
-        # Assume project root is one level up from frontend
-        project_root = os.path.dirname(frontend_dir)
-        break
-
-# 2. Emergency Fallback (If not found)
-if not frontend_dir:
-    print("❌ CRITICAL: index.html DOES NOT EXIST. UI WILL FAIL.")
-    # Point to a dummy path so Flask doesn't crash immediately
-    frontend_dir = os.path.join(base_dir, 'frontend')
-    project_root = base_dir
-
-# 3. Define paths (GUARANTEED to exist now)
-kb_path = os.path.join(base_dir, 'knowledge_base.json')
-vectorizer_path = os.path.join(base_dir, 'vectorizer.pkl')
-matrix_path = os.path.join(base_dir, 'tfidf_matrix.pkl')
+# Define paths assuming the standard structure
+frontend_dir = os.path.join(project_root, 'frontend')
+kb_path = os.path.join(backend_dir, 'knowledge_base.json')
+vectorizer_path = os.path.join(backend_dir, 'vectorizer.pkl')
+matrix_path = os.path.join(backend_dir, 'tfidf_matrix.pkl')
 dotenv_path = os.path.join(project_root, '.env')
 
-# 4. Load Env
-if os.path.exists(dotenv_path):
-    load_dotenv(dotenv_path)
-    print(f"✅ Loaded .env from: {dotenv_path}")
+# Verify existence (Debug Log)
+if os.path.exists(os.path.join(frontend_dir, 'index.html')):
+    print(f"✅ SUCCESS: Found index.html at {frontend_dir}")
 else:
-    print("⚠️ .env file not found (Using Railway Variables)")
+    print(f"❌ ERROR: index.html NOT found at {frontend_dir}")
+    # Check what IS in the root
+    try:
+        print(f"📂 Contents of Project Root: {os.listdir(project_root)}")
+    except: pass
 
-print(f"📂 Configured Frontend: {frontend_dir}")
+load_dotenv(dotenv_path)
+
+# Initialize Flask with the explicit paths
 app = Flask(__name__, template_folder=frontend_dir, static_folder=frontend_dir, static_url_path='')
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 # Initialize Gemini (STRICT MODE - Temperature 0.0)
