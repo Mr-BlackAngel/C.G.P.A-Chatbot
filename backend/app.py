@@ -156,14 +156,14 @@ def chat():
             
             if cid:
                 st = supabase.table('students').select('*').eq('class_id', cid).execute()
-                s_list = "\n".join([f"Roll_ID: {s['student_id']} -> Name: {s['name']}" for s in st.data])
-                roster_ctx = f"[CLASS ROSTER]\n{s_list}\n"
+                s_list = "\n".join([f"ID: {s['student_id']} | Name: {s['name']} | Data: {s['details']}" for s in st.data])
+                roster_ctx = f"[CLASS ROSTER & DATA]\n{s_list}\n"
 
         kb_ctx = get_context(msg)
         
         # --- STRICT SYSTEM PROMPT ---
         sys_prompt = f"""
-        You are the Faculty of Technology (FoT) Campus AI.
+        You are the Faculty of Technology (FoT) Campus AI (C.G.P.A).
         
         [KNOWLEDGE BASE]
         {kb_ctx}
@@ -171,15 +171,30 @@ def chat():
         [TEACHER DATA]
         {roster_ctx}
         
-        [STRICT PROTOCOLS - DO NOT DEVIATE]
-        1. **Syllabus:** Quote the syllabus EXACTLY. Do NOT invent units. If the text says Unit 3 contains X and Y, do not split them into Unit 3 and 4.
-        2. **Vacant Rooms:** - Identify the Day and Time from the query.
-           - Look at the [TIMETABLE] chunks provided.
-           - List the rooms that are *occupied*.
-           - Subtract them from the [Campus Room Inventory] list.
-           - The result is the Vacant Rooms.
-        3. **Attendance:** If asked to mark attendance, output strictly JSON: {{ "action": "update_attendance", "ids": ["123"], "status": "Present", "date": "YYYY-MM-DD" }}
-        4. **General:** If the info is not in the Knowledge Base, say "I don't have that information."
+        [STRICT PROTOCOLS]
+        1. **Syllabus/Rooms:** Use Knowledge Base.
+        
+        2. **Mark Attendance (Specific):** If ids are clear (e.g. "Mark 101, 102"), output: 
+           {{ "action": "update_attendance", "ids": ["101", "102"], "status": "Present", "date": "YYYY-MM-DD" }}
+        
+        3. **Mark Attendance (Pattern):** If asked to mark by pattern (e.g. "Name starts with K", "Roll ends with 77", "Contains Singh"):
+           Output: {{ 
+             "action": "update_attendance", 
+             "status": "Present", 
+             "date": "YYYY-MM-DD",
+             "pattern": {{ "field": "name" or "id", "type": "startswith" or "endswith" or "contains", "value": "77" }}
+           }}
+
+        4. **Data Analysis (Read Only):** If asked to filter/show students (e.g. "attendance < 50%", "marks > 8", "show record for Yash"):
+           Output: {{ 
+             "action": "analyze_data", 
+             "search_name": "optional_name", 
+             "filter_type": "attendance" or "marks", 
+             "operator": ">" or "<" or ">=" or "<=" or "==", 
+             "value": 50 
+           }}
+
+        5. **General Info:** If not in KB/Data, say "I don't have that information."
         """
 
         ghist = [{"role": "user", "parts": ["System Instruction: " + sys_prompt]}]
@@ -193,7 +208,7 @@ def chat():
         # 2. Save Bot Response
         if supabase and email:
             save_text = txt
-            if '"action":' in txt: save_text = "✅ Attendance Updated."
+            if '"action":' in txt: save_text = "✅ Executing Action..."
             supabase.table('conversations').insert({'user_email': email, 'role': 'model', 'message': save_text}).execute()
 
         # --- ACTION HANDLER ---
@@ -202,28 +217,126 @@ def chat():
                 clean = txt.replace('```json','').replace('```','').strip()
                 cmd = json.loads(clean)
                 
+                # =====================================================
+                # ACTION 1: UPDATE ATTENDANCE (WRITE)
+                # =====================================================
                 if cid and cmd.get('action') == 'update_attendance':
-                    t_ids = [str(i) for i in cmd.get('ids', [])]
                     status = cmd.get('status', 'Present')
                     date = cmd.get('date')
                     
+                    # Fetch Roster
                     st_data = supabase.table('students').select('student_id, name').eq('class_id', cid).execute().data
                     valid_map = {str(s['student_id']): s['name'] for s in st_data}
                     
+                    target_ids = []
+
+                    # Case A: Specific IDs provided
+                    if 'ids' in cmd:
+                        raw_ids = [str(i) for i in cmd.get('ids', [])]
+                        for tid in raw_ids:
+                            # Match substring ID to full ID
+                            matched_id = next((k for k in valid_map.keys() if k.endswith(tid)), None)
+                            if matched_id: target_ids.append(matched_id)
+
+                    # Case B: Pattern Matching provided
+                    elif 'pattern' in cmd:
+                        p = cmd['pattern']
+                        p_type = p.get('type')
+                        p_val = p.get('value', '').lower()
+                        p_field = p.get('field') # 'name' or 'id'
+
+                        for full_id, full_name in valid_map.items():
+                            check_val = full_name.lower() if p_field == 'name' else full_id.lower()
+                            
+                            match = False
+                            if p_type == 'startswith' and check_val.startswith(p_val): match = True
+                            elif p_type == 'endswith' and check_val.endswith(p_val): match = True
+                            elif p_type == 'contains' and p_val in check_val: match = True
+                            
+                            if match: target_ids.append(full_id)
+
+                    if not target_ids:
+                        return jsonify({'response': f"❌ No students found matching your criteria.", 'success': True})
+
+                    # Update DB for all matches
                     updated_names = []
-                    for tid in t_ids:
-                        matched_id = next((k for k in valid_map.keys() if k.endswith(tid)), None)
-                        if matched_id:
-                            supabase.table('attendance_records').upsert({
-                                "student_id": matched_id, "class_id": cid, 
-                                "date": date, "status": status
-                            }, on_conflict="student_id, class_id, date").execute()
-                            updated_names.append(valid_map[matched_id])
+                    for sid in target_ids:
+                        supabase.table('attendance_records').upsert({
+                            "student_id": sid, "class_id": cid, 
+                            "date": date, "status": status
+                        }, on_conflict="student_id, class_id, date").execute()
+                        updated_names.append(valid_map[sid])
                     
-                    if updated_names:
-                        return jsonify({'response': f"✅ Marked **{status}** for: {', '.join(updated_names)}", 'success': True})
+                    count = len(updated_names)
+                    # If list is too long, summarize
+                    if count > 5:
+                        msg_out = f"✅ Marked **{status}** for **{count} students** (including {updated_names[0]}, {updated_names[1]}...)"
                     else:
-                        return jsonify({'response': f"❌ No matching students found.", 'success': True})
+                        msg_out = f"✅ Marked **{status}** for: {', '.join(updated_names)}"
+
+                    return jsonify({'response': msg_out, 'success': True})
+
+                # =====================================================
+                # ACTION 2: ANALYZE DATA (READ / FILTER / REPORT)
+                # =====================================================
+                elif cid and cmd.get('action') == 'analyze_data':
+                    f_type = cmd.get('filter_type', 'attendance')
+                    operator = cmd.get('operator')
+                    val = cmd.get('value')
+                    search_name = cmd.get('search_name', '').lower()
+
+                    students = supabase.table('students').select('*').eq('class_id', cid).execute().data
+                    records = supabase.table('attendance_records').select('*').eq('class_id', cid).execute().data
+                    
+                    unique_dates = set(r['date'] for r in records)
+                    global_total = len(unique_dates)
+                    
+                    master_data = []
+                    
+                    for s in students:
+                        # Attendance Calc
+                        present_count = sum(1 for r in records if r['student_id'] == s['student_id'] and r['status'] == 'Present')
+                        att_pct = round((present_count / global_total * 100), 1) if global_total > 0 else 0.0
+                        
+                        # Marks Calc
+                        marks = 0
+                        if s['details'] and isinstance(s['details'], dict):
+                            for k, v in s['details'].items():
+                                if isinstance(v, (int, float)):
+                                    marks = v
+                                    break
+                        
+                        master_data.append({ "name": s['name'], "id": s['student_id'], "attendance": att_pct, "present": present_count, "marks": marks })
+
+                    filtered_list = []
+                    for item in master_data:
+                        if search_name and search_name not in item['name'].lower(): continue
+                        
+                        if operator and val is not None:
+                            target = item['attendance'] if f_type == 'attendance' else item['marks']
+                            try:
+                                v = float(val)
+                                if operator == '>' and not (target > v): continue
+                                if operator == '<' and not (target < v): continue
+                                if operator == '>=' and not (target >= v): continue
+                                if operator == '<=' and not (target <= v): continue
+                                if operator == '==' and not (target == v): continue
+                            except: pass
+                        
+                        filtered_list.append(item)
+
+                    if not filtered_list:
+                        return jsonify({'response': "No students matched your criteria.", 'success': True})
+
+                    if f_type == 'marks':
+                        table = "| Name | Roll ID | Marks |\n|:---|:---|:---:|\n"
+                        for i in filtered_list: table += f"| {i['name']} | {i['id']} | **{i['marks']}** |\n"
+                    else:
+                        table = "| Name | Roll ID | Present | Total | % |\n|:---|:---|:---:|:---:|:---:|\n"
+                        for i in filtered_list: table += f"| {i['name']} | {i['id']} | {i['present']} | {global_total} | **{i['attendance']}%** |\n"
+
+                    return jsonify({'response': f"### Analysis Report\n{table}", 'success': True})
+
             except Exception as e:
                 print(f"JSON Action Error: {e}")
 

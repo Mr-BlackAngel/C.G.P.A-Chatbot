@@ -1,299 +1,854 @@
 # Faculty of Technology - Consolidated Timetable (Odd Sem 2025-26)
-**Effective From:** 10th September 2025
+
+###  1st YEAR – EE-A (Electrical Engineering A)
+**MONDAY**
+09:00–13:00: EW class (A1) (Room 212, UJS)
+09:00–13:00: FCP Lab (A2) (Room 312, UK)
+14:00-16:00: M1 Lecture (Room 213, HCT)
+
+**TUESDAY**
+11:00–13:00: IEEE Theory (Room 313, AT)
+14:00–16:00: FCP Theory (Room 204, UK)
+16:00–18:00: FL (Financial Literacy) (Room 313, TK)
+
+**WEDNESDAY**
+09:00–11:00: FCP Lab (A1) (Room 312, UK)
+09:00–13:00: EW (A2) (Room 212, AKS)
+14:00–15:00: FCP Theory (Room 216, UK)
+
+**THURSDAY**
+09:00–11:00: HBT (Room 313, VA)
+12:00–13:00: IEEE Theory (Room 216, AT)
+13:00–15:00: M1 Tutorial A1 (Room 213, HCT)
+15:00–16:00: M1 Lecture (Room 213, HCT)
+
+**FRIDAY**
+09:00–10:00: FL (Room 314, TK)
+10:00–11:00: EF (Room 314, TNK)
+11:00–12:00: EF (Room 314, TNK)
+13:00–14:00: EF Tutorial (Room 314, TNK)
+14:00–15:00: EF Lecture (Room 314, TNK)
 
 ---
 
-## 1st Year: CSE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | IEEE [JP] (313) | IEEE [JP] (313) | M1 [JY] (214) | M1 Tut A1 [JY] | M1 Tut A2 [JY] | - | - | - | - |
-| **Tue** | EF-E [ANK] (314) | EF-E [ANK] (314) | EF-E Tut (203) | EF-E [ANK] (203) | FL-E [AK] (314) | FL-E [AK] (314) | - | - | - |
-| **Wed** | M1 [JY] (313) | M1 [JY] (313) | FCP [SNK] (213) | FL-E [AK] (314) | CW A2 [UK] | CW A2 [UK] | CW A1 [SK] | CW A1 [SK] | - |
-| **Thu** | FCP Lab A1 (312) | FCP Lab A1 (312) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | IEEE Lab A2 | IEEE Lab A2 | FCP Lab A2 (312) | FCP Lab A2 (312) | - |
-| **Fri** | IEEE [JP] (313) | FCP [SNK] (213) | FCP [SNK] (213) | HBT [PT] (213) | HBT [PT] (213) | - | - | - | - |
+### 1st YEAR – EE-B (Electrical Engineering B)
+**MONDAY**
+09:00–11:00: HBT (Room 314, PT)
+11:00–12:00: M1 (Room 214, YG)
+14:00–16:00: PHY (Room 216, SVK)
+16:00–17:00: FCP Theory (Room 204, JJ)
+
+**TUESDAY**
+09:00–13:00: EW B1 (Room 212, UJS) 
+9:00–11:00: PHY Lab B2 (Room 304, ASK)
+11:00–13:00: FCP Lab B2 (Room 217, US)
+13:00–14:00: PHY (Physics) (Room 204, SVK)
+
+**WEDNESDAY**
+12:00–14:00: M1 Tutorial B1 (Room 204, YG)
+14:00–15:00: M1 (Room 214, YG)
+16:00–17:00: FL (Financial Literacy) (Room 314, AK)
+
+**THURSDAY**
+09:00–11:00: FL  (Room 213, AK)
+16:00–18:00: EF (Room 214, RH)
+
+**FRIDAY**
+09:00–13:00: EW B2 (Room 212, AKS)
+09:00–11:00: PHY Lab B1 (Room 304, SVK)
+11:00–13:00: FCP Lab B1 (Room 217, US)
+14:00–16:00: FCP Theory (Room 313, JJ)
+16:00–17:00: EF Tutorial (Room 314, RH)
+17:00–18:00: EF Lecture (Room 314, RH)
 
 ---
 
-## 1st Year: CSE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | FL-D [TK] (214) | FL-D [TK] (214) | M1 [VNK] (314) | M1 [VNK] (314) | - | - | - | - | - |
-| **Tue** | EF-D [TNK] (213) | EF-D [TNK] (213) | EF-D Tut (213) | HBT [OP] (314) | HBT [OP] (314) | FL-D [TK] (213) | CW B2 [JS] | CW B2 [JS] | - |
-| **Wed** | FCP [SY] (213) | FCP [SY] (213) | EF-D [TNK] (314) | PHY [SVK] (213) | CW B2 [UK] | CW B2 [UK] | FCP Lab B1 (312) | FCP Lab B1 (312) | - |
-| **Thu** | FCP [SY] (314) | PHY [SVK] (314) | PHY [SVK] (314) | M1 [VNK] (314) | CW B1 [SK] | CW B1 [SK] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (312) |
-| **Fri** | - | M1 Tut B1 (216) | M1 Tut B2 (216) | - | CW B1 [SK] | CW B1 [SK] | FCP Lab B2 (312) | FCP Lab B2 (312) | - |
+### 1st YEAR – ECE-A (Electronics & Communication Engineering A)
+**MONDAY**
+09:00–13:00: ECW A1 (Room 311, RJS)
+11:00–13:00: FCP Lab A2 (Room 312, SNK)
+14:00–16:00: FCP Theory (Room 314, SNK)
+
+**TUESDAY**
+09:00–13:00: ECW A2 (Room 311, SW)
+11:00–13:00: IEEE Lab A1 (Room 211, RJS)
+14:00–15:00: IEEE (Room 213, RJS)
+15:00–16:00: M1 (Room 213, VNK)
+16:00–18:00: IEEE Lab A2 (Room 211, RJS) 
+16:00–18:00: FCP Lab A1 (Room 312, SNK)
+
+**WEDNESDAY**
+10:00–11:00: FL (Room 313, PS)
+11:00–13:00: IEEE (Room 313, RJS)
+14:00–15:00: FCP (Room 313, SNK)
+15:00–16:00: M1 (Room 313, VNK)
+
+**THURSDAY**
+09:00–11:00: FL (Room 214, PS)
+11:00–13:00: EF (Room 214, RH)
+15:00–17:00: HBT (Room 314, VA)
+
+**FRIDAY**
+11:00–12:00: EF Tutorial (Room 214, RH)
+12:00–13:00: EF Lecture (Room 214, RH)
+13:00–14:00: M1 Tutorial A1 (Room 204, VNK)
+15:00–16:00: M1 Tutorial A2 (Room 204, VNK)
 
 ---
 
-## 1st Year: ECE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | ECW A1 [RJS] (311) | FCP Lab A2 (312) | FCP Lab A2 (312) | - | - | - |
-| **Tue** | ECW A2 [SW] (311) | ECW A2 [SW] (311) | ECW A2 [SW] (311) | ECW A2 [SW] (311) | IEEE Lab A2 (211) | IEEE Lab A2 (211) | IEEE [RJS] (213) | M1 [VNK] (213) | - |
-| **Wed** | FL-C [PS] (313) | IEEE [RJS] (313) | IEEE [RJS] (313) | FCP [SNK] (313) | M1 [VNK] (313) | M1 [VNK] (313) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | - |
-| **Thu** | FL-C [PS] (214) | FL-C [PS] (214) | EF-C [RH] (214) | EF-C [RH] (214) | HBT [VA] (314) | HBT [VA] (314) | FCP [SNK] (314) | FCP [SNK] (314) | - |
-| **Fri** | - | - | EF-C Tut (214) | EF-C [RH] (214) | M1 Tut A1 (204) | M1 Tut A2 (204) | FCP Lab A1 (312) | FCP Lab A1 (312) | - |
+### 1st YEAR – ECE-B (Electronics & Communication Engineering B)
+**MONDAY**
+09:00–11:00: M1 Tutorial B1 (Room 216, JY)
+12:00–13:00: PHY (Physics) (Room 313, ASK)
+13:00–17:00: ECW B1 (Room 311, VJ)
+14:00–16:00: PHY Lab B2 (Room 304, ASK)
+16:00–18:00: FCP Lab B2 (Room 312, SY)
+
+**TUESDAY**
+09:00–11:00: HBT (Room 216, PT)
+11:00–13:00: FCP Theory (Room 216, SNK)
+14:00–16:00: M1 (Room 313, JY)
+16:00–18:00: FL (Room 313, TK)
+
+**WEDNESDAY**
+11:00–12:00: M1 (Room 213, JY)
+12:00–13:00: FCP Theory (Room 216, SNK)
+14:00–16:00: ECW B2 (Room 311, VJ)
+14:00–16:00: FCP Lab B1 (Room 312, SY)
+16:00–17:00: FL (Room 314, AK)
+
+**THURSDAY**
+09:00–11:00: FL (Room 213, AK)
+11:00–13:00: PHY (Room 213, ASK)
+14:00–16:00: PHY Lab B1 (Room 304, ASK)
+14:00–16:00: ECW B2 (Room 311, VJ) 
+16:00–18:00: EF (Room 214, RH)
+
+**FRIDAY**
+09:00–10:00: FL (Room 314, TK)
+10:00–12:00: EF (Room 314, TNK)
+13:00–14:00: EF Tutorial (Room 314, TNK)
+14:00–15:00: EF Lecture (Room 314, TNK)
+16:00–17:00: EF Tutorial (Room 314, RH)
+17:00–18:00: EF Lecture (Room 314, RH)
 
 ---
 
-## 1st Year: ECE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | M1 Tut B1 (216) | M1 Tut B2 (216) | - | PHY [ASK] (313) | ECW B1 [VJ] | ECW B1 [VJ] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (312) |
-| **Tue** | HBT [PT] (216) | HBT [PT] (216) | FCP [SNK] (216) | FCP [SNK] (216) | M1 [JY] (313) | M1 [JY] (313) | ECW B2 [VJ] | ECW B2 [VJ] | - |
-| **Wed** | M1 [JY] (213) | FCP [SNK] (216) | FL-B [AK] (314) | - | FL-A [TK] (313) | FL-A [TK] (313) | FCP Lab B1 (312) | FCP Lab B1 (312) | - |
-| **Thu** | FL-B [AK] (213) | FL-B [AK] (213) | PHY [ASK] (213) | PHY [ASK] (213) | - | ECW B2 [VJ] | PHY Lab B1 (304) | PHY Lab B1 (304) | EF-B [RH] (214) |
-| **Fri** | FL-A [TK] (314) | EF-A [TNK] (314) | EF-A [TNK] (314) | EF-A Tut (314) | EF-A [TNK] (314) | - | EF-B Tut (314) | EF-B [RH] (314) | - |
+### 1st YEAR – CSE-A (Computer Science A)
+**MONDAY**
+09:00–11:00: IEEE Theory (Room 313, JP)
+13:00–14:00: M1 (Room 214, JY)
+14:00–15:00: M1 Tutorial A1 (Room 204, JY)
+15:00–16:00: M1 Tutorial A2 (Room 204, JY)
+
+**TUESDAY**
+09:00–11:00: EF (Room 314, ANK)
+11:00–12:00: EF Tutorial (Room 203, ANK)
+13:00–14:00: EF (Room 203, ANK)
+16:00–18:00: FL (Room 314, AK)
+
+**WEDNESDAY**
+14:00–16:00: M1 Math (Room 313, JY)
+16:00–17:00: FCP Theory (Room 213, SNK)
+17:00–18:00: FL (Room 314, AK)
+
+**THURSDAY**
+09:00–13:00: CW A2 (UK) 
+09:00–11:00: FCP Lab A1 (Room 312, SNK)
+11:00–13:00: IEEE Lab A1 (Room 211, JP)
+14:00–16:00: IEEE Lab A2 (JP)
+14:00–18:00: CW A1 (SK) 
+16:00–18:00:  FCP Lab A2 (Room 312, SNK)
+
+**FRIDAY**
+11:00–12:00: IEEE Theory (Room 313, JP)
+14:00–16:00: FCP Theory (Room 213, SNK)
+16:00–18:00: HBT (Room 213, PT)
 
 ---
 
-## 1st Year: EE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | EW A1 [UJS] (212) | EW A1 [UJS] (212) | EW A1 [UJS] (212) | EW A1 [UJS] (212) | FCP Lab A2 (312) | FCP Lab A2 (312) | IEEE Lab A2 (211) | IEEE Lab A2 (211) | - |
-| **Tue** | - | - | IEEE [AT] (313) | IEEE [AT] (313) | - | FCP [UK] (204) | FCP [UK] (204) | FL-A [TK] (313) | FL-A [TK] (313) |
-| **Wed** | FCP [UK] (216) | M1 [HCT] (213) | - | - | FCP Lab A1 (312) | FCP Lab A1 (312) | IEEE Lab A1 (211) | IEEE Lab A1 (211) | - |
-| **Thu** | HBT [VA] (313) | HBT [VA] (313) | - | IEEE [AT] (216) | M1 Tut A1 (213) | M1 Tut A2 (213) | M1 [HCT] (213) | EW A2 [AKS] (212) | EW A2 [AKS] (212) |
-| **Fri** | FL-A [TK] (314) | EF-A [TNK] (314) | EF-A [TNK] (314) | EF-A Tut (314) | EF-A [TNK] (314) | - | - | - | - |
+### 1st YEAR – CSE-B (Computer Science B)
+**MONDAY**
+09:00–11:00: FL (Room 214, TK)
+11:00–13:00: M1 Math (Room 314, VNK)
+
+**TUESDAY**
+09:00–11:00: EF (Room 213, TNK)
+13:00–14:00: EF Tutorial (Room 213, TNK)
+14:00–16:00: HBT (Room 314, OP)
+16:00–17:00: FL (Room 213, TK)
+
+**WEDNESDAY**
+09:00–11:00: FCP Theory (Room 213, SY)
+11:00–12:00: EF (Room 314, TNK)
+12:00–13:00: PHY (Room 213, SVK)
+14:00–18:00: CW B2 (JS) 
+14:00–16:00: PHY Lab B1 (Room 304, SVK)
+16:00–18:00: FCP Lab B1 (Room 312, RR)
+
+**THURSDAY**
+09:00–10:00: FCP Theory (Room 314, SY) 
+11:00–13:00: PHY (Room 314, SVK)
+13:00–14:00: M1 (Room 314, VNK)
+
+**FRIDAY**
+10:00–11:00: M1 Tutorial B1 (Room 216, VNK)
+11:00–12:00: M1 Tutorial B2 (Room 216, VNK)
+14:00–18:00: CW B1 (SK/JS) 
+14:00–16:00: PHY Lab B2 (Room 304, SVK)
+16:00–18:00: FCP Lab B2 (Room 312, RR)
 
 ---
 
-## 1st Year: EE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | HBT [PT] (314) | HBT [PT] (314) | M1 [YG] (214) | M1 [YG] (214) | PHY [SVK] (216) | PHY [SVK] (216) | FCP [JJ] (204) | - | - |
-| **Tue** | EW B1 [UJS] | EW B1 [UJS] | EW B1 [JP] | EW B1 [JP] | PHY Lab B2 (304) | PHY Lab B2 (304) | FCP Lab B2 (217) | FCP Lab B2 (217) | - |
-| **Wed** | M1 Tut B1 (204) | M1 Tut B1 (204) | M1 [YG] (214) | - | FL-B [AK] (314) | FCP [JJ] (313) | FCP [JJ] (313) | - | - |
-| **Thu** | FL-B [AK] (213) | FL-B [AK] (213) | EF-B [RH] (214) | EF-B [RH] (214) | - | - | - | - | - |
-| **Fri** | EW B2 [AKS] | EW B2 [AKS] | EW B2 [AKS] | EW B2 [AKS] | PHY Lab B1 (304) | PHY Lab B1 (304) | FCP Lab B1 (217) | FCP Lab B1 (217) | EF-B Tut (314) |
+### 2nd YEAR – CSE-A (Computer Science A)
+
+**MONDAY**
+09:00-11:00: FCS Lab B1 (Room R1, SK)
+12:00–13:00: DSD Theory (Room R1, KS)
+14:00–16:00: ADA Lab A2 (Room R1, JJ)
+14:00–16:00: DSD Lab A1 (Room 317, KS) 
+16:00–18:00: EVS-II Theory (Room R1, UDS)
+
+**TUESDAY**
+09:00–10:00: FCS Theory (Room R1, SK)
+10:00–11:00: PSCS Theory A (Room R2, RR)
+11:00–13:00: DSD Theory (Room R1, KS)
+14:00–15:00: ADA Theory (Room R1, JJ)
+15:00–16:00: DBMS Theory (Room R1, GB)
+
+**WEDNESDAY**
+09:00–11:00: FCS Theory (Room R1, SK)
+11:00–13:00: DBMS Lab A2 (Room R3, GB)
+11:00–13:00: ADA Lab A1 (Room R1, JJ) 
+14:00–16:00: DBMS Lab A1 (Room R1, GB)
+14:00–16:00: DSD Lab A2 (Room 317, KS) 
+
+**THURSDAY**
+08:00–10:00: FCS Lab B2 (Room R1, SK)
+11:00–13:00: DBMS Theory (Room R1, GB)
+14:00–16:00: ADA Theory (Room R1, JJ)
+16:00-18:00: PSCS Lab A1 (Room R3, RR) 
+16:00-17:00: ER Theory (Room 216, RJS)
+16:00-17:00: VLSI Theory (Room 203, SW)
+
+**FRIDAY**
+09:00-11:00: PSCS Theory A(Room R2, RR) 
+09:00-11:00: VLSI Theory (Room 204, SW)
+09:00-11:00: ER Theory (Room 203, RJS)
+11:00-13:00: PSCS A Lab A2 (Room R2, RR)
+16:00-18:00: VLSI Lab (Room 303, SW)
+16:00-18:00: ER Lab (Room 513, RJS) 
+
+**SATURDAY**
+09:00-11:00: VM-II Lab B1 (Room 204, SU)
+08:00-12:00: DE B1 (Room 203, MJ)
+08:00-12:00: DE B2 (Room 213, HM) 
+08:00-10:00: DE B3 (Room 214, AP)
+11:00-12:00: VM-II Theory (Room 204, SU) 
+11:00-13:00: DE B3 (Room 214, AP)
+13:00-15:00: VM-II Lab B2 (Room 204, SU)
 
 ---
 
-## 2nd Year: CSE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | DSD Lab A1 (317) | DSD Lab A1 (317) | ADA Lab A2 (R1) | ADA Lab A2 (R1) | DSD [KS] (R1) | DSD [KS] (R1) | ADA [JJ] (R1) | DBMS [GB] (R1) | - |
-| **Tue** | FCS [SK] (R1) | PSCS A [RR] (R2) | DSD [KS] (R1) | DSD [KS] (R1) | ADA Lab A1 (R1) | ADA Lab A1 (R1) | DSD Lab A2 (317) | DSD Lab A2 (317) | - |
-| **Wed** | DBMS Lab A2 (R3) | DBMS Lab A2 (R3) | DBMS Lab A1 (R1) | DBMS Lab A1 (R1) | PSCS Lab A1 (R3) | PSCS Lab A1 (R3) | ER [RJS] (216) | VLSI [SW] (203) | - |
-| **Thu** | PSCS A [RR] (R2) | PSCS A [RR] (R2) | PSCS Lab A2 (R2) | PSCS Lab A2 (R2) | ER [RJS] (203) | ER [RJS] (203) | ER Lab [RJS] (513) | ER Lab [RJS] (513) | - |
-| **Fri** | FCS Lab B2 (R1) | FCS Lab B2 (R1) | DBMS [GB] (R1) | DBMS [GB] (R1) | VLSI [SW] (204) | VLSI [SW] (204) | VLSI Lab (303) | VLSI Lab (303) | - |
-| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
-| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
-| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+###  2nd YEAR – CSE-B (Computer Science B)
+**MONDAY**
+09:00-11:00: FCS Lab B1 (Room R1, SK) 
+09:00-11:00: PSCS B Lab B1 (Room R3, RR)
+11:00–12:00: DSD Theory (Room R3, GS)
+12:00–13:00: ADA Theory (Room R3, JJ)
+14:00-16:00: DBMS Theory (Room R2, GB)
+
+**TUESDAY**
+09:00-10:00: FCS Theory (Room R1, SK) 
+09:00-10:00: PSCS B Theory (Room R2, RR)
+10:00-11:00: PSCS A Theory (Room R2, RR)
+11:00-13:00: ADA Lab B1 (Room R4, JJ) 
+11:00-13:00: DBMS Lab B2 (Room R3, GB)
+14:00-15:00: DBMS Theory (Room R2, GB)
+16:00–18:00: EVS-II (Room R1, EKL)
+
+**WEDNESDAY**
+09:00-11:00: FCS Theory (Room R1, SK)
+09:00-11:00: PSCS B Theory (Room R2, RR)
+11:00–13:00: DSD Theory (Room R2, GS)
+14:00–16:00: ADA Theory (Room R2, JJ)
+
+**THURSDAY**
+08:00–10:00: FCS Lab B2 (Room R1, SK)
+09:00–11:00: PSCS B Lab B2 (Room R2, RR)
+11:00-13:00: ADA Lab B2 (Room R3, JJ)
+11:00-13:00: DSD Lab B1 (Room 317, GS) 
+14:00-16:00: DBMS Lab B1 (Room R2, GB)
+14:00-16:00: DSD Lab B2 (Room 317, KS) 
+16:00-18:00: PSCS A Lab A1 (Room R3, RR)
+
+**FRIDAY**
+09:00–11:00: PSCS A Theory (Room R2, RR)
+11:00–13:00: PSCS A Lab A2 (Room R2, RR)
+
+**SATURDAY**
+08:00-12:00: DE B1 (Room 203, MJ) 
+08:00-12:00: DE B2 (Room 213, HM) 
+09:00-11:00: VM-II Lab B1 (Room 204, SU) 
+11:00-12:00: VM-II (Room 204, SU)
+08:00-10:00: DE B3 (Room 214, AP)
+11:00-13:00: DE B3 (Room 214, AP)
+13:00-15:00: VM-II Lab B2 (Room 204, SU)
 
 ---
 
-## 2nd Year: CSE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | - | - | DSD [GS] (R3) | ADA [JJ] (R3) | DBMS [GB] (R2) | DBMS [GB] (R2) | EVS-II [EKL] (R1) | EVS-II [EKL] (R1) | - |
-| **Tue** | FCS Lab B1 (R1) | FCS Lab B1 (R1) | PSCS Lab B1 (R3) | PSCS Lab B1 (R3) | DSD [GS] (R2) | DSD [GS] (R2) | DBMS [GB] (R2) | DBMS [GB] (R2) | - |
-| **Wed** | FCS [SK] (R1) | PSCS A [RR] (R2) | ADA Lab B1 (R4) | ADA Lab B1 (R4) | PSCS B [RR] (R2) | DBMS Lab B2 (R3) | DBMS Lab B2 (R3) | - | - |
-| **Thu** | FCS [SK] (R1) | FCS [SK] (R1) | PSCS B [RR] (R2) | PSCS B [RR] (R2) | ADA [JJ] (R2) | ADA [JJ] (R2) | PSCS Lab A1 (R3) | PSCS Lab A1 (R3) | - |
-| **Fri** | FCS Lab B2 (R1) | FCS Lab B2 (R1) | DSD Lab B1 (317) | DSD Lab B1 (317) | DSD Lab B2 (317) | DSD Lab B2 (317) | PSCS Lab B2 (R2) | PSCS Lab B2 (R2) | ADA Lab B2 (R3) |
-| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
-| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
-| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+###  2nd YEAR – ECE-A (Electronics & Communication Engineering A)
+**MONDAY**
+09:00-11:00: PSCS B Lab B1 (Room R3, RR)
+09:00-11:00: FCS Lab B1 (Room R1, SK) 
+11:00–13:00: DE-I Theory (Room 203, DRS)
+16:00–18:00: EVS-II (Room R2, EKL)
+
+**TUESDAY**
+09:00-10:00: PSCS B Theory (Room R2, RR)
+09:00-10:00: FCS Theory (Room R1, SK)
+11:00-13:00: EDC Lab A2 (Room 317, DRS)
+14:00–16:00: NAS Lab A1 (Room 312, SW)
+14:00–16:00: DE-I Lab A2 (Room 311, DRS)
+16:00-17:00: NAS Theory (Room 204, DRB)
+
+**WEDNESDAY**
+09:00-11:00: FCS Theory (Room R1, SK) 
+09:00-11:00: PSCS B Theory (Room R2, RR)
+11:00–13:00: EDC Theory (Room 203, DRS)
+16:00–18:00: DE-I Lab A1 (Room 311, PKS)
+
+**THURSDAY**
+08:00–10:00: FCS Lab B2 (Room R1, SK)
+09:00–11:00: PSCS B Lab B2 (Room R2, RR)
+12:00–13:00: NAS Theory (Room 204, DRB)
+14:00–15:00: EDC Theory (Room 203, DRS)
+16:00-17:00: VLSI Theory (Room 203, SW)
+16:00-17:00: ER Theory (Room 216, RJS)
+
+**FRIDAY**
+09:00-11:00: ER Theory (Room 203, RJS) 
+09:00-11:00: ER Theory (Room 203, RJS) 
+11:00–12:00: DE-I Theory (Room 204, DRS)
+12:00–13:00: NAS Theory (Room 204, DRB)
+14:00-16:00: EDE Lab A1 (Room 317, DRS)
+14:00-16:00: NAS Lab A2 (Room 303, SW)
+16:00-18:00: ER Lab (Room 513, RJS) 
+16:00-18:00: VLSI Lab (Room 303, SW)
+
+**SATURDAY**
+08:00-12:00: DE B1 (Room 203, MJ) 
+08:00-12:00: DE B2 (Room 213, HM) 
+09:00-11:00: VM-II Lab B1 (Room 204, SU) 
+11:00-12:00: VM-II (Room 204, SU)
+08:00-10:00: DE B3 (Room 214, AP)
+11:00-13:00: DE B3 (Room 214, AP)
+13:00-15:00: VM-II Lab B2 (Room 204, SU)
 
 ---
 
-## 2nd Year: ECE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | DE-I [DRS] (203) | DE-I [DRS] (203) | EVS-II [EKL] (R2) | EVS-II [EKL] (R2) | ER [RJS] (216) | PSCS Lab B2 (R2) | VLSI [SW] (203) | ER [RJS] (203) | - |
-| **Tue** | EDC Lab A2 (317) | EDC Lab A2 (317) | NAS [DRB] (204) | NAS [DRB] (204) | EDC [DRS] (203) | - | - | - | - |
-| **Wed** | EDC [DRS] (203) | EDC [DRS] (203) | DE-I Lab A1 (311) | DE-I Lab A1 (311) | NAS Lab A2 (303) | NAS Lab A2 (303) | ER Lab [RJS] (513) | ER Lab [RJS] (513) | - |
-| **Thu** | NAS [DRB] (204) | EDC [DRS] (203) | VLSI [SW] (204) | VLSI [SW] (204) | EDC Lab A1 (317) | EDC Lab A1 (317) | VLSI Lab (303) | VLSI Lab (303) | - |
-| **Fri** | DE-I [DRS] (204) | NAS [DRB] (204) | NAS Lab A1 (312) | NAS Lab A1 (312) | DE-I Lab A2 (311) | DE-I Lab A2 (311) | - | - | - |
-| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
-| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
-| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+### 2nd YEAR – ECE-B (Electronics & Communication Engineering B)
+
+**MONDAY**
+09:00-11:00: PSCS B Lab B1 (Room R3, RR)
+09:00-11:00: FCS Lab B1 (Room R1, SK) 
+11:00–13:00: EDC Lab B1 (Room 317, SBJ)
+11:00–13:00: NAS Lab B2 (Room 303, SW)
+14:00–15:00: EDC (Room 203, DRS)
+15:00–16:00: DE-1 (Room 203, PKS)
+
+**TUESDAY**
+09:00-10:00: PSCS B Theory (Room R2, RR)
+09:00-10:00: FCS Theory (Room R1, SK)
+10:00-11:00: EDC (Room 203, DRS)
+12:00–13:00: DE-I (Room 203, PKS)
+14:00-15:00: NAS Theory (Room 203, RS)
+16:00-18:00: EVS-II (UDS)
+
+**WEDNESDAY**
+09:00-11:00: FCS Theory (Room R1, SK) 
+09:00-11:00: PSCS B Theory (Room R2, RR)
+11:00–13:00: EDC B2 Lab (Room 317, SBJ)
+16:00–18:00: DE-I Lab B1 (Room 311, PKS)
+
+**THURSDAY**
+08:00–10:00: FCS Lab B2 (Room R1, SK)
+09:00–11:00: PSCS B Lab B2 (Room R2, RR)
+11:00–13:00: NAS Lab B1 (Room 303, SW)
+11:00–13:00: DE-I Lab B2 (Room 311, PKSI)
+14:00-15:00: NAS (Room 314, RS)
+15:00-16:00: EDC (Room 203, DRS)
+16:00-17:00: VLSI (Room 203, SW)
+
+**FRIDAY**
+09:00-11:00: VLSI (Room 204, SW) 
+13:00–14:00: DE-I Theory (Room 203, PKS)
+14:00–15:00: NAS Theory (Room 204, RS)
+16:00-18:00: VLSI Lab (Room 303, SW)
+
+**SATURDAY**
+08:00-12:00: DE B1 (Room 203, MJ) 
+08:00-12:00: DE B2 (Room 213, HM) 
+09:00-11:00: VM-II Lab B1 (Room 204, SU) 
+11:00-12:00: VM-II (Room 204, SU)
+08:00-10:00: DE B3 (Room 214, AP)
+11:00-13:00: DE B3 (Room 214, AP)
+13:00-15:00: VM-II Lab B2 (Room 204, SU)
+---
+
+### 2nd YEAR – EE (Electrical Engineering)
+**MONDAY**
+09:00-11:00: PSCS B Lab B1 (Room R3, RR)
+09:00-11:00: FCS Lab B1 (Room R1, SK) 
+11:00–13:00: EM1 (Room 213, SG)
+14:00–18:00: AEW A2 (Room 212, SG/AKT)
+14:00–16:00: ENA Lab A1 (Room 211, JP)
+16:00–18:00: ADEC Lab A1 (Room 317, AKS)
+
+**TUESDAY**
+09:00-10:00: PSCS B (Room R2, RR)
+09:00-10:00: FCS (Room R1, SK) 
+11:00–13:00: ADEC (Room 204, AKS)
+14:00–18:00: AEW A1 (Room 212, AK/AKT)
+14:00–16:00: ENA Lab A2 (Room 211, JP)
+16:00–18:00: ADEC Lab A2 (Room 317, AKS)
+
+**WEDNESDAY**
+09:00-11:00: FCS Theory (Room R1, SK) 
+09:00-11:00: PSCS B Theory (Room R2, RR)
+11:00–13:00: ENA (Room 214, JP)
+14:00–16:00: EM1 Lab A1 (Room 212, SG/AKT)
+16:00–18:00: EVS-II (Room 216, UDS)
+
+**THURSDAY**
+08:00–10:00: FCS Lab B2 (Room R1, SK)
+09:00–11:00: PSCS B Lab B2 (Room R2, RR)
+11:00–13:00: EM1 Lab A2 (Room 212, SG/AKT)
+14:00–15:00: ADEC Theory (Room 216, AKS)
+15:00–16:00: EM1 Theory (Room 216, SG)
+16:00–17:00: ER (Room 216, RJS)
+16:00–17:00: VLSI (Room 203, SW)
+
+**FRIDAY**
+09:00–11:00: ER (Room 203, RJS)
+09:00–11:00: VLSI (Room 204, SW)
+12:00–13:00: ENA Theory (Room 213, JP)
+16:00–18:00: ER Lab (Room 513, RJS)
+16:00–18:00: VLSI Lab (Room 303, SW)
+
+**SATURDAY**
+08:00-12:00: DE B1 (Room 203, MJ) 
+08:00-12:00: DE B2 (Room 213, HM) 
+09:00-11:00: VM-II Lab B1 (Room 204, SU) 
+11:00-12:00: VM-II (Room 204, SU)
+08:00-10:00: DE B3 (Room 214, AP)
+11:00-13:00: DE B3 (Room 214, AP)
+13:00-15:00: VM-II Lab B2 (Room 204, SU)
+---
+
+###3rd YEAR – CSE-A (Computer Science A) 
+
+**MONDAY**
+09:00–11:00: NTI A (Network Technologies and Interfacing) (Room 204, AS) 
+09:00–11:00: DIP (Digital Image Processing) (Room 203, AKG) 
+11:00–13:00: AIML Lab (A2) (Room 216, SY) 
+11:00-13:00:CN Lab(A1) (Room 204,JS)
+14:00-16:00:CN Lab(A2) (Room 303,JS)
+14:00–16:00: AIML Lab (A1) (Room 217, SY) 
+16:00–18:00: NN (Neural Networks) (A) (Room 214, US) 
+
+**TUESDAY**
+09:00–10:00: NTI  (A) (Room 214, AS) 
+09:00–11:00: DIP Lab (B1) (Room 204, GS) 
+11:00–13:00: CN (Computer Networks) (Room 314, JS) 
+14:00–15:00: TOC (Theory of Computation) Tutorial (A1) (Room 216, SNK) 
+15:00–16:00: TOC (Theory of Computation) Tutorial (A2) (Room 216, SNK) 
+16:00–18:00: NN Lab (A1) (Room 214, US) 
+ 
+**WEDNESDAY**
+08:00–10:00: NTI A Lab (A1) (Room 217, JS) 
+09:00–10:00: DIP  (Room 203, AKG) 
+08:00-10:00: ST Lab (Room 216, PRT)
+10:00–11:00: CN (Room 203, JS) 
+11:00–12:00: ESMS (Room 216, SG) 
+13:00–14:00: AIML (Room 203, SY)
+16:00-18:00: ST  (Room 203, PRT)
+
+**THURSDAY**
+08:00-09:00: ST  (Room 203, PRT)      
+09:00–11:00: NTI A (A2) (Network Technologies and Interfacing) (Room 303, JS)   
+09:00–11:00: DIP Lab (B2) (Room 204, GS)                                                                                                                                                 
+11:00–13:00: NN Lab (A2) (Room 312, US) 
+14:00–16:00: TOC (Room 204, SNK)                                                                                                                                                                                                                            
+
+**FRIDAY**  
+09:00-10:00:ESMS (Room 216, SG)                                                                                                                                                   
+10:00–11:00: TOC (Room 213, SNK) 
+11:00–13:00: AIML (Room 213, SY)
+13:00-14:00:ESMS (Room 216, SG)
+14:00-16:00:ESMS Lab (Room 513, SG)
+16:00–17:00: NN (Neural Networks) (A) (Room 214, US)
 
 ---
 
-## 2nd Year: ECE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | EDC [DRS] (203) | DE-I [PKS] (203) | EDC Lab B1 (317) | EDC Lab B1 (317) | - | - | - | - | - |
-| **Tue** | EDC [DRS] (203) | DE-I [PKS] (203) | NAS [RS] (203) | EVS-II [UDS] | EVS-II [UDS] | EDC Lab B2 (317) | EDC Lab B2 (317) | - | - |
-| **Wed** | - | - | DE-I Lab B1 (311) | DE-I Lab B1 (311) | - | - | - | - | - |
-| **Thu** | NAS [RS] (314) | EDC [DRS] (203) | VLSI [SW] (203) | - | NAS Lab B1 (303) | NAS Lab B1 (303) | DE-I Lab B2 (311) | DE-I Lab B2 (311) | - |
-| **Fri** | VLSI [SW] (204) | VLSI [SW] (204) | DE-I [PKS] (203) | NAS [RS] (204) | VLSI Lab (303) | VLSI Lab (303) | - | - | - |
-| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
-| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
-| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+### 3rd YEAR – CSE-B (Computer Science B)
+
+**MONDAY**
+09:00–10:00: NTI (A) – Network Technologies & Interfacing (Room 204, AS)
+09:00–10:00: DIP – Digital Image Processing (Room 203, AKG)
+10:00–11:00: NTI (A) – Network Technologies & Interfacing (Room 204, AS)
+10:00–11:00: DIP – Digital Image Processing (Room 203, AKG)
+11:00–13:00: TOC – Theory of Computation (Room R4, UK)
+14:00–15:00: TOC Tutorial (T, B1) (Room R4, UK)
+15:00–16:00: TOC Tutorial (T, B2) (Room R4, UK)
+
+**TUESDAY**
+09:00–10:00: NTI (A) (Room 214, AS)
+09:00–11:00: DIP Lab (B1) (Room 204, GS)
+11:00–13:00: AIML – Artificial Intelligence & Machine Learning (Room R2, SY)
+14:00–16:00: CN Lab (B2) (Room R3, JS)
+14:00–16:00: AIML Lab (B1) (Room R4, SY)                                                                                                                                                                                                 WEDNESDAY
+
+**WEDNESDAY**
+08:00–10:00: NTI A Lab (A1) (Room 217, JS)
+08:00–10:00: ST Lab (Room 216, PRT)
+09:00–10:00: DIP (Room 203, AKG)
+11:00–12:00: ESMS – Engineering & Service Management Systems (Room 216, SG)
+12:00–13:00: TOC – Theory of Computation (Room R4, UK)
+14:00–16:00: NN (B) – Neural Networks (Room R2, US)
+16:00–18:00: NN Lab (B1) (Room R2, US)
+16:00–18:00: ST (Software Testing) (Room 203, PRT)
+
+**THURSDAY**                                                                                                                                                                                                                                                           08:00–09:00: ST – Software Testing (Room 203, PRT)
+09:00–11:00: NTI A Lab (A2) (Room 303, JS)
+09:00–11:00: DIP Lab (B2) (Room 204, GS)
+11:00–12:00: AIML (Room R2, SY)
+12:00–13:00: CN – Computer Networks (Room R2, JS)
+14:00–16:00: CN Lab (B1) (Room R1, JS)
+14:00–16:00: AIML Lab (B2) (Room R4, SY)
+16:00–18:00: NN Lab (B2) (Room R2, US)                                                                                                                                                                                                      FRIDAY
+
+**FRIDAY**
+09:00–10:00: ESMS (Room 216, SG)
+11:00–13:00: CN – Computer Networks (Room R1, JS)
+13:00–14:00: ESMS – Engineering & Service Management Systems (Room 216, SG)
+14:00–16:00: ESMS Lab (Room 513, SG)
+17:00–18:00: NN – Neural Networks (Room R2, US)
 
 ---
 
-## 2nd Year: EE
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | EM1 [SG] (213) | EM1 [SG] (213) | AEW A2 (212) | ENA Lab A1 (211) | AEW A2 (212) | ENA Lab A1 (211) | AEW A2 (212) | ADEC Lab A1 (317) | ADEC Lab A1 (317) |
-| **Tue** | ADEC [AKS] (204) | ADEC [AKS] (204) | ENA Lab A2 (211) | ENA Lab A2 (211) | ADEC Lab A2 (317) | ADEC Lab A2 (317) | - | - | - |
-| **Wed** | ENA [JP] (214) | EM1 Lab A2 (212) | ENA [JP] (214) | EM1 Lab A2 (212) | EMI Lab A1 (212) | ADEC [AKS] (216) | EMI Lab A1 (212) | EMI [SG] (216) | - |
-| **Thu** | EM1 Lab A2 (212) | EM1 Lab A2 (212) | ADEC [AKS] (216) | EM1 [SG] (216) | EVS-II [UDS] (216) | EVS-II [UDS] (216) | ER [RJS] (216) | VLSI [SW] (203) | - |
-| **Fri** | ER [RJS] (203) | VLSI [SW] (204) | ER [RJS] (203) | VLSI [SW] (204) | ENA [JP] (213) | - | ER Lab (513) | VLSI Lab (303) | - |
-| **Sat** | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | DE B1 [MJ] (203) | - | - | - | - | - |
-| **Sat** | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | DE B2 [HM] (213) | - | - | - | - | - |
-| **Sat** | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | DE B3 [AP] (214) | - | - | - | - | - |
+### 3rd YEAR – ECE-A (Electronics & Communication Engineering A)
+
+**MONDAY**
+09:00–11:00: AVLSI Lab (B1) (Room 303/317, KS)
+09:00–11:00: NTI B B1 Lab (Room 217, JS)
+09:00–11:00: DIP – Digital Image Processing (Room 203, AKG)
+11:00–13:00: FCN – Fundamentals of Communication Networks (Room R2, SK)
+14:00–15:00: ACS – Advanced Communication Systems (Room 214, GS)
+15:00–16:00: Control System Engg. (Room 214, DP)
+16:00–18:00: NN (Neural Networks) – A (Room 214, US)
+
+**TUESDAY**
+09:00–11:00: AVLSI Lab (B2) (Room 303/317, KS)
+09:00–11:00: DIP Lab (B1) (Room 204, GS)
+10:00–11:00: NTI (Room 214, AS)
+11:00–13:00: Control System Engg. (Room 214, DP)
+14:00–16:00: DSP – Digital Signal Processing (Room 214, AKG)
+16:00–18:00: NN A1 Lab (Room 214, US)
+16:00–18:00: FDBMS (Room R3, GB)
+
+**WEDNESDAY**
+09:00-10:00:AVLSI(Room 204,KS)
+08:00–10:00: NTI (Room 314, AS)
+08:00–10:00: ST Lab – Software Testing (Room 216, PRT)
+09:00–10:00: DIP – Digital Image Processing (Room 203, AKG)
+10:00–11:00: ACS – Advanced Communication Systems (Room 214, GS)
+11:00–13:00: DSP Lab (A2) (Room 312, AKG)
+11:00–13:00: Control System Engg. Lab (A1) (Room 303, DP)
+14:00–16:00: FCN Lab (B1) (Room R4, SK)
+15:00–16:00: SRE – Software Reliability Engineering (Room 303, UK)
+16:00–18:00: FCN Lab (B2) (Room R4, SK)
+16:00–18:00: SRE Lab (Room 317, JJ)
+16:00–18:00: ST – Software Testing (Room 203, PRT)
+
+**THURSDAY**
+08:00–09:00: ST – Software Testing (Room 203, PRT)
+09:00–11:00: AVLSI (Room 203, KS)
+09:00–11:00: NTI B2 Lab (Room 311, AS)
+09:00–11:00: DIP Lab (B2) (Room 204, GS)
+11:00–13:00: NN A2 Lab (Room 214, US)
+14:00–15:00: DSP (Room 214, AKG)
+15:00–16:00: ACS (Room 214, GS)
+16:00–18:00: FDBMS Lab (Room R4, GB)
+
+**FRIDAY**
+09:00–10:00: FDBMS (Room R3, GB)
+09:00–11:00: SRE (Room 303, UK)
+10:00–11:00: FCN (Room 214, SK)
+11:00–13:00: Control System Engg. Lab (A2) (Room 303, DP)
+11:00–13:00: ACS Lab (A1) (Room 311, GS)
+14:00–16:00: DSP Lab (A1) (Room 312, AKG)
+14:00–16:00: ACS Lab (A2) (Room 311, GS)
+16:00–17:00: NN – Neural Networks (Room 214, US)
 
 ---
 
-## 3rd Year: CSE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | NTI A [AS] (204) | NTI A [AS] (204) | CN Lab A1 (204) | CN Lab A1 (204) | CN Lab A2 (303) | CN Lab A2 (303) | DIP [AKG] (203) | DIP [AKG] (203) | - |
-| **Tue** | AIML Lab A2 (216) | AIML Lab A2 (216) | AIML Lab A1 (217) | AIML Lab A1 (217) | NN A [US] (214) | NN A [US] (214) | CN [JS] (314) | CN [JS] (314) | - |
-| **Wed** | CN [JS] (203) | AIML [SY] (203) | ESMS [SG] (216) | TOC [SNK] (204) | TOC [SNK] (204) | TOC Tut A1 (216) | TOC Tut A2 (216) | NN Lab A1 (214) | NN Lab A1 (214) |
-| **Thu** | ST [PRT] (203) | NN Lab A2 (312) | NN Lab A2 (312) | - | - | - | - | - | - |
-| **Fri** | ESMS [SG] (216) | TOC [SNK] (213) | AIML [SY] (213) | ST [PRT] (203) | ST [PRT] (203) | - | - | - | - |
+### 3rd YEAR – ECE-B (Electronics & Communication Engineering B)
+
+**MONDAY**
+09:00–11:00: AVLSI Lab (B1) (Room 303/317, KS)
+09:00–11:00: NTI Lab (B1) (Room 217, JS)
+09:00–11:00: DIP – Digital Image Processing (Room 203, AKG)
+11:00–13:00: FCN – Fundamentals of Communication Networks (Room R2, SK)
+14:00–15:00: ACS – Advanced Communication Systems (Room 313, GSC)
+15:00–17:00: DSP – Digital Signal Processing (Room 313, AKG)
+
+**TUESDAY**
+09:00–11:00: AVLSI Lab (B2) (Room 303/317, KS)
+09:00–11:00: DIP Lab (B1) (Room 204, GS)
+10:00–11:00: NTI (B) (Room 214, AS)
+11:00–13:00: Control System Engineering Lab (B1) (Room 303, VJ)
+11:00–13:00: DSP Lab (B2) (Room 312, AKG)
+14:00–16:00: Control System Engineering Lab (B2) (Room 303, VJ)
+14:00–16:00: ACS Lab (B1) (Room 317, GSC)
+16:00–18:00: FDBMS – Fundamentals of DBMS (Room R3/R4, GB)
+
+**WEDNESDAY**
+08:00–10:00: NTI (B) (Room 314, AS)
+08:00–10:00: ST Lab – Software Testing (Room 216, PRT)
+09:00–10:00: DIP – Digital Image Processing (Room 203, AKG)
+10:00–11:00: ACS – Advanced Communication Systems (Room 314, GSC)
+11:00–12:00: ESMS (Room 216, SG)
+12:00–13:00: Control System Engineering (Room 314, VJ)
+14:00–16:00: FCN Lab (B1) (Room R4, SK)
+14:00–16:00: NN – Neural Networks (Room R2, US)
+15:00–16:00: SRE (Software Reliability Engineering) (Room 303, UK)
+16:00–18:00: SRE Lab (Room 317, JJ)
+16:00–18:00: FCN Lab (B2) (Room R4, SK)
+16:00–18:00: NN Lab (B1) (Room R2, US)
+16:00–18:00: ST – Software Testing (Room 203, PRT)
+
+**THURSDAY**
+08:00–09:00: ST – Software Testing (Room 203, PRT)
+09:00–11:00: AVLSI (Room 203, KS)
+09:00–11:00: NTI Lab (B2) (Room 311, AS)
+09:00–11:00: DIP Lab (B2) (Room 204, GS)
+11:00–13:00: Control System Engineering (Room 313, VJ)
+14:00–15:00: ACS – Advanced Communication Systems (Room 313, GSC)
+15:00–16:00: DSP – Digital Signal Processing (Room 313, AKG)
+16:00–18:00: NN Lab (B2) (Room R2, US)
+16:00–18:00: FDBMS Lab (Room R4, GB)
+
+**FRIDAY**
+09:00–10:00: ESMS (Room 216, SG)
+09:00–10:00: FDBMS (Room R3, GB)
+09:00–11:00: SRE (Room 303, UK)
+10:00–11:00: FCN (Room 214, SK)
+11:00–13:00: ACS Lab (B2) (Room 317, GSC)
+11:00–13:00: DSP Lab (B1) (Room 312, AKG)
+13:00–14:00: ESMS (Room 216, SG)
+14:00–16:00: ESMS Lab (Room 513, SG)
+17:00–18:00: NN – Neural Networks (Room R2, US)
 
 ---
 
-## 3rd Year: CSE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | TOC [UK] (R4) | TOC [UK] (R4) | TOC Tut B1 (R4) | TOC Tut B2 (R4) | - | - | - | - | - |
-| **Tue** | AIML [SY] (R2) | AIML [SY] (R2) | NTI A [AS] (204) | DIP [AKG] (203) | DIP [AKG] (203) | NTI A [AS] (214) | CN Lab B2 (R3) | CN Lab B2 (R3) | DIP Lab B1 (204) |
-| **Wed** | CN [JS] (R1) | ST [PRT] (203) | ST [PRT] (203) | ESMS [SG] (216) | TOC [UK] (R4) | ESMS [SG] (216) | ESMS Lab (513) | ESMS Lab (513) | NN B [US] (R2) |
-| **Thu** | ST [PRT] (203) | AIML [SY] (R2) | CN [JS] (R2) | NTI Lab A1 (217) | NTI Lab A1 (217) | NN B [US] (R2) | NN B [US] (R2) | NN Lab B1 (R2) | NN Lab B1 (R2) |
-| **Fri** | ESMS [SG] (216) | CN [JS] (R1) | DIP [AKG] (203) | ST Lab (216) | ST Lab (216) | NTI Lab A2 (303) | NTI Lab A2 (303) | CN Lab B1 (R1) | CN Lab B1 (R1) |
+### 3rd YEAR – EE (Electrical Engineering)
 
+**MONDAY**
+09:00–11:00: AVLSI Lab (B1) (Room 303/317, KS)
+09:00–11:00: NTI Lab (B1) (Room 217, JS)
+09:00–11:00: DIP – Digital Image Processing (Room 203, AKG)
+11:00–13:00: FCN – Flexible Communication Networks (Room R2, SK)
+14:00–16:00: PSA Lab (A1) (Room 312, AT)
+14:00–16:00: EMT Lab (A2) (Room 219, UJS)
+16:00–17:00: Control Systems (Room 213, DP)
+17:00–18:00: EMT – Electromagnetic Theory (Room 204, UJS)
+
+**TUESDAY**
+09:00–11:00: AVLSI Lab (B2) (Room 303/317, KS)
+09:00–11:00: DIP Lab (B1) (Room 204, GS)
+10:00–11:00: NTI (B) (Room 214, AS)
+11:00–13:00: EMT – Electromagnetic Theory (Room 213, UJS)
+14:00–16:00: Control Systems Lab (A2) (Room 217, DP)
+14:00–16:00: EMT Lab (A1) (Room 219, UJS)
+16:00–18:00: FDBMS – Fundamentals of Database Management Systems (Room R3, GB)                                                                                                           WEDNESDAY
+
+**WEDNESDAY**
+09:00–10:00: AVLSI (Room 204, KS)
+08:00–10:00: NTI (B) (Room 314, AS)
+09:00–10:00: DIP – Digital Image Processing (Room 203, AKG)
+08:00–10:00: ST Lab – Software Testing (Room 216, PRT)
+11:00–12:00: ESMS – Engineering Systems & Management Studies (Room 216, SG)
+11:00–12:00: UEP – Universal Energy Principles (Room 204, UJS)
+13:00–14:00: PSA (Room 213, AT)
+14:00–16:00: FCN Lab (B1) (Room R4, SK)
+14:00–16:00: NN (B) – Neural Networks (Room R2, US)
+16:00–18:00: FCN Lab (B2) (Room R4, SK)
+16:00–18:00: NN (B1) Lab (Room R2, US)
+16:00–18:00: ST (Room 203, PRT)                                                                                                                                                                                                                THURSDAY
+
+**THURSDAY**
+08:00–09:00: ST – Software Testing (Room 203, PRT)
+09:00–11:00: AVLSI (Room 203, KS)
+09:00–11:00: NTI Lab (B2) (Room 311, AS)
+09:00–11:00: DIP Lab (B2) (Room 204, GS)
+11:00–13:00: Control Systems (Room 203, DP)
+14:00–16:00: Control Systems Lab (A1) (Room 303, DP)
+14:00–16:00: PSA Lab (A2) (Room 312, AT)
+16:00–18:00: NN (B2) Lab (Room R2, US)
+16:00–18:00: FDBMS Lab (Room R4, GB)
+
+**FRIDAY**
+09:00–10:00: ESMS (Room 216, SG)
+09:00–10:00: FDBMS (Room R3, GB)
+10:00–11:00: FCN (Room 214, SK)
+11:00–13:00: PSA – Power System Analysis (Room 203, AT)
+13:00–14:00: ESMS (Room 216, SG)
+14:00–16:00: UEP – Universal Energy Principles (Room 203, UJS)
+14:00–16:00: ESMS Lab (Room 513, SG)
+16:00–17:00: UEP Tutorial (Room 203, UJS)
+17:00–18:00: NN – Neural Networks (Room R2, US)
 ---
 
-## 3rd Year: ECE-A
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | ACS [GS] (214) | AVLSI Lab B1 (303) | NTI Lab B1 (217) | NTI Lab B1 (217) | DIP [AKG] (203) | AVLSI Lab B2 (303) | AVLSI Lab B2 (303) |
-| **Tue** | Control Sys [DP] (214) | Control Sys [DP] (214) | DSP [AKG] (214) | DSP [AKG] (214) | NN A Lab A1 (214) | NTI B [AS] (214) | DIP Lab B1 (204) | FDBMS [GB] (R3) | AVLSI [KS] (204) |
-| **Wed** | ACS [GS] (214) | DSP Lab A2 (312) | Control Sys Lab A1 (303) | Control Sys Lab A1 (303) | Control Sys [DP] (214) | NN A [US] (214) | NN A [US] (214) | - | - |
-| **Thu** | ST [PRT] (203) | NN A Lab A2 (214) | NN A Lab A2 (214) | DSP [AKG] (214) | ACS [GS] (214) | FDBMS Lab (R4) | FDBMS Lab (R4) | NTI B [AS] (314) | SRE [UK] (303) |
-| **Fri** | NN A [US] (214) | ST [PRT] (203) | ST [PRT] (203) | DIP [AKG] (203) | ST Lab (216) | AVLSI [KS] (203) | AVLSI [KS] (203) | NTI Lab B2 (311) | DIP Lab B2 (204) |
+###  SUBJECT ACRONYMS
+**1st Year:**
+M1: Maths-1 | PHY: Physics | FCP: Computer Programming | IEEE: Intro to EE/Electronics | EW: Electrical Workshop | ECW: Electronics Workshop | CW: Computer Workshop | HBT: Hindi Bhasha | EF: English Fluency | FL: Financial Literacy
 
----
+**2nd Year:**
+ADA: Algorithms | DBMS: Database Systems | PSCS: Probability & Stats | DSD: Digital System Design | FCS: Cyber Security | VLSI: VLSI Design | VM-II: Vedic Maths | ER: Energy Resources | EDC: Electronic Devices | DE-I: Digital Electronics | NAS: Network Analysis | EM1: Electrical Machines | ENA: Electrical Networks | ADEC: Analog & Digital Circuits | EVS-II: Environmental Science
 
-## 3rd Year: ECE-B
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | AVLSI Lab B1 (303) | NTI Lab B1 (217) | DIP [AKG] (203) | AVLSI Lab B2 (303) | Control Sys Lab B1 (303) | Control Sys Lab B1 (303) | Control Sys Lab B2 (303) |
-| **Tue** | FDBMS [GB] (R3) | FDBMS [GB] (R3) | NTI B [AS] (214) | DSP Lab B2 (312) | ACS Lab B1 (317) | DIP Lab B1 (204) | AVLSI [KS] (204) | FCN Lab B1 (R4) | FCN Lab B2 (R4) |
-| **Wed** | ACS [GSC] (314) | ESMS [SG] (216) | Control Sys [VJ] (314) | ACS [GSC] (313) | DSP [AKG] (313) | DSP [AKG] (313) | NTI B [AS] (314) | NN B [US] (R2) | NN Lab B1 (R2) |
-| **Thu** | Control Sys [VJ] (313) | ACS [GSC] (313) | DIP [AKG] (203) | SRE [UK] (303) | SRE Lab (317) | ST Lab (216) | ST [PRT] (203) | AVLSI [KS] (203) | NN Lab B2 (R2) |
-| **Fri** | ESMS [SG] (216) | ESMS Lab (513) | ESMS Lab (513) | ST [PRT] (203) | DIP Lab B2 (204) | FDBMS Lab (R4) | FCN [SK] (214) | ACS Lab B2 (317) | FDBMS [GB] (R3) |
+**3rd Year:**
+CN: Computer Networks | TOC: Theory of Computation | AIML: AI & ML | NN: Neural Networks | ST: Software Testing | ESMS: Energy Storage | GE/PE: Electives | OS: Operating Systems | WT: Web Tech | ML: Machine Learning | DSP: Signal Processing | EMT: Electromagnetics | ED: Electronic Design | PSA: Power Systems | [cite_start]PCA: Power Converters [cite: 192]
 
----
+### Faculty Acronyms
+AK | Dr. Amit Kumar / Dr. Ankit
+AKS | Mr. Ajay Kumar Sahu
+ANK | Dr. Ankit
+ASK | Dr. Anjali Sharma Kaushik
+AT | Dr. Arjun Tyagi
+HCT | Prof. H. C. Taneja
+JJ | Dr. Juhi Jain
+JP | Dr. Jeetendra Prasad / Dr. Jeetendra Pasad
+JS | Mr. Jatin Sharma
+JY | Dr. Jyoti
+OP | Dr. Om Prakash
+PS | Mr. Pawan Singhal
+PT | Dr. Pratima
+RH | Ms. Reha / Ms.. Reha
+RJS | Dr. Ranjeet Singh
+RR | Dr. Rekha R.
+SK | Dr. Sunil Kumar
+SNK | Ms. Shivani Kumari
+SVK | Dr. Sarvesh Kumar
+SW | Dr. Sweta Rani
+SY | Dr. Sangeeta Yadav
+TK | Ms. Tanya Khaneja
+TNK | Ms. Tanishka
+UJS | Dr. Ujjal Sur
+UK | Dr. Utkarsh
+US | Mr. Unmesh Shukla
+VA | Dr. Vijay Azad
+VJ | Dr. Vanita Jain
+VNK | Dr. Vineet Kumar
+YG | Dr. Yogeeta Garg
 
-## 3rd Year: EE
-| Day | 09:00-10:00 | 10:00-11:00 | 11:00-12:00 | 12:00-13:00 | 13:00-14:00 | 14:00-15:00 | 15:00-16:00 | 16:00-17:00 | 17:00-18:00 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Mon** | FCN [SK] (R2) | FCN [SK] (R2) | Control Sys [DP] (213) | EMT [UJS] (204) | AVLSI Lab B1 (303) | PSA Lab A1 (312) | NTI Lab B1 (217) | EMT Lab A2 (219) | DIP [AKG] (203) |
-| **Tue** | EMT [UJS] (213) | EMT [UJS] (213) | AVLSI Lab B2 (303) | Control Sys Lab A2 (217) | NTI B [AS] (214) | EMT Lab A1 (219) | DIP Lab B1 (204) | AVLSI [KS] (204) | FCN Lab B1 (R4) |
-| **Wed** | ESMS [SG] (216) | PSA [AT] (213) | UEP [UJS] (204) | NTI B [AS] (314) | DIP [AKG] (203) | ST Lab (216) | ST [PRT] (203) | AVLSI [KS] (203) | Control Sys Lab A1 (303) |
-| **Thu** | Control Sys [DP] (203) | Control Sys [DP] (203) | NN Lab B2 (R2) | ST [PRT] (203) | NTI Lab B2 (311) | PSA Lab A2 (312) | FDBMS Lab (R4) | DIP Lab B2 (204) | ESMS [SG] (216) |
-| **Fri** | FCN [SK] (214) | PSA [AT] (203) | PSA [AT] (203) | ESMS [SG] (216) | FDBMS [GB] (R3) | UEP [UJS] (203) | UEP Tut (203) | FDBMS [GB] (R3) | ESMS Lab (513) |
+### Faculty Acronyms (2nd Year)
+AKT | Prof. A. K. Tandon
+AKS | Mr. Ajay Kumar Sahu
+AP | Mr. Anil Pathak
+AT | Dr. Arjun Tyagi
+DRB | Prof. D. R. Bhaskar
+DRS | Dr. Diptiranjan Samantaray
+EKL | Dr. Eklavya
+GB | Ms. Geetanjali Bhola / Mrs. Geetanjali Bhola
+GS | Dr. Gurinder Singh
+HM | Mr. Hemender
+JJ | Dr. Juhi Jain
+JP | Dr. Jeetendra Prasad
+KS | Mr. Khushwant Sehra
+MJ | Mr. Mitesh Jain
+PKS | Prof. P. K. Singh
+RJS | Dr. Ranjeet Singh
+RR | Dr. Rekha R.
+RS | Prof. Raj Senani
+SBJ | Prof. Shailbala Jain
+SG | Dr. Shubham Gupta
+SK | Dr. Sunil Kumar
+SU | Mr. Sumit
+SW | Dr. Sweta Rani
+UDS | Dr. Udita Sharma
 
----
+### Faculty Acronyms (3rd Year)
+AKG | Dr. Ajay Kumar Gupta
+AS | Dr. Amit Sanyal
+AT | Dr. Arjun Tyagi
+DP | Dr. Deepika
+GB | Ms. Geetanjali Bhola / Dr. Geetanjali Bhola / Ms. Geetanjali
+GS | Dr. Gurinder Singh
+GSC | Prof. G. S. Chilana
+JJ | Dr. Juhi Jain
+JS | Mr. Jatin Sharma / Dr. Jatin Sharma
+KS | Mr. Khushwant Sehra
+PRT | Dr. Praveen Thakur
+SG | Dr. Shubham / Dr. Shubham Gupta
+SK | Dr. Sunil Kumar
+SNK | Ms. Shivani Kumari
+SY | Dr. Sangeeta Yadav
+UJS | Dr. Ujjal Sur
+UK | Dr. Utkarsh
+US | Dr. Unmesh Shukla / Mr. Unmesh Shukla
+VJ | Dr. Vanita Jain
 
-## Faculty Key
-* **UJS:** Dr. Ujjal Sur
-* **HCT:** Prof. H. C. Taneja
-* **UK:** Dr. Utkarsh
-* **AKS:** Mr. Ajay Kumar Sahu
-* **TK:** Ms. Tanya Khaneja
-* **AT:** Dr. Arjun Tyagi
-* **AK:** Dr. Amit Kumar (Also listed as Dr. Ankit in some contexts)
-* **VA:** Dr. Vijay Azad
-* **TNK:** Ms. Tanishka
-* **PT:** Dr. Pratima
-* **SVK:** Dr. Sarvesh Kumar
-* **JJ:** Dr. Juhi Jain
-* **US:** Mr. Unmesh Shukla
-* **JP:** Dr. Jeetendra Prasad
-* **ASK:** Dr. Anjali Sharma Kaushik
-* **YG:** Dr. Yogeeta Garg
-* **RH:** Ms. Reha
-* **RJS:** Dr. Ranjeet Singh
-* **SNK:** Ms. Shivani Kumari
-* **SW:** Dr. Sweta Rani
-* **PS:** Mr. Pawan Singhal
-* **VNK:** Dr. Vineet Kumar
-* **JY:** Dr. Jyoti
-* **SY:** Dr. Sangeeta Yadav
-* **ANK:** Dr. Ankit
-* **SK:** Dr. Sunil Kumar
-* **OP:** Dr. Om Prakash
-* **RR:** Dr. Rekha R.
-* **JS:** Mr. Jatin Sharma
-* **KS:** Mr. Khushwant Sehra
-* **SU:** Mr. Sumit
-* **MJ:** Mr. Mitesh Jain
-* **HM:** Mr. Hemender
-* **AP:** Mr. Anil Pathak
-* **GB:** Ms. Geetanjali Bhola
-* **EKL:** Dr. Eklavya
-* **GS:** Dr. Gurinder Singh
-* **DRS:** Dr. Diptiranjan Samantaray
-* **DRB:** Prof. D. R. Bhaskar
-* **PKS:** Prof. P. K. Singh
-* **RS:** Prof. Raj Senani
-* **SBJ:** Prof. Shailbala Jain
-* **UDS:** Dr. Udita Sharma
-* **SG:** Dr. Shubham Gupta
-* **AKT:** Prof. A. K. Tandon
-* **AS:** Dr. Amit Sanyal
-* **AKG:** Dr. Ajay Kumar Gupta
-* **PRT:** Dr. Praveen Thakur
-* **GSC:** Prof. G. S. Chilana
-* **DP:** Dr. Deepika
-* **VJ:** Dr. Vanita Jain
+## 📚 Subject Acronym Key
 
----
+### 1st Year Subjects
+CW | Computer Workshop
+ECW | Electronics Workshop
+EF1 | English Fluency-1
+EW | Electrical Workshop
+FCP | Fundamentals of Computer Programming
+FL | Financial Literacy
+HBT | Hindi Bhasha and Takneek
+IEEE | Introduction of Electrical and Electronics Engineering
+M1 | Mathematics-1
+PHY | Physics
 
-## Subject Acronyms (1st Year)
-* **CW:** Computer Workshop
-* **ECW:** Electronics Workshop
-* **EF1:** English Fluency-1
-* **EW:** Electrical Workshop
-* **FCP:** Fundamentals of Computer Programming
-* **FL:** Financial Literacy
-* **HINDI BT:** Hindi Bhasha and Takneek
-* **IEEE:** Introduction of Electrical and Electronics Engineering
-* **M1:** Mathematics-1
-* **PHY:** Physics
+### 2nd Year Subjects
+ADA | Analysis and Design of Algorithms
+ADEC | Analog and Digital Electronics Circuits
+AEW | Advanced Electrical Workshop
+DBMS | Database Management System
+DE | Digital Empowerment
+DE-I | Digital Electronics-I
+DSD | Digital System Design
+EDC | Electronic Devices and Circuits
+EM-I | Electrical Machines-I
+ENA | Electrical Network Analysis
+ER | Energy and its Resources
+EVS-II | Environmental Science-II
+FCS | Fundamentals of Cyber Security
+NAS | Network Analysis and Sythesis
+PSCS | Probability and Statistics for Computer Science
+VLSI | VLSI Technology and Design
+VM-II | Vedic Maths-II
+SRE | Software Requirement Engineering
+FDBMS | Fundamentals of DBMS
 
-## Subject Acronyms (2nd & 3rd Year)
-* **ADA:** Analysis and Design of Algorithms
-* **ADEC:** Analog and Digital Electronics Circuits
-* **AEW:** Advanced Electrical Workshop
-* **DBMS:** Database Management System
-* **DE:** Digital Empowerment
-* **DE-I:** Digital Electronics-I
-* **DSD:** Digital System Design
-* **EDC:** Electronic Devices and Circuits
-* **EM-I:** Electrical Machines-I
-* **ENA:** Electrical Network Analysis
-* **ER:** Energy and its Resources
-* **EVS-II:** Environmental Science-II
-* **FCS:** Fundamentals of Cyber Security
-* **NAS:** Network Analysis and Synthesis
-* **PSCS:** Probability and Statistics for Computer Science
-* **VLSI:** VLSI Technology and Design
-* **VM-II:** Vedic Maths-II
-* **SRE:** Software Requirement Engineering
-* **FDBMS:** Fundamentals of DBMS
-* **ACS:** Analog Communication Systems
-* **AIML:** Artificial Intelligence and Machine Learning
-* **AVLSI:** Advanced Digital VLSI Circuits and Physical Design
-* **CN:** Computer Networks
-* **CTRL SYS:** Control System
-* **DSP:** Digital Signal Processing
-* **EMT:** Electromagnetic Field Theory
-* **ESMS:** Electrical Storage and Management System
-* **FCN:** Foundations of Computer Networks
-* **NN:** Neural Networks
-* **UEP:** Utilization of Electric Power
-* **PSA:** Power System Analysis
-* **ST:** Software Testing
-* **TOC:** Theory of Computation
-* **DIP:** Digital Image Processing
-* **NTI:** Network Technologies and Interfacing
+### 3rd Year Subjects
+ACS | Analog Communication Systems
+AIML | Artificial Intelligence and Machine Learning
+AVLSI | Advanced Digital VLSI Circuits and Physical Design
+CN | Computer Networks
+CTRL SYS | Control System
+CTRL SYSTEM ENGG | Control System Engineering
+DSP | Digital Signal Processing
+EMT | Electromagnetic Field Theory
+ESMS | Electrical Storage and Management System
+FCN | Foundations of Computer Networks
+NN | Neural Networks
+UEP | Utilization of Electric Power
+PSA | Power System Analysis
+ST | Software Testing
+TOC | Theory of Computation
+DIP | Digital Image Processing
+NTI | Network Technologies and Interfacing
