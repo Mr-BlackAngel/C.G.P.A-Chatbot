@@ -11,16 +11,25 @@ from supabase import create_client, Client
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- 1. SETUP ---
+# --- 1. SETUP ---
 current_file_path = os.path.abspath(__file__)
-backend_dir = os.path.dirname(current_file_path)
-project_root = os.path.dirname(backend_dir)
-frontend_dir = os.path.join(project_root, 'frontend')
-kb_path = os.path.join(backend_dir, 'knowledge_base.json')
-dotenv_path = os.path.join(project_root, '.env')
+base_dir = os.path.dirname(current_file_path) 
 
-# Paths for the "Trained Brain"
-vectorizer_path = os.path.join(backend_dir, 'vectorizer.pkl')
-matrix_path = os.path.join(backend_dir, 'tfidf_matrix.pkl')
+if os.path.exists(os.path.join(base_dir, 'frontend')):
+    frontend_dir = os.path.join(base_dir, 'frontend')
+    kb_path = os.path.join(base_dir, 'knowledge_base.json')
+    dotenv_path = os.path.join(base_dir, '.env')
+else:
+    project_root = os.path.dirname(base_dir)
+    frontend_dir = os.path.join(project_root, 'frontend')
+    kb_path = os.path.join(base_dir, 'knowledge_base.json') 
+    dotenv_path = os.path.join(project_root, '.env')
+
+print(f"📂 Frontend Dir: {frontend_dir}") # Debug log
+
+# Paths for the "Trained Brain" (Use base_dir, which is where app.py is)
+vectorizer_path = os.path.join(base_dir, 'vectorizer.pkl')
+matrix_path = os.path.join(base_dir, 'tfidf_matrix.pkl')
 
 load_dotenv(dotenv_path)
 
