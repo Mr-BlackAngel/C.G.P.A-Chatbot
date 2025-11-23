@@ -11,25 +11,38 @@ from supabase import create_client, Client
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- 1. SETUP ---
-# --- 1. SETUP ---
 current_file_path = os.path.abspath(__file__)
-base_dir = os.path.dirname(current_file_path) 
+base_dir = os.path.dirname(current_file_path)
 
+# --- DEBUGGING LOGS (Check Railway Logs if this fails) ---
+print(f"📍 App is running at: {base_dir}")
+try:
+    print(f"📂 Files in current folder: {os.listdir(base_dir)}")
+except Exception as e:
+    print(f"⚠️ Could not list files: {e}")
+
+# --- SMART PATH DETECTION ---
+# 1. Try finding 'frontend' in the same folder as app.py
 if os.path.exists(os.path.join(base_dir, 'frontend')):
     frontend_dir = os.path.join(base_dir, 'frontend')
-    kb_path = os.path.join(base_dir, 'knowledge_base.json')
-    dotenv_path = os.path.join(base_dir, '.env')
-else:
+    project_root = base_dir
+# 2. Try finding 'frontend' one level up (if app.py is in /backend)
+elif os.path.exists(os.path.join(os.path.dirname(base_dir), 'frontend')):
+    frontend_dir = os.path.join(os.path.dirname(base_dir), 'frontend')
     project_root = os.path.dirname(base_dir)
-    frontend_dir = os.path.join(project_root, 'frontend')
-    kb_path = os.path.join(base_dir, 'knowledge_base.json') 
-    dotenv_path = os.path.join(project_root, '.env')
+else:
+    # 3. Fallback (Will likely fail, but prints warning)
+    print("❌ CRITICAL ERROR: 'frontend' folder not found!")
+    frontend_dir = os.path.join(base_dir, 'frontend') 
+    project_root = base_dir
 
-print(f"📂 Frontend Dir: {frontend_dir}") # Debug log
-
-# Paths for the "Trained Brain" (Use base_dir, which is where app.py is)
+# Define other paths based on the detected root
+kb_path = os.path.join(base_dir, 'knowledge_base.json')
 vectorizer_path = os.path.join(base_dir, 'vectorizer.pkl')
 matrix_path = os.path.join(base_dir, 'tfidf_matrix.pkl')
+dotenv_path = os.path.join(project_root, '.env')
+
+print(f"✅ Frontend set to: {frontend_dir}")
 
 load_dotenv(dotenv_path)
 
