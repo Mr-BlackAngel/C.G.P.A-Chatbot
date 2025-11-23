@@ -10,39 +10,46 @@ from dotenv import load_dotenv
 from supabase import create_client, Client
 from sklearn.metrics.pairwise import cosine_similarity
 
-# --- 1. SETUP ---
+# --- 1. SETUP (DEEP SEARCH MODE) ---
 current_file_path = os.path.abspath(__file__)
 base_dir = os.path.dirname(current_file_path)
 
-# --- DEBUGGING LOGS (Check Railway Logs if this fails) ---
-print(f"📍 App is running at: {base_dir}")
-try:
-    print(f"📂 Files in current folder: {os.listdir(base_dir)}")
-except Exception as e:
-    print(f"⚠️ Could not list files: {e}")
+print(f"📍 STARTING DEEP SEARCH FROM: {base_dir}")
+frontend_dir = None
 
-# --- SMART PATH DETECTION ---
-# 1. Try finding 'frontend' in the same folder as app.py
-if os.path.exists(os.path.join(base_dir, 'frontend')):
+# 1. Search for index.html in the current directory tree
+for root, dirs, files in os.walk(base_dir):
+    if 'index.html' in files:
+        frontend_dir = root
+        print(f"✅ FOUND FRONTEND AT: {frontend_dir}")
+        break
+
+# 2. If not found, look one level up (in case app.py is in a subfolder)
+if not frontend_dir:
+    parent_dir = os.path.dirname(base_dir)
+    print(f"🔍 Searching parent dir: {parent_dir}")
+    for root, dirs, files in os.walk(parent_dir):
+        if 'index.html' in files:
+            frontend_dir = root
+            print(f"✅ FOUND FRONTEND AT: {frontend_dir}")
+            break
+
+# 3. Emergency Fallback
+if not frontend_dir:
+    print("❌ CRITICAL: index.html DOES NOT EXIST ON THIS SERVER.")
+    # Set a dummy path so it doesn't crash immediately, but UI will fail
     frontend_dir = os.path.join(base_dir, 'frontend')
-    project_root = base_dir
-# 2. Try finding 'frontend' one level up (if app.py is in /backend)
-elif os.path.exists(os.path.join(os.path.dirname(base_dir), 'frontend')):
-    frontend_dir = os.path.join(os.path.dirname(base_dir), 'frontend')
-    project_root = os.path.dirname(base_dir)
 else:
-    # 3. Fallback (Will likely fail, but prints warning)
-    print("❌ CRITICAL ERROR: 'frontend' folder not found!")
-    frontend_dir = os.path.join(base_dir, 'frontend') 
-    project_root = base_dir
+    # If we found frontend, we assume the project root is the parent of frontend
+    # This helps us find .env and other files correctly
+    project_root = os.path.dirname(frontend_dir)
+    kb_path = os.path.join(base_dir, 'knowledge_base.json')
+    vectorizer_path = os.path.join(base_dir, 'vectorizer.pkl')
+    matrix_path = os.path.join(base_dir, 'tfidf_matrix.pkl')
+    dotenv_path = os.path.join(project_root, '.env')
+    load_dotenv(dotenv_path)
 
-# Define other paths based on the detected root
-kb_path = os.path.join(base_dir, 'knowledge_base.json')
-vectorizer_path = os.path.join(base_dir, 'vectorizer.pkl')
-matrix_path = os.path.join(base_dir, 'tfidf_matrix.pkl')
-dotenv_path = os.path.join(project_root, '.env')
-
-print(f"✅ Frontend set to: {frontend_dir}")
+print(f"📂 Final Configured Frontend: {frontend_dir}")
 
 load_dotenv(dotenv_path)
 
